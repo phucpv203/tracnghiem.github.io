@@ -1,0 +1,1391 @@
+[
+  {
+    "question": "Biết rằng dung dịch chứa 80g hemoglobin/lít có áp suất thẩm thấu 0,026at, ở 4°C. Khối lượng mol phân tử của hemoglobin xấp xỉ bằng:",
+    "answers": ["69889g", "1009g", "7086086g", "69889g"],
+    "correct": 0,
+    "explanation": "Áp suất thẩm thấu được tính theo công thức π = C·R·T. Từ đó, ta suy ra nồng độ mol C = π / (R·T), biết khối lượng và thể tích dung dịch, suy ra khối lượng mol M = m / (C·V)."
+  },
+  {
+    "question": "Dung dịch chất C không điện li là 1,38g trong 100g nước đông đặc ở -0,279°C. Khối lượng mol của C? Biết Kđ = 1,86.",
+    "answers": ["92g", "90g", "82g", "80g"],
+    "correct": 0,
+    "explanation": "Độ hạ điểm đông ΔT = Kđ·Cm, với Cm = n chất tan / khối lượng dung môi (kg). Từ ΔT và Kđ tính được Cm, suy ra số mol và khối lượng mol M = m/n."
+  },
+  {
+    "question": "Một dung dịch chứa 17,1g chất tan không bay hơi trong 500g nước đông đặc ở -0,186°C. Khối lượng mol của chất tan? Biết Kđ = 1,86",
+    "answers": ["342g", "171g", "340g", "170g"],
+    "correct": 0,
+    "explanation": "Dựa vào công thức ΔT = Kđ·Cm, tính Cm = ΔT/Kđ. Từ Cm = n/m_dung_môi, ta tính số mol chất tan và khối lượng mol M = m/n."
+  },
+  {
+    "question": "Một dung dịch chứa 17,1g chất tan không bay hơi trong 500g nước đông đặc ở -0,186°C Tính nhiệt độ sôi của dung dịch? Biết Kđ = 1,86 và Ks = 0,52.",
+    "answers": ["100,052°C", "0,052°C", "99,948°C", "100°C"],
+    "correct": 0,
+    "explanation": "Sau khi tính Cm từ ΔT = Kđ·Cm, dùng công thức ΔT_sôi = Ks·Cm để tìm độ tăng nhiệt độ sôi. Nhiệt độ sôi dung dịch = 100 + ΔT_sôi."
+  },
+  {
+    "question": "Dung dịch nước của một chất A không điện li 0,192g trong 100ml dung dịch ở 32°C, có áp suất thẩm thấu bằng bao nhiêu? Biết M_A = 60g.",
+    "answers": ["0,8at", "0,084at"],
+    "correct": 0,
+    "explanation": "Áp suất thẩm thấu π = C·R·T, trong đó C = n/V = (m/M)/V. Thay số vào công thức để tính π (đơn vị at)."
+  },
+  {
+    "question": "Áp suất thẩm thấu của dung dịch 5gam/lít glucose ở 25°C?",
+    "answers": ["0,6at", "0,06at", "0,68at", "0,068at"],
+    "correct": 2,
+    "explanation": "Áp dụng π = C·R·T, với C = (5/180) mol/L, R = 0,082 l·at/mol·K, T = 298 K. Kết quả xấp xỉ 0,68 at."
+  },
+  {
+    "question": "Phải lấy bao nhiêu gam glucose tan trong 150g nước để hạ nhiệt độ đông đặc của dung dịch thu được xuống 0,75°C. Biết Kđ = 1,86",
+    "answers": ["10,89g", "12,5g", "60,48g", "8,9g"],
+    "correct": 0,
+    "explanation": "Từ ΔT = Kđ·Cm ⇒ Cm = ΔT/Kđ. Với Cm = n/m_dung_môi, ta suy ra số mol và khối lượng chất tan cần thiết."
+  },
+  {
+    "question": "Dung dịch glucose có độ hạ điểm đông là 0,930°. Nhiệt độ sôi của dung dịch là bao nhiêu? Biết Kđ = 1,86 và Ks = 0,52.",
+    "answers": ["100,26°C", "100,026°C", "0,26°C", "0,026°C"],
+    "correct": 0,
+    "explanation": "Từ ΔT_đ = Kđ·Cm ⇒ Cm = ΔT_đ/Kđ. Sau đó ΔT_s = Ks·Cm. Nhiệt độ sôi dung dịch = 100 + ΔT_s."
+  },
+  {
+    "question": "Không thể sử dụng phương pháp sau để xác định khối lượng mol của chất.",
+    "answers": ["Đo áp suất thẩm thấu", "Đo độ tăng điểm sôi", "Đo độ hạ điểm đông", "Đo thể tích dung dịch."],
+    "correct": 3,
+    "explanation": "Đo thể tích dung dịch không cho biết số mol hoặc nồng độ, nên không thể xác định khối lượng mol của chất."
+  },
+  {
+    "question": "Dung dịch chứa 0,217gam lưu huỳnh trong 19,31gam CS₂ có độ tăng điểm sôi là 0,104°; Ks(CS₂) là 2,37. Xác định số nguyên tử lưu huỳnh trong một phân tử khi tan trong CS₂. Biết M_S = 32.",
+    "answers": ["6", "7", "8", "9"],
+    "correct": 2,
+    "explanation": "Dùng công thức ΔT = Ks·Cm để tính Cm, từ đó suy ra khối lượng mol M của chất tan. So sánh M với 32·n để tìm n (số nguyên tử S trong phân tử)."
+  },
+  {
+    "question": "Các kí hiệu của các loại nồng độ, ngoại trừ",
+    "answers": ["C_M", "C_n", "C_m", "C_%", "C_p"],
+    "correct": 4,
+    "explanation": "Các ký hiệu chuẩn gồm: C_M (mol/lít), C_m (molal), C_% (phần trăm khối lượng), C_n không phổ biến; C_p không phải ký hiệu dùng cho nồng độ dung dịch."
+  },
+  {
+    "question": "Mệnh đề nào sai khi nói về áp suất hơi của chất lỏng:",
+    "answers": [
+      "Áp suất hơi bão hòa của chất lỏng là áp suất gây nên bởi các phân tử của nó trên mặt thoáng chất lỏng.",
+      "Áp suất hơi bão hòa là áp suất hơi tạo nên trên mặt thoáng khi quá trình bay hơi cân bằng.",
+      "Áp suất hơi tỉ lệ nghịch với nhiệt độ chất lỏng.",
+      "Áp suất hơi bão hòa của dung dịch chứa chất tan không bay hơi cao hơn dung môi."
+    ],
+    "correct": 2,
+    "explanation": "Áp suất hơi tăng khi nhiệt độ tăng, nên nói 'tỉ lệ nghịch với nhiệt độ' là sai."
+  },
+  {
+    "question": "Mệnh đề nào sai",
+    "answers": ["K_s là hằng số nghiệm sôi", "K_đ là hằng số nghiệm đông", "K_s và K_đ chỉ phụ thuộc vào dung môi.", "K_s và K_đ chỉ phụ thuộc vào chất tan."],
+    "correct": 3,
+    "explanation": "K_s và K_đ là hằng số đặc trưng cho dung môi, không phụ thuộc vào chất tan."
+  },
+  {
+    "question": "Khi xác định đương lượng gam của chất ta sử dụng công thức E = M/n, cách xác định n sai?",
+    "answers": [
+      "Đối với đơn chất, n là hóa trị",
+      "Đối với chất tham gia phản ứng oxy hóa – khử thì n là số electron mà 1 phân tử chất đó trao đổi.",
+      "Đối với chất tham gia phản ứng trao đổi thì n là tổng điện tích dương hoặc âm trong 1 phân tử chất.",
+      "Đối với hợp chất tham gia phản ứng acid-base thì n là số H+ (đối với acid) hoặc OH- (đối với base) trong 1 phân tử chất đó."
+    ],
+    "correct": 3,
+    "explanation": "Với hợp chất tham gia phản ứng acid–base, n là số ion H⁺ hoặc OH⁻ thực tế tham gia phản ứng, không nhất thiết bằng số H⁺ hoặc OH⁻ có trong công thức phân tử. Ví dụ H₃PO₄ có thể cho 1, 2 hoặc 3 H⁺ tùy phản ứng, nên cách xác định này là sai."
+  },
+  {
+    "question": "Áp suất thẩm thấu của dung dịch glucose (M = 180) đẳng trương 5% (5g/100ml) ở nhiệt độ thân nhiệt 37°C",
+    "answers": ["7,06at", "7,3at", "0,84at", "0,71at"],
+    "correct": 0,
+    "explanation": "Dùng công thức π = C·R·T, với C = 0,05 mol/L, R = 0,082, T = 310 K. Kết quả π ≈ 7,06 at."
+  },
+  {
+    "question": "Kích thước hạt tăng dần theo dãy các hệ phân tán sau: Dung dịch thực, hệ phân tán thô, dung dịch keo.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Thứ tự đúng phải là: dung dịch thực < dung dịch keo < hệ phân tán thô."
+  },
+  {
+    "question": "Dung dịch là một hệ đồng nhất của 2 hay nhiều chất có tỷ lệ khác nhau thay đổi trong một phạm vi rộng.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Dung dịch là hệ đồng nhất gồm hai hay nhiều chất, trong đó tỉ lệ giữa các cấu tử có thể thay đổi trong giới hạn nhất định."
+  },
+  {
+    "question": "Nồng độ dung dịch là đại lượng biểu thị lượng chất tan chứa trong một lượng xác định dung dịch hoặc dung môi.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Đây là định nghĩa đúng của nồng độ dung dịch theo lý thuyết hóa học cơ bản."
+  },
+  {
+    "question": "Nồng độ molan biểu thị số mol chất tan trong 100g dung môi",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Sai, vì nồng độ molan biểu thị số mol chất tan trong 1 kg dung môi (không phải 100g)."
+  },
+  {
+    "question": "Hiện tượng các phân tử dung môi khuếch tán từ dung dịch sang dung môi hoặc từ dung dịch có nồng độ cao sang dung dịch có nồng độ thấp là hiện tượng thẩm thấu.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Phát biểu sai vì trong hiện tượng thẩm thấu, dung môi khuếch tán từ dung dịch có nồng độ thấp (ít chất tan) sang dung dịch có nồng độ cao (nhiều chất tan) qua màng bán thấm."
+  },
+  {
+    "question": "Áp suất thẩm thấu tỷ lệ thuận với nồng độ và nhiệt độ của dung dịch",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Theo định luật Van’t Hoff: π = C·R·T, nên áp suất thẩm thấu tăng khi nồng độ hoặc nhiệt độ tăng."
+  },
+  {
+    "question": "Hiện tượng thẩm thấu có ý nghĩa sinh học quan trọng vì màng tế bào là các màng thẩm thấu.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Đúng. Màng tế bào có tính bán thấm, cho phép nước và một số chất khuếch tán qua, nên hiện tượng thẩm thấu đóng vai trò quan trọng trong cân bằng nước và trao đổi chất."
+  },
+  {
+    "question": "Khi đưa vào cơ thể (vào máu) dung dịch đẳng trương không gây teo hoặc vỡ hồng cầu",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Đúng. Dung dịch đẳng trương có áp suất thẩm thấu bằng máu, do đó hồng cầu không bị co (teo) hay vỡ (trương)."
+  },
+  {
+    "question": "Khi đưa vào cơ thể (vào máu) dung dịch ưu trương có thể gây vỡ hồng cầu",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Sai. Dung dịch ưu trương có áp suất thẩm thấu cao hơn máu, nước sẽ ra khỏi hồng cầu làm chúng teo lại, không phải vỡ."
+  },
+  {
+    "question": "Khi đưa vào cơ thể (vào máu) dung dịch nhược trương có thể gây teo hồng cầu",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Sai. Dung dịch nhược trương có áp suất thẩm thấu thấp hơn máu, nước sẽ đi vào hồng cầu làm chúng trương to và có thể vỡ ra."
+  },
+  {
+    "question": "Dựa vào định luật Van't Hoff người ta có thể xác định khối lượng mol của chất dựa vào việc đo áp suất thẩm thấu.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Đúng. Từ công thức π = (n/V)·R·T, có thể tính số mol và suy ra khối lượng mol M = m/n khi biết áp suất thẩm thấu π."
+  },
+  {
+    "question": "Một chất lỏng sôi khi P_hơi bão hòa = P_khí quyển",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Đúng. Khi áp suất hơi bão hòa của chất lỏng bằng áp suất khí quyển bên ngoài, chất lỏng bắt đầu sôi."
+  },
+  {
+    "question": "Nhiệt độ sôi của dung dịch chứa chất tan không bay hơi cao hơn dung môi nguyên chất.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Đúng. Khi có chất tan không bay hơi, áp suất hơi dung dịch giảm nên cần nhiệt độ cao hơn để sôi (hiện tượng tăng nhiệt độ sôi)."
+  },
+  {
+    "question": "Độ tăng điểm sôi hay độ hạ điểm đông tỷ lệ nghịch với nồng độ molan của dung dịch",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Sai. Theo công thức ΔT = K·Cm, độ tăng hoặc hạ nhiệt độ tỉ lệ thuận với nồng độ molan của dung dịch."
+  },
+  {
+    "question": "Hòa tan 12g CH₃COOH vào 0,8lít nước thu được 0,002mol CH₃COO⁻. Hỏi độ điện li α của CH₃COOH là bao nhiêu?",
+    "answers": ["1%", "2%", "0,1%", "10%"],
+    "correct": 0,
+    "explanation": "Số mol CH₃COOH ban đầu = 12/60 = 0,2 mol. Số mol ion CH₃COO⁻ tạo thành = 0,002 mol ⇒ α = 0,002/0,2 = 0,01 = 1%."
+  },
+  {
+    "question": "Cho dung dịch HF 0,05M, có độ điện li α = 0,4. Tính nồng độ H⁺ trong dung dịch?",
+    "answers": ["0,2M", "0,125M", "0,02M", "0,2M"],
+    "correct": 2,
+    "explanation": "Nồng độ ion H⁺ = C·α = 0,05·0,4 = 0,02M."
+  },
+  {
+    "question": "Nồng độ H⁺ trong dung dịch CH₃COOH 1M có K_a = 10⁻⁴·⁷⁵",
+    "answers": [
+      "10⁻⁴·⁷⁵M",
+      "1,32×10⁻³M",
+      "10⁻²·³⁷⁵M",
+      "10⁻²·³⁷M"
+    ],
+    "correct": 2,
+    "explanation": "Với CH₃COOH là axit yếu, có [H⁺] ≈ √(K_a × C). Thay K_a = 10⁻⁴·⁷⁵ và C = 1M → [H⁺] = √(10⁻⁴·⁷⁵) = 10⁻²·³⁷⁵M."
+  },
+  {
+    "question": "Một dung dịch chứa 0,2mol Na⁺, 0,1mol Mg²⁺, 0,005mol Ca²⁺, 0,15mol HCO₃⁻ và x mol Cl⁻. Giá trị x là",
+    "answers": [
+      "0,26mol",
+      "0,15mol",
+      "0,2mol",
+      "0,5mol"
+    ],
+    "correct": 0,
+    "explanation": "Dung dịch trung hòa điện tích: tổng điện tích dương = tổng điện tích âm. Tính: (0,2×1 + 0,1×2 + 0,005×2) = 0,41 mol điện tích dương. Mặt khác, điện tích âm = 0,15 (HCO₃⁻) + x(Cl⁻). Suy ra x = 0,26 mol."
+  },
+  {
+    "question": "Một dung dịch chứa 0,1mol Fe³⁺, 0,2mol Cl⁻, 0,2mol Al³⁺ và y mol SO₄²⁻. Khối lượng muối thu được là",
+    "answers": [
+      "46,9g",
+      "49,6g",
+      "75,7g",
+      "27,7g"
+    ],
+    "correct": 1,
+    "explanation": "Tổng điện tích dương = tổng điện tích âm: 3(0,1 + 0,2) = 0,2 + 2y → y = 0,35. Các muối tạo thành gồm FeCl₃, AlCl₃, Fe₂(SO₄)₃ và Al₂(SO₄)₃. Sau khi cân bằng theo tỉ lệ ion, tính được khối lượng muối thu được xấp xỉ 49,6 g → đáp án đúng là 49,6 g."
+  },
+  {
+    "question": "Dãy gồm tất cả các chất điện li mạnh là:",
+    "answers": [
+      "KOH, HNO₃, AlCl₃",
+      "Ba(NO₃)₂, CH₃COOH, H₂SO₄",
+      "NaOH, NH₃, ZnSO₄",
+      "Ba(NO₃)₂, Cu(OH)₂, NaCl"
+    ],
+    "correct": 0,
+    "explanation": "KOH, HNO₃ và AlCl₃ đều phân li hoàn toàn trong dung dịch → là các chất điện li mạnh."
+  },
+  {
+    "question": "Dung dịch X có pH = 12 thì [OH⁻] của dung dịch bằng bao nhiêu?",
+    "answers": [
+      "0,01M",
+      "0,1M",
+      "0,2M",
+      "1M"
+    ],
+    "correct": 0,
+    "explanation": "Vì pH = 12 nên pOH = 14 - 12 = 2. Suy ra [OH⁻] = 10⁻² = 0,01M."
+  },
+  {
+    "question": "Dung dịch HCl và dung dịch CH₃COOH có cùng nồng độ và α của CH₃COOH là 0,01. pH của 2 dung dịch tương ứng là x, y. Quan hệ giữa x và y là:",
+    "answers": [
+      "y = 10x",
+      "y = x - 2",
+      "y = x + 2",
+      "y = 2x"
+    ],
+    "correct": 2,
+    "explanation": "Do CH₃COOH là axit yếu, nồng độ H⁺ = α·C = 0,01C → [H⁺] nhỏ hơn 100 lần so với HCl. Vậy pH tăng thêm 2 đơn vị, tức y = x + 2."
+  },
+  {
+    "question": "Độ tan của BaSO₄ trong dung dịch BaCl₂ 10⁻²M là (tích số tan của BaSO₄ 10⁻¹⁰ ở 25°C):",
+    "answers": [
+      "10⁻⁵M",
+      "10⁻⁸M",
+      "10⁻⁴M",
+      "10⁻²M"
+    ],
+    "correct": 1,
+    "explanation": "Gọi độ tan của BaSO₄ là s. Khi đó Ksp = [Ba²⁺][SO₄²⁻] = (10⁻²)(s) = 10⁻¹⁰ → s = 10⁻⁸ M. Do có ion chung Ba²⁺ nên độ tan của BaSO₄ giảm xuống còn 10⁻⁸ M."
+  },
+  {
+    "question": "Thể tích nước tối thiểu để hòa tan 0,768g CaC₂O₄ là (tích số tan của CaC₂O₄ 3,6×10⁻⁹ ở 25°C):",
+    "answers": [
+      "100 lít",
+      "10 lít",
+      "1 lít",
+      "1000 lít"
+    ],
+    "correct": 0,
+    "explanation": "CaC₂O₄ ⇌ Ca²⁺ + C₂O₄²⁻ → Ksp = s² = 3,6×10⁻⁹ ⇒ s = 6×10⁻⁵ mol/L. Số mol CaC₂O₄ là 0,768/128 = 0,006 mol ⇒ V = n/s = 0,006/(6×10⁻⁵) = 100 L. Vậy cần tối thiểu 100 lít nước để hòa tan hoàn toàn lượng muối trên."
+  },
+  {
+    "question": "Dãy gồm các chất điện li yếu là:",
+    "answers": [
+      "NH₃, CH₃COOH, Al(OH)₃",
+      "CaCl₂, HCN, HF",
+      "Zn(OH)₂, BaCO₃, H₂SO₄",
+      "KOH, HNO₃, AlCl₃"
+    ],
+    "correct": 0,
+    "explanation": "NH₃, CH₃COOH và Al(OH)₃ đều phân li không hoàn toàn trong nước → là các chất điện li yếu."
+  },
+  {
+    "question": "Điều kiện kết tủa chất điện li ít tan từ dung dịch là tích số nồng độ các ion với số mũ tương ứng phải:",
+    "answers": [
+      "lớn hơn tích số tan",
+      "bé hơn tích số tan",
+      "bằng tích số tan",
+      "khác tích số tan"
+    ],
+    "correct": 0,
+    "explanation": "Khi tích số ion Qsp > Ksp thì dung dịch bão hòa bị vượt ngưỡng → chất tan kết tủa."
+  },
+  {
+    "question": "Mệnh đề nào sau đây không hoàn toàn đúng khi nói về dung dịch đệm?",
+    "answers": [
+      "Dung dịch đệm có tác dụng ổn định pH",
+      "Trong hệ đệm có ít nhất 1 acid và 1 base",
+      "Trong tế bào có hệ đệm phosphat",
+      "Trong máu có hệ đệm bicarbonat."
+    ],
+    "correct": 1,
+    "explanation": "Không phải mọi hệ đệm đều chứa cả axit và bazơ riêng biệt; có hệ chỉ gồm muối của axit yếu và bazơ mạnh hoặc ngược lại."
+  },
+  {
+    "question": "Những chất ở trạng thái hòa tan hay nóng chảy dẫn điện gọi là chất điện li.",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 0,
+    "explanation": "Chất điện li manhlà chất dẫn điện khi hòa tan trong nước hoặc ở trạng thái nóng chảy do có các ion tự do di chuyển."
+  },
+  {
+    "question": "Chất điện li mạnh là những chất phân tử hòa tan phân li thành ion.",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 1,
+    "explanation": "Câu sai vì điện li mạnh là những chất phân li hoàn toàn thành ion, không nhất thiết chỉ là 'chất phân tử'."
+  },
+  {
+    "question": "Chất điện li yếu là những chất phân li không hoàn toàn thành ion trong dung dịch.",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 0,
+    "explanation": "Đúng. Chất điện li yếu chỉ phân li một phần trong dung dịch, tạo cân bằng giữa dạng phân tử và ion."
+  },
+  {
+    "question": "Hằng số điện li là hằng số cân bằng của quá trình phân li.",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 0,
+    "explanation": "Đúng. Hằng số điện li Ka (hoặc Kb) biểu diễn mức độ phân li của chất điện li yếu theo cân bằng hóa học."
+  },
+  {
+    "question": "Độ điện li là tỷ số giữa tổng số phân tử hòa tan và số phân tử bị phân li.",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 1,
+    "explanation": "Sai. Độ điện li α = số phân tử bị phân li / tổng số phân tử hòa tan ban đầu."
+  },
+  {
+    "question": "Chất điện li mạnh là những chất mà số phân tử bị phân li ít, số phân tử chưa phân li rất ít.",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 1,
+    "explanation": "Sai. Điện li mạnh là những chất phân li gần như hoàn toàn (số phân tử bị phân li rất lớn)."
+  },
+  {
+    "question": "Điều kiện kết tủa chất điện li ít tan từ dung dịch là tích số nồng độ các ion của nó với số mũ tương ứng nhỏ hơn tích số tan.",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 1,
+    "explanation": "Sai. Khi tích số ion Qsp > Ksp thì mới xảy ra kết tủa; nếu Qsp < Ksp thì dung dịch chưa bão hòa."
+  },
+  {
+    "question": "Muốn hòa tan một chất điện li ít tan ta phải làm cho tích số nồng độ các ion của nó với số mũ tương ứng nhỏ hơn tích số tan.",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 0,
+    "explanation": "Đúng. Khi Qsp < Ksp, dung dịch chưa bão hòa → chất có thể tiếp tục tan."
+  },
+  {
+    "question": "Chất chỉ thị pH là những chất có màu sắc thay đổi theo pH",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 0,
+    "explanation": "Đúng. Các chất chỉ thị như phenolphtalein, quỳ tím đổi màu tùy vào giá trị pH của dung dịch."
+  },
+  {
+    "question": "Ion Al³⁺ thủy phân cho môi trường base.",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 1,
+    "explanation": "Sai. Ion Al³⁺ thủy phân mạnh, tạo môi trường acid do tạo H⁺ trong dung dịch."
+  },
+  {
+    "question": "Ion S²⁻ thủy phân cho môi trường acid.",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 1,
+    "explanation": "Sai. Ion S²⁻ nhận proton khi thủy phân tạo HS⁻ và OH⁻ → môi trường base."
+  },
+  {
+    "question": "Kết tủa PbI₂ không tạo thành khi trộn 2 thể tích bằng nhau của 2 dung dịch Pb(NO₃)₂ và KI đều có nồng độ 0,1M, biết tích số tan của PbI₂ ở 25°C bằng 1,4×10⁻⁸.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Khi trộn 2 dung dịch có nồng độ 0,1M theo tỉ lệ 1:1, nồng độ các ion Pb²⁺ và I⁻ đều còn 0,05M. Tích nồng độ ion = [Pb²⁺][I⁻]² = 0,05×(0,05)² = 1,25×10⁻⁴ > Ksp (1,4×10⁻⁸), nên PbI₂ kết tủa. Vì vậy mệnh đề 'không tạo thành kết tủa' là sai."
+  },
+  {
+    "question": "Các acid mạnh, base mạnh và đa số các muối là chất điện li mạnh.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Axit mạnh, bazơ mạnh và hầu hết các muối phân li hoàn toàn thành ion trong dung dịch nên là chất điện li mạnh."
+  },
+  {
+    "question": "Các acid yếu, các base yếu và một số rất ít muối là các chất điện li yếu.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Axit yếu, bazơ yếu chỉ phân li một phần trong dung dịch nên là chất điện li yếu."
+  },
+  {
+    "question": "Chất không điện ly là chất ở trạng thái hòa tan và nóng chảy không dẫn điện.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Chất không điện li là chất khi hòa tan hoặc nóng chảy không phân li ra ion nên không dẫn điện, ví dụ: đường, rượu etylic."
+  },
+  {
+    "question": "Ở 4 phản ứng dưới đây, phản ứng nào không có sự thay đổi số oxi hóa của các nguyên tố?",
+    "answers": [
+      "Sự tương tác của natri clorua và bạc nitrat trong dung dịch",
+      "Sự tương tác của sắt với clo",
+      "Sự hoà tan kẽm vào dung dịch H₂SO₄ loãng",
+      "Sự nhiệt phân kali permanganat, KMnO₄"
+    ],
+    "correct": 0,
+    "explanation": "Phản ứng trao đổi giữa NaCl và AgNO₃ không có sự thay đổi số oxi hóa (không phải phản ứng oxi hóa – khử)."
+  },
+  {
+    "question": "Phản ứng giữa các loại chất nào sau đây luôn là phản ứng oxi hóa – khử?",
+    "answers": ["oxit acid và bazơ.", "oxit base và axít.", "kim loại và phi kim.", "acid và base."],
+    "correct": 2,
+    "explanation": "Phản ứng giữa kim loại và phi kim luôn có sự chuyển electron nên luôn là phản ứng oxi hóa – khử."
+  },
+  {
+    "question": "Phản ứng oxi hóa – khử xảy ra theo chiều tạo thành",
+    "answers": [
+      "chất oxi hóa yếu hơn so với chất đầu.",
+      "chất khử yếu hơn so với chất đầu.",
+      "chất oxi hóa (hoặc khử) mới mạnh hơn.",
+      "chất oxi hóa (mới) và chất khử (mới) yếu hơn."
+    ],
+    "correct": 3,
+    "explanation": "Phản ứng oxi hóa – khử xảy ra theo chiều tạo ra các chất oxi hóa và khử yếu hơn, tức là phản ứng thuận lợi về mặt năng lượng."
+  },
+  {
+    "question": "Trong phản ứng: 2FeCl₃ + H₂S → 2FeCl₂ + S + 2HCl Cho biết vai trò của H₂S:",
+    "answers": ["Chất oxi hóa.", "Chất khử.", "Thể hiện tính oxy hóa - khử", "Vừa oxy hóa vừa khử."],
+    "correct": 1,
+    "explanation": "Trong phản ứng, S trong H₂S tăng số oxi hóa từ -2 lên 0, nên H₂S là chất khử."
+  },
+  {
+    "question": "Cho biết trong phản ứng sau: 4HNO₃ (đặc, nóng) + Cu → Cu(NO₃)₂ + 2NO₂ + 2H₂O. HNO₃ đóng vai trò là:",
+    "answers": ["Chất oxi hóa.", "Chất khử.", "Môi trường.", "Chất oxy hóa và môi trường."],
+    "correct": 3,
+    "explanation": "Trong phản ứng này, HNO₃ đặc nóng vừa là chất oxi hóa (vì nhận e từ Cu) vừa đóng vai trò môi trường phản ứng."
+  },
+  {
+    "question": "Trong các chất: FeCl₂, FeCl₃, Fe(NO₃)₃, Fe(NO₃)₂, FeSO₄, Fe₂(SO₄)₃. Chất có cả tính oxi hóa và tính khử là",
+    "answers": ["2.", "5.", "3.", "4."],
+    "correct": 2,
+    "explanation": "Fe²⁺ có thể bị oxi hóa thành Fe³⁺ hoặc bị khử thành Fe, nên các hợp chất chứa Fe²⁺ như FeCl₂, Fe(NO₃)₂, FeSO₄ đều có cả tính khử và oxi hóa."
+  },
+  {
+    "question": "Cho sơ đồ phản ứng: FeS₂ + HNO₃ → Fe(NO₃)₃ + H₂SO₄ + NO + H₂O. Sau khi cân bằng, tổng hệ số cân bằng của phản ứng là",
+    "answers": ["21.", "19.", "23.", "25."],
+    "correct": 1,
+    "explanation": "Phản ứng cân bằng: FeS₂ + 8HNO₃ → Fe(NO₃)₃ + 2H₂SO₄ + 5NO + 2H₂O. Tổng hệ số là 1 + 8 + 1 + 2 + 5 + 2 = 19."
+  },
+  {
+    "question": "Cho sơ đồ phản ứng sau: 2NH₃ + CuO → Cu + N₂ + H₂O. Các hệ số tương ứng của các chất sau khi cân bằng là:",
+    "answers": ["2, 3, 3, 1, 3", "1, 2, 3, 3, 3", "2, 3, 3, 3, 3", "2, 3, 1, 3, 3"],
+    "correct": 0,
+    "explanation": "Khi cân bằng phản ứng: 2NH₃ + 3CuO → 3Cu + N₂ + 3H₂O. Hệ số tương ứng là 2, 3, 3, 1, 3."
+  },
+  {
+    "question": "Cho sơ đồ phản ứng sau: Al + HNO₃ → Al(NO₃)₃ + NO₂ + H₂O. Các hệ số tương ứng của các chất sau khi cân bằng là:",
+    "answers": ["1, 6, 1, 3, 3", "1, 6, 3, 3, 3", "1, 3, 1, 3, 3", "1, 2, 1, 4, 2"],
+     "correct": 0,
+  "explanation": "Phản ứng cân bằng: Al + 6HNO₃ → Al(NO₃)₃ + 3NO₂ + 3H₂O. Các hệ số tương ứng lần lượt là 1, 6, 1, 3, 3."
+},
+  {
+    "question": "Mệnh đề nào sau đây sai?",
+    "answers": [
+      "Fe³⁺ có tính oxy hóa mạnh hơn Cu²⁺",
+      "Fe khử được Cu²⁺ trong dung dịch",
+      "Fe²⁺ khử được Ag⁺",
+      "Tính oxy hóa tăng dần Fe²⁺, Fe³⁺,H⁺ ,Cu²⁺"
+    ],
+    "correct": 3,
+    "explanation": "Thứ tự tính oxi hóa là Fe²⁺ < H⁺ < Cu²⁺ < Fe³⁺, nên mệnh đề 'Tính oxy hóa tăng dần Fe²⁺, Fe³⁺,H⁺ ,Cu²⁺' là sai."
+  },
+  {
+    "question": "Phương trình phản ứng không phải là phản ứng oxi hóa – khử là:",
+    "answers": [
+      "Al + 4HNO₃ → Al(NO₃)₃ + NO + 2H₂O",
+      "ZnO + 2HNO₃ → Zn(NO₃)₂ + H₂O",
+      "4Fe(OH)₂ + O₂ → 2Fe₂O₃ + 4H₂O",
+      "2FeCl₂ + Cl₂ → 2FeCl₃"
+    ],
+    "correct": 1,
+    "explanation": "Phản ứng giữa ZnO và HNO₃ chỉ là phản ứng trao đổi ion, không có sự thay đổi số oxi hóa, nên không phải phản ứng oxi hóa – khử."
+  },
+  {
+    "question": "Cho sơ đồ phản ứng: FeO → Fe → FeCl₂ → Fe(NO₃)₂ → Fe(OH)₂ → Fe(OH)₃. Số phản ứng thuộc loại phản ứng oxi hóa – khử là",
+    "answers": ["1", "2", "3", "4"],
+    "correct": 2,
+    "explanation": "Có 3 phản ứng có sự thay đổi số oxi hóa của Fe: FeO → Fe, Fe → FeCl₂ và Fe(OH)₂ → Fe(OH)₃."
+  },
+  {
+  "question": "Dãy các ion sắp xếp theo chiều giảm dần tính oxy hóa (biết trong dãy điện hóa cặp Fe³⁺/Fe²⁺ đứng trước cặp Ag⁺/Ag)",
+  "answers": [
+    "Ag⁺, Fe³⁺, Cu²⁺, Fe²⁺",
+    "Fe³⁺, Ag⁺, Cu²⁺, Fe²⁺",
+    "Ag⁺, Cu²⁺, Fe²⁺, Fe³⁺",
+    "Fe³⁺, Cu²⁺, Ag⁺, Fe²⁺"
+  ],
+  "correct": 0,
+  "explanation": "Trong dãy điện hóa, ion có thế khử càng lớn thì tính oxy hóa càng mạnh. Thứ tự thế khử chuẩn: Ag⁺/Ag (+0,80V) > Fe³⁺/Fe²⁺ (+0,77V) > Cu²⁺/Cu (+0,34V) > Fe²⁺/Fe (−0,44V). Vì Fe³⁺/Fe²⁺ đứng trước Ag⁺/Ag nên tính oxy hóa giảm dần là: Fe³⁺ > Ag⁺ > Cu²⁺ > Fe²⁺."
+},
+  {
+    "question": "Phản ứng oxy hóa khử là phản ứng trong đó có sự thu nhường electron do đó làm thay đổi số oxy hóa.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Đúng. Phản ứng oxi hóa – khử là phản ứng có sự chuyển electron giữa các chất làm thay đổi số oxi hóa của nguyên tố."
+  },
+  {
+    "question": "Số oxy hóa của nguyên tố trong đơn chất bằng 0.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Trong đơn chất, các nguyên tử có số oxi hóa bằng 0 vì không có sự chênh lệch độ âm điện giữa các nguyên tử."
+  },
+  {
+    "question": "Tổng số oxy hóa của các nguyên tố trong phân tử bằng 0.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Trong phân tử trung hòa điện, tổng số oxi hóa của tất cả các nguyên tố bằng 0."
+  },
+  {
+    "question": "Tổng số oxy hóa của các nguyên tố trong ion đa nguyên tử bằng 0.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Tổng số oxi hóa của các nguyên tố trong ion đa nguyên tử bằng điện tích của ion đó, không phải bằng 0."
+  },
+  {
+    "question": "Dãy điện hóa là một dãy gồm các cặp oxy hóa/khử sắp xếp theo chiều giảm dần thế khử chuẩn.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Đúng. Dãy điện hóa được sắp xếp theo chiều giảm dần thế khử chuẩn của các cặp oxi hóa/khử."
+  },
+  {
+    "question": "Khi đi từ trái sang phải trong dãy điện hóa tính oxy hóa của ion kim loại giảm dần.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Trong dãy điện hóa, ion kim loại nằm bên phải có thế khử chuẩn lớn hơn, nghĩa là có tính oxy hóa mạnh hơn. Do đó, khi đi từ trái sang phải, tính oxy hóa của ion kim loại tăng dần."
+  },
+  {
+    "question": "Khi đi từ trái sang phải trong dãy điện hóa tính khử của kim loại tăng dần",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Thực tế, khi đi từ trái sang phải trong dãy điện hóa, kim loại có thế khử chuẩn ngày càng lớn, tức là tính khử của kim loại giảm dần chứ không tăng."
+  },
+  {
+    "question": "Cặp oxy hóa khử nào có thế khử chuẩn càng lớn thì dạng oxy hóa hoạt động càng mạnh.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Thế khử chuẩn càng lớn chứng tỏ khả năng nhận electron càng mạnh, tức là dạng oxy hóa (dạng ion) có tính oxy hóa càng mạnh."
+  },
+  {
+    "question": "Cặp oxy hóa khử nào có thế khử chuẩn càng lớn thì dạng khử hoạt động càng mạnh.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Thế khử chuẩn càng lớn nghĩa là khả năng nhận electron cao, nên dạng oxy hóa mạnh. Ngược lại, dạng khử sẽ yếu hơn."
+  },
+  {
+    "question": "Kí hiệu của pin điện hóa: Vật liệu điện cực 1/ dung dịch điện cực nhúng vào// dung dịch điện cực 2 nhúng vào/ vật liệu làm điện cực 2",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Kí hiệu pin điện hóa được viết dạng: kim loại 1 / dung dịch chứa ion của nó // dung dịch chứa ion của kim loại 2 / kim loại 2."
+  },
+  {
+    "question": "Phản ứng oxy hóa khử xảy ra theo chiều chất oxy hóa mạnh oxy hóa chất khử mạnh sinh ra chất oxy hóa và khử mới yếu hơn",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Phản ứng oxi hóa – khử tự xảy ra theo chiều chất oxy hóa mạnh tác dụng với chất khử mạnh tạo thành các chất yếu hơn."
+  },
+  {
+    "question": "Phản ứng sau xảy ra theo chiều nghịch ở điều kiện chuẩn? Zn + Cu²⁺ ⇌ Zn²⁺ + Cu Biết ε⁰ (Cu²⁺/Cu) = 0,34V, ε⁰ (Zn²⁺/Zn) = -0,76V",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "E°pin = 0,34 - (-0,76) = +1,10V > 0, phản ứng xảy ra theo chiều thuận. Do đó, nói phản ứng xảy ra theo chiều nghịch là sai."
+  },
+  {
+    "question": "Phản ứng sau xảy ra theo chiều thuận ở điều kiện chuẩn và ở 25°C Fe²⁺ + Ag⁺ ⇌ Fe³⁺ + Ag Biết ε⁰ (Fe³⁺/Fe²⁺) = 0,77V, ε⁰ (Ag⁺/Ag) = 0,80V (ở 25°C)",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "E°pin = 0,8 - 0,77 = 0,03V > 0, phản ứng xảy ra theo chiều thuận."
+  },
+  {
+    "question": "Sự oxy hóa khử xảy ra trên bề mặt các điện cực khi cho dòng một chiều qua dung dịch chất điện ly hoặc chất điện ly nóng chảy có kèm theo sự biến đổi điện năng thành hóa năng được gọi là sự điện phân.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Điện phân là quá trình oxi hóa – khử xảy ra trên điện cực khi có dòng điện một chiều đi qua dung dịch hoặc chất điện ly nóng chảy, chuyển hóa điện năng thành hóa năng."
+  },
+  {
+    "question": "Phản ứng sau xảy ra theo chiều nghịch ở điều kiện chuẩn và ở 25°C 2Fe³⁺ + Sn²⁺ ⇌ 2Fe²⁺ + Sn⁴⁺ Cho biết ở 25°C: ε⁰ (Fe³⁺/Fe²⁺) = +0,77V, ε⁰ (Sn⁴⁺/Sn²⁺) = +0,15V",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "E°pin = 0,77 - 0,15 = +0,62V > 0, phản ứng tự xảy ra theo chiều thuận. Do đó, nói phản ứng xảy ra theo chiều nghịch là sai."
+  },
+  {
+    "question": "Phản ứng sau xảy ra theo chiều thuận ở điều kiện chuẩn và ở 25°C Cu + Fe²⁺ ⇌ Cu²⁺ + Fe Cho biết ở 25°C: ε⁰ (Cu²⁺/Cu) = +0,34V, ε⁰ (Fe²⁺/Fe) = -0,44V.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "E°pin = -0,44 - 0,34 = -0,78V < 0, phản ứng không xảy ra theo chiều thuận mà theo chiều nghịch."
+  },
+  {
+    "question": "Một pin gồm điện cực Ag nhúng vào dung dịch AgNO₃ 1M và một điện cực Cu nhúng vào dung dịch Cu(NO₃)₂ 1M. Cho biết suất điện động E_pin 0,442V, kí hiệu của pin là Ag/AgNO₃//Cu(NO₃)₂/Cu",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Trong pin, cực dương là Ag (có thế khử cao hơn), cực âm là Cu. Kí hiệu đúng là: Cu/Cu(NO₃)₂//AgNO₃/Ag."
+  },
+  {
+    "question": "Quá trình chất khử nhường electron gọi là sự khử",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Chất khử là chất nhường electron, nên quá trình nhường electron là sự oxy hóa, không phải sự khử."
+  },
+  {
+    "question": "Quá trình chất oxy hóa nhận electron gọi là sự oxy hóa",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Chất oxy hóa là chất nhận electron, nên quá trình nhận electron là sự khử, không phải sự oxy hóa."
+  },
+  {
+    "question": "Ion Ca²⁺ có vai trò, ngoại trừ:",
+    "answers": ["Tạo xương", "Kích thích hoạt động của tim", "Đông máu", "Kích thích nhu động ruột"],
+    "correct": 3,
+    "explanation": "Ca²⁺ tham gia vào quá trình tạo xương, đông máu, và điều hòa hoạt động cơ tim; nhưng không có vai trò kích thích nhu động ruột."
+  },
+  {
+    "question": "Dãy các kim loại sắp xếp theo chiều tăng dần tính khử:",
+    "answers": ["Li, K, Cs", "Li, Cs, Na", "Na, Cs, K", "Cs, Na, Li"],
+    "correct": 0,
+    "explanation": "Trong nhóm kim loại kiềm, khi đi từ Li → Na → K → Rb → Cs, bán kính nguyên tử tăng, lực hút hạt nhân giảm nên kim loại dễ nhường electron hơn. Do đó, tính khử tăng dần từ Li đến Cs. Dãy đúng là Li, K, Cs."
+  },
+  {
+    "question": "Tính chất hóa học đặc trưng của các kim loại kiềm là",
+    "answers": ["Tính khử mạnh", "Tính khử yếu", "Tính oxy hóa yếu", "Tính oxy hóa mạnh"],
+    "correct": 0,
+    "explanation": "Kim loại kiềm có năng lượng ion hóa nhỏ, dễ nhường electron tạo ion dương, vì vậy chúng có tính khử rất mạnh."
+  },
+  {
+    "question": "Biện pháp để bảo quản kim loại kiềm là ngâm chìm trong:",
+    "answers": ["Dầu hỏa", "Nước", "Rượu", "Acid"],
+    "correct": 0,
+    "explanation": "Kim loại kiềm phản ứng mạnh với nước và không khí ẩm, do đó cần được bảo quản trong dầu hỏa để tránh tiếp xúc với không khí."
+  },
+  {
+    "question": "Quá trình nào sau đây ion Na⁺ bị khử?",
+    "answers": ["Điện phân NaCl nóng chảy", "Điện phân dung dịch NaCl có màng ngăn", "Cho K tác dụng với dung dịch NaCl", "Cho dung dịch NaOH tác dụng với dung dịch HCl"],
+    "correct": 0,
+    "explanation": "Trong quá trình điện phân NaCl nóng chảy, ion Na⁺ nhận electron tại catot tạo thành kim loại Na, đây là quá trình khử của Na⁺."
+  },
+  {
+    "question": "Nhóm các nguyên tố đều tác dụng với nước lạnh tạo dung dịch base kiềm là:",
+    "answers": ["K, Ba, Ca, Na", "Na, K, Mg, Ca", "Al, Na, K, Ba", "Mg, Na, K, Zn"],
+    "correct": 0,
+    "explanation": "K, Ba, Ca và Na đều phản ứng với nước ở điều kiện thường tạo dung dịch kiềm (base) và giải phóng khí H₂."
+  },
+  {
+    "question": "Hòa tan hết m gam K vào 200ml dung dịch Cu(NO₃)₂ 1M, kết thúc phản ứng thu được 14,7g kết tủa. Giá trị của m là:",
+    "answers": ["11,70g", "15,60g", "5,85g", "17,91g"],
+    "correct": 0,
+    "explanation": "Phản ứng: 2K + Cu(NO₃)₂ + 2H₂O → 2KNO₃ + H₂ + Cu(OH)₂↓. Khối lượng kết tủa Cu(OH)₂ là 14,7g tương ứng 0,1507 mol. Theo tỉ lệ phản ứng, 1 mol Cu(OH)₂ cần 2 mol K ⇒ n(K) = 0,3014 mol. Suy ra m(K) = 0,3014 × 39 = 11,7g."
+  },
+  {
+    "question": "Trong các kim loại sau kim loại nào có tính khử mạnh nhất?",
+    "answers": ["Na", "Mg", "Cu", "Fe"],
+    "correct": 0,
+    "explanation": "Na thuộc nhóm IA, có năng lượng ion hóa nhỏ hơn Mg, Fe và Cu nên có tính khử mạnh nhất trong các kim loại được nêu."
+  },
+  {
+    "question": "Cho 1,04g hỗn hợp 2 kim loại hòa tan hoàn toàn trong H₂SO₄ loãng, dư khối lượng hơi hỗn hợp muối sunfat khan thu được sẽ là:",
+    "answers": ["3,92g", "1,68g", "3,46g", "2,08g"],
+    "correct": 0,
+    "explanation": "Hỗn hợp kim loại phản ứng với H₂SO₄ loãng tạo muối sunfat và khí H₂. Dựa trên tỉ khối và số mol H₂ sinh ra, ta tính được khối lượng muối sunfat là 3,92 g."
+  },
+  {
+    "question": "Thạch cao sống có công thức:",
+    "answers": ["CaSO₄.H₂O", "CaSO₄.2H₂O", "2CaSO₄.H₂O", "CaSO₄"],
+    "correct": 1,
+    "explanation": "Thạch cao sống là canxi sunfat ngậm hai phân tử nước, có công thức CaSO₄·2H₂O. Khi nung nhẹ, nó mất bớt nước tạo thạch cao nung CaSO₄·½H₂O."
+  },
+  {
+    "question": "Hòa tan hoàn toàn m gam hỗn hợp một kim loại kiềm và một kim loại kiềm thổ vào nước thu được 3,36l khí (ĐKTC) và dung dịch X. Thể tích dung dịch HCl 2M tối thiểu cần để trung hòa dung dịch X là:",
+    "answers": ["15ml", "150ml", "300ml", "30ml"],
+    "correct": 1,
+    "explanation": "Số mol H₂ = 3,36/22,4 = 0,15 mol. Gọi số mol kim loại kiềm là a và kiềm thổ là b, ta có a/2 + b = 0,15. Tổng số mol OH⁻ trong dung dịch là 2(a + b). Thay vào biểu thức, ta được n(OH⁻) = 0,6 - 2b. Vậy n(HCl) = n(OH⁻), với HCl 2M → V = (0,6 - 2b)/2 = 0,3 - b (L). Khi b lớn nhất (b = 0,15), thể tích tối thiểu là 0,15 L = 150 mL."
+  },
+  {
+    "question": "Có 4 mẫu bột kim loại mất nhãn Na, Al, Ca, Fe chỉ dùng H₂O có thể phân biệt được tối đa mấy kim loại",
+    "answers": ["1", "2", "3", "4"],
+    "correct": 3,
+    "explanation": "Na phản ứng mãnh liệt với nước, Ca phản ứng yếu tạo kết tủa Ca(OH), Al bị màng oxit bảo vệ, Fe không phản ứng. Lấy NaOH để phân biệt Al (tạo kết tủa rồi kết tủa tan) và Fe (không phản ứng). Vậy có thể phân biệt được cả 4 kim loại."
+  },
+  {
+    "question": "Nguyên tố nào sau đây không cần thiết đối với cơ thể dù lượng rất nhỏ.",
+    "answers": ["Đồng", "Crom", "Molipden", "Chì"],
+    "correct": 3,
+    "explanation": "Đồng, Crom và Molipden là nguyên tố vi lượng cần thiết cho hoạt động của cơ thể. Chì là nguyên tố độc, không cần thiết cho sự sống."
+  },
+  {
+    "question": "Mệnh đề nào sau đây sai?",
+    "answers": [
+      "Mangan có ảnh hưởng đến quá trình sinh trưởng của động vật và thực vật",
+      "Mangan có trong thành phần một số enzym như phosphatase máu, peptidase huyết thanh...",
+      "Sự nhiễm độc Mangan làm tổn thương hệ thần kinh trung ương, khi tác dụng lâu dài có thể dẫn đến xơ gan",
+      "Đối với người lớn trung bình cần 10mg/kg cân nặng"
+    ],
+    "correct": 3,
+    "explanation": "Lượng mangan cần thiết cho người trưởng thành chỉ khoảng 2–5 mg mỗi ngày, không phải 10 mg/kg thể trọng. Do đó, mệnh đề này là sai."
+  },
+  {
+    "question": "Crom có trong thành phần của pepsin, sự thiếu hụt crom gây ra, ngoại trừ.",
+    "answers": [
+      "Bệnh về mắt",
+      "Rối loạn trao đổi cacbon hydrat",
+      "Tiền triển bệnh đái tháo đường",
+      "Bệnh bướu cổ"
+    ],
+    "correct": 3,
+    "explanation": "Crom tham gia vào quá trình chuyển hóa gluxit và lipit. Thiếu crom có thể gây rối loạn trao đổi cacbon hydrat và dẫn đến tiền tiểu đường, nhưng không gây bệnh bướu cổ (do thiếu iot)."
+  },
+  {
+    "question": "Xương động vật chứa khoảng 80% Ca₃(PO₄)₂ và 13% CaCO₃",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 0,
+    "explanation": "Thành phần chính của xương động vật là muối photphat và cacbonat của canxi, trong đó khoảng 80% là Ca₃(PO₄)₂ và khoảng 13% là CaCO₃."
+  },
+  {
+    "question": "MgSO₄ có thể làm thuốc nhuận tràng",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 0,
+    "explanation": "Muối MgSO₄ (magie sunfat) được dùng làm thuốc nhuận tràng do có khả năng giữ nước trong ruột, giúp làm mềm phân và kích thích nhu động ruột."
+  },
+  {
+    "question": "Thạch cao sống CaSO₄.2H₂O nhào với nước có khả năng đông cứng nên được dùng bó bột trong y học.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Thạch cao sống (CaSO₄·2H₂O) không có khả năng đông cứng. Thạch cao nung (CaSO₄·½H₂O) mới có khả năng đông cứng khi nhào với nước và được dùng để bó bột trong y học."
+  },
+  {
+    "question": "Magie có trong các tổ chức đệm và các dịch của cơ thể, ion Mg²⁺ còn tham gia vào thành phần một số enzym.",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 0,
+    "explanation": "Ion Mg²⁺ có trong mô, xương, và dịch cơ thể; đồng thời là thành phần của nhiều enzym xúc tác phản ứng trao đổi chất trong cơ thể người."
+  },
+  {
+    "question": "Chì và các hợp chất của chì đều độc do tác động của nó vào hệ thần kinh và ngăn cản quá trình tạo máu.",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 0,
+    "explanation": "Chì gây độc cho cơ thể do tích lũy trong mô, làm tổn thương hệ thần kinh và ức chế quá trình tổng hợp hemoglobin, gây thiếu máu."
+  },
+  {
+    "question": "Trong tất cả các tế bào động vật đều chứa sắt dưới dạng liên kết với các hợp chất hữu cơ cũng như dạng ion.",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 1,
+    "explanation": "Sắt không có trong tất cả các tế bào; chủ yếu tập trung trong hemoglobin, myoglobin và một số enzym oxy hóa–khử."
+  },
+  {
+    "question": "Ion Ag có tính oxy hóa, nó kích thích sự phát triển của vi khuẩn ngay ở nồng độ rất nhỏ.",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 1,
+    "explanation": "Ion Ag⁺ có tính oxy hóa mạnh và có tác dụng diệt khuẩn, không kích thích mà ức chế và tiêu diệt vi khuẩn ở nồng độ rất nhỏ."
+  },
+  {
+    "question": "Trong y học người ta dùng keo bạc có tính chất làm bền để khử trùng niêm mạc.",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 0,
+    "explanation": "Keo bạc (dung dịch hạt bạc mịn trong nước) có tính kháng khuẩn mạnh, được dùng để sát trùng vết thương và niêm mạc."
+  },
+  {
+    "question": "Ion kẽm là một trong những ion kim loại cần thiết cho người lớn, nhưng không cần thiết với trẻ em.",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 1,
+    "explanation": "Ion Zn²⁺ là nguyên tố vi lượng cần thiết cho mọi lứa tuổi, đặc biệt quan trọng cho sự phát triển của trẻ em và chức năng sinh lý của người lớn."
+  },
+  {
+    "question": "Trong y học KMnO₄ là chất khử trùng tốt",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 0,
+    "explanation": "Dung dịch KMnO₄ loãng có tính oxy hóa mạnh, được dùng làm chất sát trùng trong y học để rửa vết thương hoặc khử trùng da(Thuốc tím)."
+  },
+  {
+    "question": "Sự nhiễm độc chì diễn ra từ từ, gây thiếu máu mãn tính.",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 0,
+    "explanation": "Nhiễm độc chì mạn tính xảy ra do tích lũy chì lâu dài, làm tổn thương hệ thần kinh và gây thiếu máu do cản trở tổng hợp hemoglobin."
+  },
+  {
+    "question": "Trong cơ thể người ion Na chỉ có trong máu và trong xương.",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 1,
+    "explanation": "Ion Na⁺ có mặt trong tất cả các dịch cơ thể, đặc biệt trong máu, dịch ngoại bào, và tham gia điều hòa áp suất thẩm thấu, cân bằng nước – điện giải."
+  },
+  {
+    "question": "BaSO₄ có khả năng phản xạ tốt tia Rơnghen nên được dùng trong kỹ thuật chụp X quang.",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 1,
+    "explanation": "BaSO₄ là chất không tan, có khả năng hấp thụ tia X cao, nên được dùng làm chất cản quang trong chụp X-quang dạ dày và ruột."
+  },
+  {
+    "question": "Trong nhóm IA từ Li - Cs tính kim loại giảm dần.",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 1,
+    "explanation": "Trong nhóm IA, tính kim loại tăng dần từ Li đến Cs do bán kính nguyên tử tăng và năng lượng ion hóa giảm."
+  },
+  {
+    "question": "Trong nhóm IA từ Li - Cs bán kính nguyên tử tăng dần.",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 0,
+    "explanation": "Trong nhóm IA, khi đi từ Li → Cs, số lớp electron tăng, nên bán kính nguyên tử tăng dần."
+  },
+  {
+    "question": "Trong dãy nào dưới đây các chất không được xếp theo thứ tự tăng dần tính acid",
+    "answers": [
+      "HClO, HClO₂, HClO₃, HClO₄",
+      "HI, HBr, HCl, HF",
+      "H₃PO₄, H₂SO₄, HClO₄",
+      "NH₃, H₂O, HF"
+    ],
+    "correct": 1,
+    "explanation": "Tính acid của các halogen tăng dần từ HF < HCl < HBr < HI, do độ bền liên kết HX giảm dần. Vậy dãy HI, HBr, HCl, HF không theo thứ tự tăng dần tính acid."
+  },
+  {
+    "question": "Acid hòa tan được thủy tinh là:",
+    "answers": [
+      "HF",
+      "HCl",
+      "HBr",
+      "HI"
+    ],
+    "correct": 0,
+    "explanation": "HF hòa tan được thủy tinh vì phản ứng với SiO₂ trong thủy tinh tạo thành khí SiF₄ dễ bay hơi."
+  },
+  {
+    "question": "Theo dãy F₂ - Cl₂ - Br₂ - I₂ thì",
+    "answers": [
+      "Tính oxy hóa tăng dần, tính khử giảm dần",
+      "Tính oxy hóa giảm dần, tính khử tăng dần",
+      "Tính oxy hóa và tính khử tăng dần",
+      "Tính oxy hóa và tính khử giảm dần"
+    ],
+    "correct": 1,
+    "explanation": "Trong dãy F₂ → Cl₂ → Br₂ → I₂, tính oxi hóa giảm dần vì độ âm điện và khả năng nhận electron giảm; ngược lại, tính khử tăng dần."
+  },
+  {
+    "question": "Theo dãy HF - HCl - HBr - HI thì:",
+    "answers": [
+      "Tính acid giảm, tính khử tăng",
+      "Tính acid tăng, tính khử giảm",
+      "Tính acid tăng, tính khử tăng",
+      "Tính acid giảm, tính khử giảm."
+    ],
+    "correct": 2,
+    "explanation": "Khi đi từ HF → HI, liên kết H–X yếu dần nên khả năng phân li H⁺ tăng → tính acid tăng; đồng thời tính khử của ion X⁻ cũng tăng."
+  },
+  {
+    "question": "Một kim loại M tác dụng với Cl₂ được muối A. Cho M tác dụng với dung dịch HCl thu được muối B. Cho Cl₂ tác dụng với dung dịch muối B ta thu được muối A. Vậy M là:",
+    "answers": [
+      "Al",
+      "Cu",
+      "Zn",
+      "Fe"
+    ],
+    "correct": 3,
+    "explanation": "Fe tác dụng với Cl₂ tạo FeCl₃ (muối A). Khi tác dụng với HCl tạo FeCl₂ (muối B). Oxi hóa FeCl₂ bằng Cl₂ lại thu được FeCl₃ → M là Fe."
+  },
+  {
+    "question": "Mệnh đề nào sau đây sai khi nói về oxy?",
+    "answers": [
+      "Oxy là nguyên tố không thể thiếu để duy trì sự sống.",
+      "Ở động vật bậc cao, oxy tạo với hemoglobin một hợp chất oxyhemoglobin.",
+      "Trong các mô, oxy tham gia vào quá trình oxy hóa chậm các chất dinh dưỡng tạo nhiệt năng và các năng lượng khác cần thiết cho hoạt động của cơ thể.",
+      "Sự tái tạo oxy được thực hiện trong quá trình hô hấp của động vật."
+    ],
+    "correct": 3,
+    "explanation": "Oxy được tái tạo trong quá trình quang hợp của thực vật, không phải trong hô hấp của động vật."
+  },
+  {
+    "question": "Mệnh đề nào sau đây sai?",
+    "answers": [
+      "CO là khí độc",
+      "CO₂ là khí độc",
+      "CO₂ gây hiệu ứng nhà kính",
+      "CO₂ là sản phẩm trong quá trình hô hấp của động vật."
+    ],
+    "correct": 1,
+    "explanation": "CO mới là khí độc vì gắn mạnh với hemoglobin làm cản trở vận chuyển oxy; CO₂ không độc nhưng gây ngạt ở nồng độ cao và góp phần vào hiệu ứng nhà kính."
+  },
+  {
+    "question": "Nguyên tố không thể có số oxy hóa dương:",
+    "answers": [
+      "F",
+      "Cl",
+      "Br",
+      "I"
+    ],
+    "correct": 0,
+    "explanation": "Flo là nguyên tố có độ âm điện lớn nhất nên chỉ có số oxi hóa −1, không thể có số oxi hóa dương."
+  },
+  {
+    "question": "Acid có mặt trong dạ dày",
+    "answers": [
+      "HF",
+      "HCl",
+      "HBr",
+      "HI"
+    ],
+    "correct": 1,
+    "explanation": "Axit trong dạ dày là HCl, giúp tiêu hóa thức ăn và diệt khuẩn trong đường ruột."
+  },
+  {
+    "question": "Điều chế nước javen bằng cách sục Cl₂ vào dung dịch:",
+    "answers": [
+      "NaOH",
+      "Ca(OH)₂",
+      "KOH đặc, nóng",
+      "KI"
+    ],
+    "correct": 0,
+    "explanation": "Sục Cl₂ vào dung dịch NaOH lạnh thu được NaCl và NaClO (nước Javen): Cl₂ + 2NaOH → NaCl + NaClO + H₂O."
+  },
+  {
+    "question": "Mệnh đề nào sau đây sai?",
+    "answers": [
+      "Theo Brosted nước vừa là acid vừa là base",
+      "Nước vừa là chất oxy hóa vừa là chất khử",
+      "Trong nhiều phản ứng nước là xúc tác",
+      "Nước đá có tỉ trọng lớn nhất"
+    ],
+    "correct": 3,
+    "explanation": "Nước đá có tỉ trọng nhỏ hơn nước lỏng, do cấu trúc mạng tinh thể lỏng lẻo hơn; do đó nó nổi trên mặt nước."
+  },
+  {
+    "question": "Phản ứng của Halogen nào với H₂ khi đun nóng xảy ra thuận nghịch?",
+    "answers": [
+      "F₂",
+      "Cl₂",
+      "Br₂",
+      "I₂"
+    ],
+    "correct": 3,
+    "explanation": "Phản ứng H₂ + I₂ ⇌ 2HI là phản ứng thuận nghịch vì năng lượng liên kết H–I thấp, dễ phân hủy ở nhiệt độ cao."
+  },
+  {
+    "question": "Trong bảng tuần hoàn H chỉ được xếp vào nhóm IA",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Câu trả lời là 'Sai' vì nguyên tố H vừa có tính chất giống kim loại kiềm (IA) vừa có tính chất giống halogen (VIIA), nên vị trí của H trong bảng tuần hoàn không cố định chỉ ở nhóm IA."
+  },
+  {
+    "question": "Ở trạng thái tự do các halogen đều độc hại đối với cơ thể",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Đúng. Các halogen như F₂, Cl₂, Br₂, I₂ đều có tính oxi hóa mạnh, rất độc ở trạng thái tự do vì có thể gây bỏng, kích ứng niêm mạc và ảnh hưởng đến hệ hô hấp."
+  },
+  {
+    "question": "Trong cơ thể Cl có mặt trong mọi tổ chức",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Đúng. Clo tồn tại trong cơ thể chủ yếu ở dạng ion Cl⁻, có mặt trong hầu hết các mô và dịch cơ thể, giúp duy trì cân bằng ion và áp suất thẩm thấu."
+  },
+  {
+    "question": "Trong cơ thể các hợp chất của fluo có trong men răng, iod trong các tế bào thần kinh, brom trong tuyến giáp trạng",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Sai. Flo có trong men răng giúp răng chắc khỏe; iod có trong tuyến giáp trạng giúp tổng hợp hormon; brom không có vai trò sinh học quan trọng trong cơ thể người."
+  },
+  {
+    "question": "Nếu trong thức ăn thiếu iod sẽ dẫn tới bệnh bướu cổ",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Đúng. Thiếu iod làm tuyến giáp phải hoạt động mạnh để tổng hợp hormon, gây phì đại tuyến giáp dẫn đến bệnh bướu cổ."
+  },
+  {
+    "question": "H₂S rất độc do nó có thể phá hủy niêm mạc đường hô hấp.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Đúng. H₂S là khí độc, có thể gây kích ứng mạnh và phá hủy niêm mạc đường hô hấp, dẫn đến khó thở hoặc ngạt."
+  },
+  {
+    "question": "Khi SO₂ độc do khả năng kết hợp với hemoglobin làm liệt thần kinh hô hấp và dẫn đến tử vong.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Sai. SO₂ không tạo phức bền với hemoglobin như CO. Tác hại chính của SO₂ là gây kích ứng niêm mạc và làm tổn thương hệ hô hấp, chứ không gây liệt thần kinh hô hấp trực tiếp."
+  },
+  {
+    "question": "N là nguyên tố có mặt trong một số cơ thể sống dưới dạng hợp chất như protein, acid nucleic, ure, hormon ở các động vật, các alcaloid, vitamin, chlorophyl ở thực vật.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Sai. Chlorophyl là hợp chất chứa Mg, không chứa nitơ. Nitơ có trong protein, acid nucleic, ure, hormon ở động vật và trong alcaloid, vitamin ở thực vật."
+  },
+  {
+    "question": "Động vật và thực vật bậc cao có khả năng sử dụng N trực tiếp từ không khí.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Sai. Cả động vật và thực vật bậc cao không thể sử dụng N₂ trực tiếp từ không khí; chỉ vi khuẩn cố định đạm mới có khả năng chuyển N₂ thành dạng có thể hấp thu (NH₄⁺, NO₃⁻)."
+  },
+  {
+    "question": "Qua con đường thức ăn có nguồn gốc từ thực vật, N được đưa vào cơ thể động vật để tổng hợp các chất hữu cơ phức tạp cần thiết.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Đúng. Nitơ được thực vật hấp thu dưới dạng muối amoni hoặc nitrat, rồi qua chuỗi thức ăn được chuyển vào cơ thể động vật để tổng hợp protein và các hợp chất hữu cơ khác."
+  },
+  {
+    "question": "CO dễ dàng kết hợp với hemoglobin tạo ra phức HBCO bền gấp 300 lần phức HbO₂. Do đó ngăn cản quá trình vận chuyển oxy đi nuôi cơ thể.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Đúng. CO kết hợp với hemoglobin tạo thành carboxyhemoglobin (HbCO) rất bền, làm giảm khả năng vận chuyển oxy, gây ngạt và có thể dẫn đến tử vong."
+  },
+  {
+    "question": "CO₂ là sản phẩm của quá trình hô hấp ở động vật nhưng lại đóng vai trò quan trọng trong quá trình quang hợp của cây xanh.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Đúng. CO₂ là sản phẩm của hô hấp ở động vật và được cây xanh hấp thụ trong quá trình quang hợp để tổng hợp chất hữu cơ, đồng thời giải phóng O₂."
+  },
+  {
+    "question": "Quá trình quang hợp của cây xanh tạo ra nguồn glucid cung cấp cho động vật và tái tạo lại oxy.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Đúng. Quang hợp giúp tạo ra glucid (tinh bột, đường) cung cấp năng lượng cho sinh vật dị dưỡng và tái tạo O₂ cho khí quyển."
+  },
+  {
+    "question": "Có các oxyd sau, ngoại trừ:",
+    "answers": ["acid", "base", "lưỡng tính", "trơ", "trung tính"],
+    "correct": 3,
+    "explanation": "Đáp án đúng là 'trơ'. Oxit có thể là acid, bazơ, lưỡng tính hoặc trung tính; 'trơ' không phải là loại oxit."
+  },
+  {
+    "question": "CO, NO thuộc loại oxyd nào sau đây?",
+    "answers": ["acid", "base", "lưỡng tính", "trơ"],
+    "correct": 3,
+    "explanation": "Đáp án đúng là 'trơ'. Cả CO và NO là các oxit trung tính, không phản ứng với acid hoặc bazơ nên được xem là oxit trơ."
+  },
+  {
+    "question": "Cho các cặp chất sau, chất nào không xảy ra phản ứng tạo muối và nước?",
+    "answers": ["FeO + HCl", "AgNO₃ + HCl", "Na₂CO₃ + HNO₃", "Zn + H₂SO₄"],
+    "correct": 3,
+    "explanation": "Đáp án đúng là 'Zn + H₂SO₄'. Phản ứng này tạo muối và khí H₂ chứ không tạo muối và nước, nên không thuộc loại phản ứng trung hòa."
+  },
+  {
+    "question": "Cho các cặp chất sau, chất nào không xảy ra phản ứng?",
+    "answers": ["CuO + H₂SO₄", "Cu + HCl", "Na₂O + H₂O", "SO₃ + NaOH"],
+    "correct": 1,
+    "explanation": "Đáp án đúng là 'Cu + HCl'. Đồng không phản ứng với HCl loãng vì HCl không đủ mạnh để oxi hóa Cu."
+  },
+  {
+    "question": "Cho các cặp chất sau, cặp chất nào không xảy ra phản ứng trao đổi?",
+    "answers": ["MgSO₄ + Ba(NO₃)₂", "ZnSO₄ + CuCl₂", "Na₂CO₃ + H₂SO₄", "FeCl₃ + NaOH"],
+    "correct": 1,
+    "explanation": "Đáp án đúng là 'ZnSO₄ + CuCl₂'. Cả hai đều là muối tan, không có sản phẩm kết tủa, bay hơi hoặc điện ly yếu nên phản ứng trao đổi không xảy ra."
+  },
+  {
+    "question": "Dung dịch có thể dùng để phân biệt 2 dung dịch kali sunfat và kali clorua.",
+    "answers": ["NaOH", "HCl", "Ba(OH)₂", "NaCl"],
+    "correct": 2,
+    "explanation": "Đáp án đúng là 'Ba(OH)₂'. Dung dịch Ba(OH)₂ phản ứng với K₂SO₄ tạo kết tủa trắng BaSO₄, còn với KCl thì không phản ứng."
+  },
+  {
+    "question": "Phản ứng nào sau đây không xảy ra?",
+    "answers": ["ZnO + HCl", "ZnO + NaOH", "CuO + H₂SO₄ loãng", "CuO + NaOH"],
+    "correct": 3,
+    "explanation": "Đáp án đúng là 'CuO + NaOH'. CuO là oxit bazơ, không phản ứng với bazơ, nên phản ứng này không xảy ra."
+  },
+  {
+    "question": "Chất nào sau đây phản ứng với NaOH?",
+    "answers": ["CO", "NO", "MgO", "Al₂O₃"],
+    "correct": 3,
+    "explanation": "Đáp án đúng là 'Al₂O₃'. Al₂O₃ là oxit lưỡng tính, có thể phản ứng với cả acid và bazơ để tạo muối aluminat."
+  },
+  {
+    "question": "Dung dịch AgNO₃ không phản ứng với dung dịch nào sau đây?",
+    "answers": ["NaCl", "NaBr", "NaI", "NaF"],
+    "correct": 3,
+    "explanation": "Đáp án đúng là 'NaF'. AgF tan được trong nước nên không tạo kết tủa, còn các muối AgCl, AgBr, AgI đều kết tủa."
+  },
+  {
+    "question": "Phản ứng nào sau đây chứng minh NH₃ có tính base?",
+    "answers": [
+      "NH₃ + CuO → Cu + N₂ + H₂O (ở nhiệt độ cao)",
+      "NH₃ + HNO₃ → NH₄NO₃",
+      "NH₃ + O₂ → 2N₂ + 6H₂O",
+      "NH₃ + Cl₂ → N₂ + 6HCl"
+    ],
+    "correct": 1,
+    "explanation": "Đáp án đúng là 'NH₃ + HNO₃ → NH₄NO₃'. Phản ứng này chứng minh NH₃ là base vì nó nhận proton (H⁺) từ acid để tạo muối amoni."
+  },
+  {
+    "question": "Có thể dùng các chất nào trong số các chất sau để làm khô khí NH₃?",
+    "answers": [
+      "CaO",
+      "H₂SO₄ đậm đặc",
+      "P₂O₅",
+      "CaCO₃"
+    ],
+    "correct": 0,
+    "explanation": "CaO là chất hút ẩm nhưng không phản ứng với NH₃, nên có thể dùng để làm khô khí NH₃. Các chất như H₂SO₄ đặc và P₂O₅ phản ứng với NH₃ nên không dùng được."
+  },
+  {
+    "question": "Hydroxyd lưỡng tính có đặc điểm:",
+    "answers": [
+      "Không có tính acid và base",
+      "Có cả tính acid và base",
+      "Làm đổi màu giấy quỳ đỏ và quỳ xanh",
+      "Không tan trong base nhưng tan trong acid"
+    ],
+    "correct": 1,
+    "explanation": "Hydroxyd lưỡng tính là hợp chất vừa có khả năng phản ứng với acid tạo muối và nước, vừa phản ứng với base mạnh tạo muối và nước. Ví dụ: Al(OH)₃, Zn(OH)₂."
+  },
+  {
+    "question": "Có 4 chất bột màu trắng riêng biệt: Na₂SO₄, CaCO₃, Na₂CO₃, CaSO₄·2H₂O. Nếu chỉ dùng HCl làm thuốc thử thì ta có thể phân biệt được:",
+    "answers": ["4 chất", "3 chất", "2 chất", "1 chất"],
+    "correct": 1,
+    "explanation": "Dùng HCl: CaCO₃ và Na₂CO₃ đều sủi bọt khí CO₂ nên không phân biệt được nhau. Na₂SO₄ tan không phản ứng, còn CaSO₄·2H₂O ít tan. Do đó, phân biệt được 3 nhóm chất riêng biệt."
+  },
+  {
+    "question": "Có 4 dung dịch đựng trong lọ mất nhãn (NH₄)₂SO₄, NH₄Cl, NaOH, Na₂SO₄. Nếu chỉ được dùng 1 thuốc thử để nhận biết cả 4 chất trên ta dùng thuốc thử nào?",
+    "answers": [
+      "AgNO₃",
+      "BaCl₂",
+      "KOH",
+      "Ba(OH)₂"
+    ],
+    "correct": 3,
+    "explanation": "Dùng Ba(OH)₂: tác dụng với (NH₄)₂SO₄ và NH₄Cl sinh ra NH₃ có mùi khai; với Na₂SO₄ tạo kết tủa BaSO₄; với NaOH không hiện tượng. Nhờ đó phân biệt được cả 4 dung dịch."
+  },
+  {
+    "question": "Có 3 dung dịch NaOH, HCl, H₂SO₄. Thuốc thử duy nhất để phân biệt 3 dung dịch là",
+    "answers": [
+      "Na₂CO₃",
+      "Al",
+      "CaCO₃",
+      "Quỳ tím"
+    ],
+    "correct": 2,
+    "explanation": "Dùng CaCO₃: phản ứng với HCl và H₂SO₄ tạo khí CO₂, nhưng H₂SO₄ còn tạo kết tủa CaSO₄ ít tan → phân biệt được hai acid; NaOH không phản ứng. Do đó có thể phân biệt cả ba dung dịch."
+  },
+  {
+    "question": "Oxyd là hợp chất của oxy với nguyên tố khác",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 0,
+    "explanation": "Đúng. Oxyd là hợp chất gồm hai nguyên tố, trong đó có một nguyên tố là oxy. Ví dụ: CO₂, CaO, Fe₂O₃."
+  },
+  {
+    "question": "Acid là những chất có khả năng nhường proton",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 0,
+    "explanation": "Theo thuyết Bronsted-Lowry, acid là chất có khả năng nhường proton (H⁺) cho chất khác. Ví dụ: HCl, H₂SO₄, HNO₃."
+  },
+  {
+    "question": "Base là những chất có khả năng nhường proton",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 1,
+    "explanation": "Theo thuyết Bronsted-Lowry, base là chất có khả năng nhận proton (H⁺), không phải nhường proton. Ví dụ: NH₃, OH⁻."
+  },
+  {
+    "question": "Những hợp chất của oxy với phi kim là oxyd acid",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 0,
+    "explanation": "Đúng. Oxyd acid là oxyd của phi kim, thường tác dụng với nước tạo acid hoặc với base tạo muối và nước. Ví dụ: CO₂, SO₃."
+  },
+  {
+    "question": "Những hợp chất của oxy với kim loại là oxyd base",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 0,
+    "explanation": "Đúng. Oxyd base là oxyd của kim loại, thường phản ứng với acid tạo muối và nước. Ví dụ: CaO, CuO."
+  },
+  {
+    "question": "Oxyd acid là những oxyd phản ứng với base tạo muối và nước",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 0,
+    "explanation": "Đúng. Oxyd acid có tính acid nên phản ứng với base tạo muối và nước, ví dụ: CO₂ + 2NaOH → Na₂CO₃ + H₂O."
+  },
+  {
+    "question": "Oxyd base là những oxyd phản ứng với acid tạo muối và nước",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 0,
+    "explanation": "Đúng. Oxyd base là oxyd của kim loại, có khả năng phản ứng với acid tạo muối và nước. Ví dụ: CuO + 2HCl → CuCl₂ + H₂O."
+  },
+  {
+    "question": "Những hợp chất của oxy với khí trơ gọi là oxyd trơ",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 1,
+    "explanation": "Sai. Khí trơ (He, Ne, Ar, Kr, Xe, Rn) hầu như không tạo hợp chất với oxy do có cấu hình electron bền vững, nên không tồn tại oxyd trơ."
+  },
+  {
+    "question": "Oxyd lưỡng tính vừa tác dụng với dung dịch acid vừa tác dụng với dung dịch base.",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 0,
+    "explanation": "Đúng. Oxyd lưỡng tính như Al₂O₃, ZnO có thể phản ứng với cả acid và base tạo muối và nước. Ví dụ: Al₂O₃ + 6HCl → 2AlCl₃ + 3H₂O; Al₂O₃ + 2NaOH → 2NaAlO₂ + H₂O."
+  },
+  {
+    "question": "Oxyd trung tính không phản ứng với dung dịch acid, không phản ứng với dung dịch base",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 0,
+    "explanation": "Đúng. Oxyd trung tính như CO, N₂O không phản ứng với acid hoặc base do không có tính acid hay base rõ rệt."
+  },
+    {
+    "question": "Số đồng phân cấu tạo của C₄H₈ là:",
+    "answers": ["2", "5", "6", "7"],
+    "correct": 1,
+    "explanation": "C₄H₈ có thể là anken hoặc xicloankan. Các đồng phân cấu tạo (không tính hình học) gồm: but-1-en, but-2-en, 2-metylpropen, xiclobutan và metylxiclopropan → tổng cộng có 5 đồng phân cấu tạo."
+  },
+  {
+    "question": "Số đồng phân của C₄H₈ là:",
+    "answers": ["4", "5", "6", "7"],
+    "correct": 2,
+    "explanation": "Nếu tính cả đồng phân hình học cis–trans, C₄H₈ có 6 đồng phân: 5 đồng phân cấu tạo (but-1-en, but-2-en, 2-metylpropen, xiclobutan, metylxiclopropan) và thêm 1 đồng phân hình học của but-2-en (cis và trans) → tổng cộng 6 đồng phân."
+  },
+  {
+    "question": "Số đồng phân của C₅H₁₂ là:",
+    "answers": ["2", "3", "4", "5"],
+    "correct": 1,
+    "explanation": "C₅H₁₂ là ankan (pentan) có 3 đồng phân cấu tạo: n-pentan, isopentan (2-metylbutan) và neopentan (2,2-đimetylpropan)."
+  },
+  {
+    "question": "Số công thức cấu tạo tương ứng với công thức phân tử C₃H₈O",
+    "answers": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correct": 1,
+    "explanation": "C₃H₈O có 3 đồng phân cấu tạo: 2 ancol (propan-1-ol, propan-2-ol) và 1 ete (metoxyetan)."
+  },
+  {
+    "question": "Cho các chất sau: CH ≡ CH (1); CH₂ = CH - CH₂ - CH₃ (2); xiclobutan (3); buta-1,3-đien (4), phát biểu nào sau đây đúng?",
+    "answers": [
+      "(1) và (4) là chất đồng đẳng",
+      "(1) và (2) là chất đồng phân",
+      "(2) và (4) là chất đồng đẳng",
+      "(2) và (3) là chất đồng phân"
+    ],
+    "correct": 2,
+    "explanation": "(2) buten và (4) buta-1,3-đien đều là hiđrocacbon không no, thuộc dãy đồng đẳng (chênh nhau 2 nguyên tử H) → chúng là chất đồng đẳng."
+  },
+  {
+    "question": "Tên của hợp chất (CH₃)₃CCH₂C₂H₅",
+    "answers": [
+      "trimetyl propan",
+      "2,2-đimetyl pentan",
+      "2,2-đimetyl-1-etyl-propan",
+      "Tất cả đều sai"
+    ],
+    "correct": 1,
+    "explanation": "Mạch chính dài nhất có 5 carbon (pentan), có hai nhóm metyl ở carbon số 2 → tên đúng theo danh pháp IUPAC là 2,2-đimetylpentan."
+  },
+  {
+    "question": "Có bao nhiêu đồng phân ankin có CTPT C₅H₈ tác dụng với dd AgNO₃/NH₃ tạo kết tủa vàng.",
+    "answers": ["2", "3", "4", "5"],
+    "correct": 0,
+    "explanation": "Chỉ các ankin có liên kết ba ở đầu mạch (–C≡CH) mới phản ứng với dung dịch AgNO₃/NH₃ tạo kết tủa AgC≡C–. Với C₅H₈, các ankin thỏa mãn là: pent-1-in và 3-metylbut-1-in → có 2 đồng phân phản ứng được."
+  },
+  {
+    "question": "Số đồng phân cấu tạo ngoại trừ:",
+    "answers": ["Đồng phân mạch cacbon", "Đồng phân vị trí", "Đồng phân nhóm chức", "Đồng phân cis-trans"],
+    "correct": 3,
+    "explanation": "Đồng phân cis-trans là đông phân hình học, không phải đồng phân cấu tạo."
+  },
+  {
+    "question": "Hợp chất nào sau đây không có đồng phân cis-trans:",
+    "answers": [
+      "CHCl=CHCl",
+      "CH3CH=CHCH3",
+      "CH3CH=CHC2H5",
+      "(CH3)2C=CHCH3"
+    ],
+    "correct": 3,
+    "explanation": "Đồng phân cis–trans chỉ xuất hiện khi mỗi nguyên tử cacbon ở liên kết đôi gắn với hai nhóm thế khác nhau. Ở (CH3)2C=CHCH3, nguyên tử cacbon bên trái của liên kết đôi gắn với hai nhóm CH3 giống nhau nên không có đồng phân hình học."
+  },
+  {
+    "question": "Hợp chất có công thức cấu tạo (CH3)2CH-CH2-CH(CH3)2",
+    "answers": [
+      "2,2,3,3-Tetrametylpentan",
+      "2,4-Đimetylpentan",
+      "2,4-Đimetylbutan",
+      "1,1,3-Tetrametylbutan"
+    ],
+    "correct": 1,
+    "explanation": "Công thức (CH3)2CH-CH2-CH(CH3)2 có mạch chính 5 nguyên tử cacbon (pentan) và hai nhánh metyl ở vị trí 2 và 4 → tên gọi là 2,4-đimetylpentan."
+  }
+]
