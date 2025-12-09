@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Trắc nghiệm — Ôn tập</title>
+  <link rel="stylesheet" href="style.css">
+  <script>
+    // lấy môn từ query param hoặc localStorage (đặt bởi index.html)
+    (function(){
+      const params = new URLSearchParams(location.search);
+      const subParam = params.get('subject');
+      const stored = localStorage.getItem('quiz_subject');
+      const subject = subParam || stored || 'hoahoc'; // mặc định nếu không có
+
+      try { localStorage.setItem('quiz_subject', subject); } catch(e){}
+
+      // expose cho script.js: tên môn và đường dẫn file câu hỏi trong thư mục "question"
+      window.QUIZ_SUBJECT = subject;
+      // đặt file theo quy ước: question/questions_{subject}.json
+      window.QUESTIONS_FILE = `question/questions_${subject}.json`;
+      console.log('Review subject=', subject, 'questionsFile=', window.QUESTIONS_FILE);
+    })();
+  </script>
+</head>
+<body>
+  <div class="container">
+    <h1>Ôn tập — <span id="subject-name"></span></h1>
+
+    <!-- header controls: Xóa điểm -->
+    <div id="quiz-box">
+      <div class="top-controls" style="display:flex;justify-content:flex-end;margin-bottom:8px;">
+        <button id="reset-score" class="btn-reset" aria-label="Xóa điểm">Xóa điểm</button>
+      </div>
+
+      <div id="question-list" class="question-list" style="background:#f8f8f8;border-radius:8px;padding:8px;border:1px solid #e0e0e0;margin-bottom:18px;overflow-x:auto;">
+        <div id="question-list-inner" style="min-width:600px;display:block;"></div>
+      </div>
+
+      <div class="card" style="background:#fff;border-radius:8px;padding:24px;border:1px solid #e0e0e0;box-shadow:0 2px 8px rgba(0,0,0,.07);">
+        <div id="question" class="question-title" aria-live="polite" style="margin-bottom:12px;font-weight:700;font-size:18px;"></div>
+        <div id="answers" class="answers"></div>
+
+        <div class="actions" style="display:flex;gap:12px;margin-top:12px;">
+          <button id="prev" class="nav-btn">Câu trước</button>
+          <button id="next" class="nav-btn">Câu tiếp</button>
+          <div id="result" style="margin-left:auto;align-self:center;font-weight:600;"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    // hiển thị tên môn ngắn
+    (function(){
+      const map = { tin:'Tin học', vatly:'Vật lý', hoahoc:'Hoá học', chinhttri:'Chính trị', sinhhoc:'Sinh học' };
+      const sub = window.QUIZ_SUBJECT || localStorage.getItem('quiz_subject') || 'hoahoc';
+      const el = document.getElementById('subject-name');
+      if (el) el.textContent = map[sub] || sub;
+    })();
+  </script>
+
+  <script>
+    // filepath: c:\Users\Admin\Downloads\code\ly thuyet\quiz-app\script.js
+    // ...existing code...
+    // thay thế đoạn load questions (fetch) bằng logic chọn file theo môn với fallback
+
+    // load questions: lấy file từ window.QUESTIONS_FILE (set bởi review/index) hoặc localStorage
+    (function loadQuestions() {
+      const sub = window.QUIZ_SUBJECT || localStorage.getItem('quiz_subject') || 'hoahoc';
+      const fileFromWindow = window.QUESTIONS_FILE;
+      const questionsFile = fileFromWindow || `question/questions_${sub}.json`;
+
+      // // thử load file theo môn trước
+      // fetch(questionsFile)
+      //   .then(res => {
+      //     if (!res.ok) throw new Error('Not found');
+      //     return res.json();
+      //   })
+      //   .then(data => {
+      //     questions = Array.isArray(data) ? data : [];
+      //     // normalize selected
+      //     if (!selected || !Array.isArray(selected) || selected.length !== questions.length) {
+      //       selected = Array(questions.length).fill(undefined);
+      //     }
+      //     if (isNaN(current) || current < 0 || current >= questions.length) current = 0;
+      //     renderQuestion();
+      //     showResult();
+      //   })
+      //   .catch(err => {
+      //     console.warn('Không load được', questionsFile, '-> thử fallback questions.json', err);
+      //     // fallback sang questions.json ở thư mục gốc
+      //     fetch('questions.json')
+      //       .then(r => {
+      //         if (!r.ok) throw new Error('fallback not found');
+      //         return r.json();
+      //       })
+      //       .then(data => {
+      //         questions = Array.isArray(data) ? data : [];
+      //         if (!selected || !Array.isArray(selected) || selected.length !== questions.length) {
+      //           selected = Array(questions.length).fill(undefined);
+      //         }
+      //         if (isNaN(current) || current < 0 || current >= questions.length) current = 0;
+      //         renderQuestion();
+      //         showResult();
+      //       })
+      //       .catch(err2 => {
+      //         console.error('Không thể load câu hỏi ở cả hai nơi', err2);
+      //         const questionEl = document.getElementById('question');
+      //         if (questionEl) questionEl.textContent = 'Lỗi khi tải câu hỏi.';
+      //       });
+      //   });
+    })();
+    // ...existing code...
+  </script>
+
+  <!-- Import script chính -->
+  <script src="script.js"></script>
+</body>
+</html>

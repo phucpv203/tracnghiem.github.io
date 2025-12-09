@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Thử kiểm tra — Quiz App</title>
+  <link rel="stylesheet" href="style.css">
+  <script>
+    // Lấy môn từ query param hoặc localStorage
+    (function(){
+      const params = new URLSearchParams(location.search);
+      const subParam = params.get('subject');
+      const stored = localStorage.getItem('quiz_subject');
+      const subject = subParam || stored || 'hoahoc';
+
+      try { localStorage.setItem('quiz_subject', subject); } catch(e){}
+
+      window.QUIZ_SUBJECT = subject;
+      window.QUESTIONS_FILE = `question/questions_${subject}.json`;
+      window.MOCK_TEST = true; // flag để biết đây là mock test
+      console.log('Mock Test - subject=', subject);
+    })();
+  </script>
+</head>
+<body>
+  <div class="container">
+    <h1>Thử kiểm tra — <span id="subject-name"></span></h1>
+
+    <div id="quiz-box">
+      <!-- Timer và thông tin -->
+      <div class="top-controls" style="display:flex;justify-content:space-between;align-items:center;margin-bottom:16px;padding:12px;background:#f0f8ff;border-radius:8px;border:1px solid #b0d4ff;">
+        <div style="font-weight:600;">
+          Câu hỏi: <span id="question-count">1</span>/60
+        </div>
+        <div style="font-weight:600;color:#d9534f;">
+          Thời gian: <span id="timer">45:00</span>
+        </div>
+        <button id="submit-test" class="btn-submit" aria-label="Nộp bài">Nộp bài</button>
+      </div>
+
+      <!-- Danh sách câu hỏi (mini view) -->
+      <div id="question-list" class="question-list" style="background:#f8f8f8;border-radius:8px;padding:8px;border:1px solid #e0e0e0;margin-bottom:18px;overflow-x:auto;">
+        <div id="question-list-inner" style="min-width:600px;display:flex;gap:4px;flex-wrap:wrap;"></div>
+      </div>
+
+      <!-- Câu hỏi chính -->
+      <div class="card" style="background:#fff;border-radius:8px;padding:24px;border:1px solid #e0e0e0;box-shadow:0 2px 8px rgba(0,0,0,.07);">
+        <div id="question" class="question-title" aria-live="polite" style="margin-bottom:12px;font-weight:700;font-size:18px;"></div>
+        <div id="answers" class="answers"></div>
+
+        <div class="actions" style="display:flex;gap:12px;margin-top:12px;">
+          <button id="prev" class="nav-btn">Câu trước</button>
+          <button id="next" class="nav-btn">Câu tiếp</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    // Hiển thị tên môn
+    (function(){
+      const map = { tin:'Tin học', vatly:'Vật lý', hoahoc:'Hoá học', chinhttri:'Chính trị', sinhhoc:'Sinh học' };
+      const sub = window.QUIZ_SUBJECT || 'hoahoc';
+      const el = document.getElementById('subject-name');
+      if (el) el.textContent = map[sub] || sub;
+    })();
+
+    // Biến toàn cục
+    let questions = [];
+    let selected = [];
+    let current = 0;
+    let timerInterval = null;
+    let timeLeft = 45 * 60; // 45 phút (tính bằng giây)
+
+    // Hàm shuffle array
+    function shuffleArray(arr) {
+      const result = [...arr];
+      for (let i = result.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [result[i], result[j]] = [result[j], result[i]];
+      }
+      return result;
+    }
+
+    // Load câu hỏi và chọn random 60 câu
+    (function loadQuestions() {
+      const questionsFile = window.QUESTIONS_FILE;
+
+      fetch(questionsFile)
+        .then(res => {
+          if (!res.ok) throw new Error('Not found');
+          return res.json();
+        })
+        .then(data => {
+          let allQuestions = Array.isArray(data) ? data : [];
+          console.log('Tổng câu hỏi:', allQuestions.length);
+
+          // Lấy random 60 câu (hoặc ít hơn nếu không đủ)
+          const shuffled = shuffleArray(allQuestions);
+          questions = shuffled.slice(0, 60);
+          console.log('Random 60 câu:', questions.length);
+
+          // Khởi tạo mảng selected
+          selected = Array(questions.length).fill(undefined);
+          current = 0;
+
+          renderQuestion();
+          renderQuestionList();
+          startTimer();
+        })
+        .catch(err => {
+          console.error('Lỗi load câu hỏi:', err);
+          const questionEl = document.getElementById('question');
+          if (questionEl) questionEl.textContent = 'Lỗi khi tải câu hỏi.';
+        });
+    })();
+
+    // Render câu hỏi hiện tại
+    function renderQuestion() {
+      if (!questions.length) return;
+
+      const q = questions[current];
+      const questionEl = document.getElementById('question');
+      const answersEl = document.getElementById('answers');
+      const countEl = document.getElementById('question-count');
+
+      questionEl.innerHTML = `<strong>Câu ${current + 1}:</strong> ${q.question || ''}`;
+      countEl.textContent = current + 1;
+
+      answersEl.innerHTML = '';
+      if (q.answers && Array.isArray(q.answers)) {
+        q.answers.forEach((answer, idx) => {
+          const isSelected = selected[current] === idx;
+          const label = document.createElement('label');
+          label.className = 'answer-option';
+          label.style.cssText = `
+            display:block;padding:10px;margin:8px 0;border:2px solid #ddd;border-radius:6px;cursor:pointer;
+            background:${isSelected ? '#e3f2fd' : '#fff'};border-color:${isSelected ? '#2196F3' : '#ddd'};
+          `;
+          label.innerHTML = `
+            <input type="radio" name="answer" value="${idx}" ${isSelected ? 'checked' : ''} style="margin-right:8px;"/>
+            ${answer}
+          `;
+          label.addEventListener('change', () => {
+            selected[current] = parseInt(idx);
+            renderQuestion();
+            renderQuestionList();
+          });
+          answersEl.appendChild(label);
+        });
+      }
+
+      // Update button states
+      document.getElementById('prev').disabled = current === 0;
+      document.getElementById('next').disabled = current === questions.length - 1;
+    }
+
+    // Render danh sách câu hỏi mini
+    function renderQuestionList() {
+      const listEl = document.getElementById('question-list-inner');
+      listEl.innerHTML = '';
+
+      questions.forEach((_, idx) => {
+        const btn = document.createElement('button');
+        btn.className = 'question-btn';
+        btn.textContent = idx + 1;
+        btn.style.cssText = `
+          width:40px;height:40px;padding:0;border-radius:4px;border:2px solid #ddd;cursor:pointer;
+          background:${current === idx ? '#2196F3' : selected[idx] !== undefined ? '#4CAF50' : '#fff'};
+          color:${current === idx || selected[idx] !== undefined ? '#fff' : '#000'};font-weight:600;
+        `;
+        btn.addEventListener('click', () => {
+          current = idx;
+          renderQuestion();
+          document.getElementById('question-list-inner').scrollLeft = Math.max(0, idx * 48 - 200);
+        });
+        listEl.appendChild(btn);
+      });
+    }
+
+    // Timer countdown
+    function startTimer() {
+      timerInterval = setInterval(() => {
+        timeLeft--;
+        const minutes = Math.floor(timeLeft / 60);
+        const seconds = timeLeft % 60;
+        document.getElementById('timer').textContent = 
+          `${String(minutes).padStart(2, '0')}:${String(seconds).padStart(2, '0')}`;
+
+        if (timeLeft <= 0) {
+          clearInterval(timerInterval);
+          submitTest();
+        }
+      }, 1000);
+    }
+
+    // Navigation
+    document.getElementById('prev').addEventListener('click', () => {
+      if (current > 0) {
+        current--;
+        renderQuestion();
+      }
+    });
+
+    document.getElementById('next').addEventListener('click', () => {
+      if (current < questions.length - 1) {
+        current++;
+        renderQuestion();
+      }
+    });
+
+    // Submit test
+    function submitTest() {
+      clearInterval(timerInterval);
+      const correct = selected.reduce((sum, ans, idx) => {
+        return sum + (ans === questions[idx].correct ? 1 : 0);
+      }, 0);
+
+      const score = Math.round((correct / questions.length) * 100);
+      
+      // Lưu kết quả
+      try {
+        localStorage.setItem('mock_test_result', JSON.stringify({
+          subject: window.QUIZ_SUBJECT,
+          total: questions.length,
+          correct: correct,
+          score: score,
+          date: new Date().toLocaleString('vi-VN')
+        }));
+      } catch(e){}
+
+      alert(`Kết quả: ${correct}/${questions.length} câu đúng (${score}%)`);
+      window.location.href = 'index.html';
+    }
+
+    document.getElementById('submit-test').addEventListener('click', submitTest);
+  </script>
+</body>
+</html>

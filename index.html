@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Chọn môn - Trắc nghiệm</title>
+  <link rel="stylesheet" href="style.css">
+  <style>
+    body { font-family: Arial, sans-serif; background:#f5f7fa; margin:0; padding:24px; }
+    .wrap { max-width:960px; margin:0 auto; }
+    h1 { margin-bottom:8px; }
+    .section { margin-bottom:20px; }
+    .subjects { display:flex; flex-wrap:wrap; gap:14px; }
+    .subject-btn {
+      flex:1 1 180px; min-width:140px; padding:14px 12px; background:#fff;
+      border-radius:10px; border:1px solid #e0e0e0; text-align:center; font-weight:700;
+      cursor:pointer; box-shadow:0 2px 6px rgba(0,0,0,0.04);
+    }
+    .subject-btn:hover { transform:translateY(-3px); transition:all .12s ease; }
+    .note { margin-top:12px; color:#666; }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="section">
+      <h1>Ôn tập — Chọn môn</h1>
+      <div class="subjects" role="list">
+        <button class="subject-btn" onclick="selectReview('tin')">Tin học</button>
+        <button class="subject-btn" onclick="selectReview('vatly')">Vật lý</button>
+        <button class="subject-btn" onclick="selectReview('hoahoc')">Hoá học</button>
+        <button class="subject-btn" onclick="selectReview('chinhtri')">Chính trị</button>
+        <button class="subject-btn" onclick="selectReview('sinhhoc')">Sinh học</button>
+      </div>
+    </div>
+
+    <div class="section">
+      <h1>Thi thử — Chọn môn</h1>
+      <div class="subjects" role="list">
+        <button class="subject-btn" onclick="selectMock('tin')">Tin học</button>
+        <button class="subject-btn" onclick="selectMock('vatly')">Vật lý</button>
+        <button class="subject-btn" onclick="selectMock('hoahoc')">Hoá học</button>
+        <button class="subject-btn" onclick="selectMock('chinhtri')">Chính trị</button>
+        <button class="subject-btn" onclick="selectMock('sinhhoc')">Sinh học</button>
+      </div>
+      
+    </div>
+    
+  <script>
+    function goTo(url, subjectKey) {
+      try { localStorage.setItem('quiz_subject', subjectKey); } catch(e) {}
+      location.href = url + '?subject=' + encodeURIComponent(subjectKey);
+    }
+    function selectReview(sub) { goTo('review.html', sub); }
+    function selectMock(sub)   { goTo('mock_test.html', sub); }
+  </script>
+</body>
+</html>

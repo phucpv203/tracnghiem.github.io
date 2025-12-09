@@ -1,0 +1,3643 @@
+[
+  {
+    "question": "Lý sinh học là môn học nghiên cứu các hiện tượng xảy ra trong các tổ chức và cơ thể sống dựa trên quan điểm và các định luật vật lý, từ mức độ điện tử, nguyên tử đến toàn cơ thể.",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 0,
+    "explanation": "Khẳng định là Đúng. Đây là định nghĩa chính xác của môn Lý sinh học."
+  },
+  {
+    "question": "Một trong các nhiệm vụ của môn lý sinh là nghiên cứu những quy luật vật lý",
+    "answers": [
+      "Ứng dụng trong công nghệ",
+      "Xảy ra và chi phối các quá trình sống",
+      "Ứng dụng trong y học",
+      "Chi phối các quá trình sống"
+    ],
+    "correct": 1,
+    "explanation": "Nhiệm vụ trọng tâm của Lý sinh học là nghiên cứu các quy luật vật lý chi phối các quá trình sống."
+  },
+  {
+    "question": "Hệ đo lường tiêu chuẩn của Việt Nam:",
+    "answers": [
+      "US Customary System",
+      "Hệ thống inch-ounce",
+      "System International",
+      "System Myanmar"
+    ],
+    "correct": 2,
+    "explanation": "Hệ đo lường tiêu chuẩn của Việt Nam là Hệ thống Đơn vị Quốc tế (System International - SI)."
+  },
+  {
+    "question": "Đơn vị Cd (candela) là một trong các đơn vị đo đại lượng vật lý cơ bản trong Hệ đo lường tiêu chuẩn của Việt Nam",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 0,
+    "explanation": "Khẳng định là Đúng. Candela (Cd) là đơn vị cơ bản đo cường độ sáng trong hệ SI."
+  },
+  {
+    "question": "Độ C (0C) là đơn vị đo nhiệt độ chuẩn trong Hệ đo lường quốc tế",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 1,
+    "explanation": "Khẳng định là Sai. Đơn vị đo nhiệt độ chuẩn trong hệ đo lường quốc tế (SI) là Kelvin (K)."
+  },
+  {
+    "question": "Tiền tố đơn vị sắp xếp tăng dần là:",
+    "answers": [
+      "Kilo, Giga, Tera, Mega",
+      "Kilo, Mega, Giga, Tera",
+      "Kilo, Giga, Tera, Deka",
+      "Kilo, Giga, Mega, Tera"
+    ],
+    "correct": 1,
+    "explanation": "Thứ tự tăng dần của các tiền tố là: Kilo (10³), Mega (10⁶), Giga (10⁹), Tera (10¹²)."
+  },
+  {
+    "question": "Thứ nguyên của một đại lượng vật lí là công thức nêu lên sự phụ thuộc của đại lượng đó vào các đại lượng cơ bản",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 0,
+    "explanation": "Khẳng định là Đúng. Thứ nguyên mô tả mối quan hệ của một đại lượng dẫn xuất với các đại lượng cơ bản."
+  },
+  {
+    "question": "Thứ nguyên của một đại lượng vật lí là công thức nêu lên sự phụ thuộc của đại lượng đó vào các đại lượng vật lí khác",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 1,
+    "explanation": "Khẳng định là Sai. Thứ nguyên phải nêu lên sự phụ thuộc vào các đại lượng vật lý cơ bản."
+  },
+  {
+    "question": "Các đại lượng vật lí là:",
+    "answers": [
+      "Vô hướng",
+      "Hữu hướng",
+      "Vô hướng hoặc hữu hướng",
+      "Vô hướng và hữu hướng"
+    ],
+    "correct": 2,
+    "explanation": "Đại lượng vật lý có thể là vô hướng (chỉ có độ lớn, ví dụ: nhiệt độ, khối lượng) hoặc hữu hướng/vector (có cả độ lớn và phương, ví dụ: lực, vận tốc)."
+  },
+  {
+    "question": "Tính chất nào không phải là đặc điểm của hiện tượng lý sinh:",
+    "answers": [
+      "Tính thống kê",
+      "Tính không liên hệ",
+      "Tính quy luật hàm mũ",
+      "Tính quy luật liên hệ ngược"
+    ],
+    "correct": 1,
+    "explanation": "Hiện tượng lý sinh có tính liên hệ và thống kê, quy luật hàm mũ (hoặc logarit) và liên hệ ngược. 'Tính không liên hệ' không phải là đặc điểm."
+  },
+  {
+    "question": "Tính chất nào không phải là đặc điểm của hiện tượng lý sinh:",
+    "answers": [
+      "Tính thống kê",
+      "Tính quy luật đối xứng",
+      "Tính đơn nhất",
+      "Tính quy luật liên hệ ngược"
+    ],
+    "correct": 2,
+    "explanation": "Hiện tượng lý sinh có tính thống kê, quy luật đối xứng/hàm mũ/liên hệ ngược. 'Tính đơn nhất' không phải là đặc điểm."
+  },
+  {
+    "question": "Tính quy luật hàm tăng đều là đặc điểm của hiện tượng lý sinh:",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 1,
+    "explanation": "Khẳng định là Sai. Các quy luật trong Lý sinh học thường là hàm mũ, logarit, hoặc liên hệ ngược, không phải hàm tăng đều đơn giản."
+  },
+  {
+    "question": "Tính quy luật liên hệ ngược là đặc điểm của hiện tượng lý sinh:",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 0,
+    "explanation": "Khẳng định là Đúng. Nhiều hiện tượng sinh học tuân theo quy luật liên hệ ngược (ví dụ: tốc độ phản ứng và nồng độ chất ức chế)."
+  },
+  {
+    "question": "Tính chất nào không phải là đặc điểm của hiện tượng lý sinh:",
+    "answers": [
+      "Tính quy luật liên hệ ngược",
+      "Tính quy luật hàm tăng đều",
+      "Sự chi phí năng lượng tối thiểu",
+      "Ngưỡng"
+    ],
+    "correct": 1,
+    "explanation": "Các hệ thống sinh học hoạt động theo nguyên lý chi phí năng lượng tối thiểu và có ngưỡng đáp ứng, nhưng không phải 'tính quy luật hàm tăng đều'."
+  },
+  {
+    "question": "Nhiệt động học (Thermodynamics): Là môn học nghiên cứu sự chuyển hóa nhiệt lượng sang các dạng năng lượng khác và ngược lại.",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 0,
+    "explanation": "Khẳng định là Đúng. Nhiệt động học nghiên cứu sự chuyển hóa và trao đổi năng lượng (bao gồm nhiệt) giữa hệ và môi trường."
+  },
+  {
+    "question": "Nhiệt động học (Thermodynamics): Là môn học nghiên cứu sự chuyển hóa năng lượng sống sang các dạng năng lượng khác và ngược lại.",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 1,
+    "explanation": "Khẳng định là Sai. Nhiệt động học nghiên cứu năng lượng nói chung, không riêng 'năng lượng sống'."
+  },
+  {
+    "question": "Chọn ý sai: Dựa trên các thông số nhiệt động có thể:",
+    "answers": [
+      "Xác định hệ nhiệt động đang ở trạng thái nào (đang biến đổi, cân bằng nhiệt động, cân bằng dừng . . .)",
+      "Biết được khả năng xảy ra của một quá trình nào đó trong hệ nhiệt động cũng như chiều hướng và giới hạn của nó.",
+      "Biết được bản chất hoặc cơ chế của quá trình nhiệt động học",
+      "Không biết bản chất hoặc cơ chế của quá trình nhiệt động học"
+    ],
+    "correct": 2,
+    "explanation": "Nhiệt động học chỉ nghiên cứu khả năng và chiều hướng của quá trình, **không** nghiên cứu bản chất hay cơ chế của quá trình đó."
+  },
+  {
+    "question": "Hệ nhiệt động là một tập hợp của số lượng lớn những phần tử vật chất được giới hạn trong một không gian nhất định",
+    "answers": [
+      "Không cách biệt với môi trường chung quanh.",
+      "Cách biệt với môi trường chung quanh.",
+      "Không liên hệ về năng lượng với môi trường xung quanh",
+      "Chỉ liên hệ năng lượng với môi trường xung quanh"
+    ],
+    "correct": 1,
+    "explanation": "Hệ nhiệt động phải được giới hạn và phân biệt (cách biệt) với môi trường xung quanh để nghiên cứu."
+  },
+  {
+    "question": "Hệ biệt lập (Isolated Systems) là hệ không trao đổi vật chất và năng lượng với môi trường chung quanh",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 0,
+    "explanation": "Khẳng định là Đúng. Hệ biệt lập không trao đổi cả vật chất và năng lượng."
+  },
+  {
+    "question": "Hệ biệt lập (Isolated Systems)",
+    "answers": [
+      "Không trao đổi vật chất nhưng có trao đổi năng lượng với môi trường chung quanh",
+      "Có trao đổi vật chất và năng lượng với môi trường chung quanh",
+      "Có trao đổi vật chất nhưng không trao đổi năng lượng với môi trường xung quanh",
+      "Không trao đổi vật chất và năng lượng với môi trường chung quanh"
+    ],
+    "correct": 3,
+    "explanation": "Hệ biệt lập không có bất kỳ sự trao đổi nào với môi trường."
+  },
+  {
+    "question": "Hệ đóng (Closed Systems) không trao đổi vật chất và năng lượng với môi trường chung quanh",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 1,
+    "explanation": "Khẳng định là Sai. Hệ đóng không trao đổi vật chất nhưng có trao đổi năng lượng."
+  },
+  {
+    "question": "Hệ đóng (Closed Systems)",
+    "answers": [
+      "Không trao đổi vật chất và năng lượng với môi trường chung quanh",
+      "Không trao đổi vật chất nhưng có trao đổi năng lượng với môi trường chung quanh",
+      "Có trao đổi vật chất và năng lượng với môi trường chung quanh",
+      "Có trao đổi vật chất nhưng không trao đổi năng lượng với môi trường xung quanh"
+    ],
+    "correct": 1,
+    "explanation": "Hệ đóng giữ nguyên khối lượng vật chất nhưng cho phép trao đổi năng lượng (nhiệt, công)."
+  },
+  {
+    "question": "Hệ mở (Open Systems) không trao đổi vật chất nhưng có trao đổi năng lượng với môi trường chung quanh",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 1,
+    "explanation": "Khẳng định là Sai. Hệ mở trao đổi cả vật chất và năng lượng với môi trường."
+  },
+  {
+    "question": "Hệ mở (Open Systems)",
+    "answers": [
+      "Có trao đổi vật chất và năng lượng với môi trường chung quanh",
+      "Không trao đổi vật chất và năng lượng với môi trường chung quanh",
+      "Không trao đổi vật chất nhưng có trao đổi năng lượng với môi trường chung quanh",
+      "Có trao đổi vật chất nhưng không trao đổi năng lượng với môi trường xung quanh"
+    ],
+    "correct": 0,
+    "explanation": "Hệ mở là hệ có sự trao đổi cả vật chất và năng lượng với môi trường."
+  },
+  {
+    "question": "Cơ thể người là một Hệ nhiệt động biệt lập",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 1,
+    "explanation": "Khẳng định là Sai. Cơ thể người là hệ mở, trao đổi thức ăn (vật chất) và nhiệt/công (năng lượng)."
+  },
+  {
+    "question": "Cơ thể người là một:",
+    "answers": [
+      "Hệ nhiệt động kín",
+      "Hệ nhiệt động đóng",
+      "Hệ nhiệt động biệt lập",
+      "Hệ nhiệt động mở"
+    ],
+    "correct": 3,
+    "explanation": "Cơ thể người trao đổi vật chất (thức ăn, nước) và năng lượng (nhiệt, công) với môi trường, nên là hệ mở."
+  },
+  {
+    "question": "Cơ thể người là một hệ mở đặc biệt vì:",
+    "answers": [
+      "Cơ thể người có khả năng sinh công cơ học, nhiệt học, hóa học.",
+      "Có trao đổi vật chất và năng lượng với môi trường chung quanh",
+      "Cơ thể có khả năng tái tạo, khả năng tự phát triển, là một dạng tồn tại đặc biệt của protit và các chất.",
+      "Tất cả các ý đúng."
+    ],
+    "correct": 2,
+    "explanation": "Tính đặc biệt của hệ mở sinh học là khả năng tự tổ chức, tái tạo, duy trì trật tự (giảm entropy cục bộ), không chỉ là trao đổi năng lượng/vật chất."
+  },
+  {
+    "question": "Khi ở trạng thái cân bằng nhiệt động thì hệ vẫn có khả năng sinh công tùy theo trạng thái của hệ",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 1,
+    "explanation": "Khẳng định là Sai. Điều kiện để đạt trạng thái cân bằng nhiệt động là hệ không còn khả năng sinh công."
+  },
+  {
+    "question": "Khi ở trạng thái cân bằng nhiệt động thì hệ",
+    "answers": [
+      "Không còn khả năng sinh công",
+      "Có khả năng sinh công",
+      "Có khả năng sinh công tùy theo trạng thái của hệ",
+      "Không còn khả năng sinh công tùy theo trạng thái của hệ"
+    ],
+    "correct": 0,
+    "explanation": "Cân bằng nhiệt động là trạng thái năng lượng tự do đạt cực tiểu, tức là không còn khả năng sinh công hữu ích."
+  },
+  {
+    "question": "Cân bằng nhiệt động: Là trạng thái mà hệ không có bất kỳ sự biến đổi nào và các thông số trạng thái không biến đổi theo thời gian.",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 0,
+    "explanation": "Khẳng định là Đúng. Đây là định nghĩa về trạng thái cân bằng nhiệt động."
+  },
+  {
+    "question": "Cân bằng nhiệt động: Là trạng thái mà hệ không có bất kỳ sự biến đổi nào và các thông số trạng thái có biến đổi theo thời gian.",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 1,
+    "explanation": "Khẳng định là Sai. Ở trạng thái cân bằng, các thông số trạng thái phải không đổi theo thời gian."
+  },
+  {
+    "question": "Khi xảy ra cân bằng nhiệt động các thông số trạng thái",
+    "answers": [
+      "Không biến đổi theo thời gian.",
+      "Biến đổi theo thời gian.",
+      "Biến đổi chậm",
+      "Không biến đổi theo thời gian nhưng biến đổi theo không gian."
+    ],
+    "correct": 0,
+    "explanation": "Khi đạt cân bằng nhiệt động, các thông số như nhiệt độ, áp suất, nồng độ không thay đổi theo thời gian."
+  },
+  {
+    "question": "“Năng lượng không tự nhiên sinh ra và không tự nhiên mất đi, nó chỉ biến đổi từ dạng này sang dạng khác hoặc từ vật này sang vật khác”",
+    "answers": [
+      "Là định luật bảo toàn năng lượng.",
+      "Là định luật chuyển hóa năng lượng.",
+      "Là định luật bảo toàn và chuyển hóa năng lượng",
+      "Là định luật biến đổi năng lượng"
+    ],
+    "correct": 2,
+    "explanation": "Đây là phát biểu đầy đủ của Nguyên lý thứ nhất Nhiệt động học (Định luật Bảo toàn và Chuyển hóa năng lượng)."
+  },
+  {
+    "question": "Nhiệt lượng Q mà hệ nhận được trong một quá trình bất kỳ sẽ bằng công A mà hệ sinh ra cộng với sự biến đổi nội năng U của hệ",
+    "answers": [
+      "Nguyên lý thứ nhất nhiệt động học",
+      "Nguyên lý thứ hai nhiệt động học",
+      "Nguyên lý thứ ba nhiệt động học",
+      "Nguyên lý thứ tư nhiệt động học"
+    ],
+    "correct": 0,
+    "explanation": "Đây là biểu thức của Nguyên lý thứ nhất Nhiệt động học: Delta Q = Delta U + Delta A (Nhiệt cung cấp = Biến thiên nội năng + Công thực hiện)."
+  },
+  {
+    "question": "Áp dụng nguyên lí thứ nhất cho hệ thống sống: Delta Q = Delta E + Delta A + Delta M. Trong đó Delta Q là",
+    "answers": [
+      "nhiệt lượng sinh ra trong quá trình đồng hóa thức ăn",
+      "công mà cơ thể thực hiện",
+      "năng lượng dự trữ",
+      "năng lượng mất do môi trường xung quanh"
+    ],
+    "correct": 0,
+    "explanation": "Trong công thức Delta Q = Delta E + Delta A + Delta M, Delta Q là nhiệt lượng (năng lượng) thu vào, thường là từ quá trình đồng hóa thức ăn."
+  },
+  {
+    "question": "Áp dụng nguyên lí thứ nhất cho hệ thống sống: Delta Q = Delta E + Delta A + Delta M. Trong đó Delta A là",
+    "answers": [
+      "năng lượng mất do môi trường xung quanh",
+      "nhiệt lượng sinh ra trong quá trình đồng hóa thức ăn",
+      "năng lượng dự trữ",
+      "công mà cơ thể thực hiện"
+    ],
+    "correct": 3,
+    "explanation": "Trong công thức Delta Q = Delta E + Delta A + Delta M, Delta A là công cơ học mà cơ thể thực hiện."
+  },
+  {
+    "question": "Áp dụng nguyên lí thứ nhất cho hệ thống sống: Delta Q = Delta E + Delta A + Delta M. Trong đó Delta M là",
+    "answers": [
+      "năng lượng dự trữ",
+      "công mà cơ thể thực hiện",
+      "năng lượng mất do môi trường xung quanh",
+      "nhiệt lượng sinh ra trong quá trình đồng hóa thức ăn"
+    ],
+    "correct": 0,
+    "explanation": "Trong công thức Delta Q = Delta E + Delta A + Delta M, Delta M là phần năng lượng còn lại được dùng để dự trữ (chuyển hóa thành khối lượng cơ thể)."
+  },
+  {
+    "question": "Biểu thức nguyên lý thứ nhất nhiệt động học: Delta Q = Delta A + Delta U, khi Delta Q > 0 là khi hệ mất nhiệt",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 1,
+    "explanation": "Khẳng định là Sai. Theo quy ước, Delta Q > 0 là khi hệ **nhận** nhiệt, Delta Q < 0 là khi hệ **mất** nhiệt."
+  },
+  {
+    "question": "Entropi của một hệ chỉ độ hỗn loại của hệ đó",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 0,
+    "explanation": "Khẳng định là Đúng. Entropi là đại lượng đo mức độ hỗn loạn hay không trật tự của một hệ."
+  },
+  {
+    "question": "Entropi của một hệ càng lớn chứng tỏ hệ càng trật tự",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 1,
+    "explanation": "Khẳng định là Sai. Entropi càng lớn thì độ hỗn loạn càng cao, tức hệ càng **kém** trật tự."
+  },
+  {
+    "question": "Tính trật tự của hệ cô lập chỉ có thể giữ nguyên hoặc giảm dần",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 0,
+    "explanation": "Khẳng định là Đúng. Theo Nguyên lý II, Entropi (độ hỗn loạn) của hệ cô lập luôn tăng hoặc giữ nguyên, do đó tính trật tự phải giảm dần hoặc giữ nguyên."
+  },
+  {
+    "question": "Tính trật tự của hệ cô lập chỉ có thể giữ nguyên hoặc tăng dần",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 1,
+    "explanation": "Khẳng định là Sai. Tính trật tự giảm dần theo chiều tăng của Entropi."
+  },
+  {
+    "question": "Không thể tồn tại trong tự nhiên một chu trình mà kết quả duy nhất là biến nhiệt thành công, không để lại dấu vết gì ở môi trường xung quanh.",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 0,
+    "explanation": "Khẳng định là Đúng. Đây là một trong các phát biểu của Nguyên lý II Nhiệt động học (phát biểu Kelvin)."
+  },
+  {
+    "question": "Trong động cơ nhiệt xảy ra một chu trình mà kết quả duy nhất là biến nhiệt thành công, không để lại dấu vết gì ở môi trường xung quanh.",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 1,
+    "explanation": "Khẳng định là Sai. Điều này vi phạm Nguyên lý II Nhiệt động học (không thể có hiệu suất 100%)."
+  },
+  {
+    "question": "Không thể chế tạo được động cơ vĩnh cửu loại 2 tức là động cơ chuyển động tuần hoàn, cho ta công bằng cách nhận nhiệt lượng và làm lạnh từ cùng một nguồn",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 0,
+    "explanation": "Khẳng định là Đúng. Động cơ vĩnh cửu loại 2 là không thể chế tạo vì vi phạm Nguyên lý II Nhiệt động học."
+  },
+  {
+    "question": "Không thể chế tạo được động cơ vĩnh cửu loại 2 tức là động cơ chuyển động tuần hoàn, cho ta công bằng cách nhận nhiệt lượng và làm lạnh từ hai nguồn khác nhau",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 1,
+    "explanation": "Khẳng định là Sai. Động cơ nhiệt thông thường hoạt động bằng cách trao đổi nhiệt với hai nguồn (nóng và lạnh) và sinh công, đây là nguyên tắc hoạt động, không phải động cơ vĩnh cửu."
+  },
+  {
+    "question": "Trong hệ cô lập chỉ những quá trình nào kéo theo việc tăng entropi mới có thể tự diễn biến, giới hạn của sự tự diễn biến của chúng là trạng thái có trị số cực đại của entropi",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 0,
+    "explanation": "Khẳng định là Đúng. Entropi tăng là điều kiện tự diễn biến của quá trình trong hệ cô lập (Nguyên lý II)."
+  },
+  {
+    "question": "Trong hệ cô lập chỉ những quá trình nào kéo theo việc giảm entropi mới có thể tự diễn biến, giới hạn của sự tự diễn biến của chúng là trạng thái có trị số cực tiểu của entropi",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 1,
+    "explanation": "Khẳng định là Sai. Quá trình tự diễn biến theo chiều Entropi tăng (hỗn loạn tăng)."
+  },
+  {
+    "question": "Quá trình thuận nghịch là quá trình tự nó có thể trở về trạng thái ban đầu với sự cung cấp năng lượng từ bên ngoài",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 1,
+    "explanation": "Khẳng định là Sai. Quá trình thuận nghịch là quá trình có thể đảo ngược mà không cần thay đổi Entropi tổng cộng của hệ và môi trường."
+  },
+  {
+    "question": "Quá trình thuận nghịch là quá trình tự nó có thể trở về trạng thái ban đầu mà không cần cung cấp năng lượng từ bên ngoài",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 0,
+    "explanation": "Khẳng định là Đúng. Quá trình thuận nghịch là quá trình lý tưởng, có thể thực hiện theo chiều ngược lại với cùng một lực/áp suất, không làm thay đổi Entropi tổng cộng."
+  },
+  {
+    "question": "Mọi quá trình hóa sinh và lý sinh xảy ra trong cơ thể sống đều là các quá trình",
+    "answers": [
+      "Thuận nghịch",
+      "Thuận nghịch hoặc bất thuận nghịch",
+      "Bất thuận nghịch",
+      "Thuận nghịch và bất thuận nghịch"
+    ],
+    "correct": 2,
+    "explanation": "Mọi quá trình tự diễn biến trong tự nhiên (bao gồm cả quá trình sống) đều là các quá trình bất thuận nghịch."
+  },
+  {
+    "question": "Quá trình vận chuyển vật chất trong cơ thể là một quá trình phức tạp xảy ra theo nhiều cơ chế và phụ thuộc nhiều yếu tố và không phụ thuộc nhiều vào cơ thể sinh vật",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 1,
+    "explanation": "Khẳng định là Sai. Quá trình vận chuyển vật chất **phụ thuộc rất nhiều** vào cơ chế điều hòa của cơ thể sinh vật."
+  },
+  {
+    "question": "Quá trình vận chuyển vật chất trong cơ thể là một quá trình phức tạp xảy ra theo nhiều cơ chế và phụ thuộc nhiều yếu tố",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 0,
+    "explanation": "Khẳng định là Đúng. Vận chuyển vật chất phụ thuộc vào nhiều cơ chế (khuếch tán, thẩm thấu, vận chuyển tích cực...) và nhiều yếu tố (nồng độ, nhiệt độ, áp suất, điện thế...)."
+  },
+  {
+    "question": "Mọi cơ thể sinh vật đều chứa trong nó một số vô cùng lớn các phân tử và ion, được phân bố và sắp xếp một cách có trật tự cao",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 0,
+    "explanation": "Khẳng định là Đúng. Cấu trúc tổ chức của cơ thể sống có tính trật tự cao (Entropy thấp cục bộ)."
+  },
+  {
+    "question": "Mọi cơ thể sinh vật đều chứa trong nó một số vô cùng lớn các phân tử và ion, được phân bố và sắp xếp một cách hỗn loạn không ngừng",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 1,
+    "explanation": "Khẳng định là Sai. Mặc dù có chuyển động nhiệt (hỗn loạn), nhưng tổng thể cấu trúc được sắp xếp có trật tự cao."
+  },
+  {
+    "question": "Chỉ ra ý sai: Phân tử hoặc ion trong cơ thể có thể",
+    "answers": [
+      "chuyển động",
+      "ở dạng đơn giản",
+      "ở dạng phức tạp",
+      "đứng yên tuyệt đối"
+    ],
+    "correct": 3,
+    "explanation": "Theo nguyên lý nhiệt động và động học, các phân tử và ion trong cơ thể luôn chuyển động (chuyển động Brown, chuyển động nhiệt, chuyển động dòng...). Không có trạng thái 'đứng yên tuyệt đối'."
+  },
+  {
+    "question": "Vai trò của phân tử, nguyên tử trong cơ thể là: Yếu tố cấu trúc của cơ thể, dự trữ, vận chuyển và giải phóng năng lượng, chứa đựng thông tin di truyền, tạo nên các điện thế nghỉ, điện thế hoạt động.",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 0,
+    "explanation": "Khẳng định là Đúng. Các phân tử, nguyên tử và ion đóng vai trò cơ bản trong mọi hoạt động và cấu trúc của cơ thể sống."
+  },
+  {
+    "question": "Vai trò của phân tử, nguyên tử trong cơ thể là: Yếu tố cấu trúc của cơ thể, dự trữ, vận chuyển và giải phóng năng lượng, chứa đựng thông tin di truyền, tạo nên các sự chênh lệch điện thế của cơ thể với môi trường ngoài.",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 1,
+    "explanation": "Khẳng định là Sai. Các ion tạo ra **điện thế nghỉ và điện thế hoạt động** qua màng tế bào, không phải 'chênh lệch điện thế của cơ thể với môi trường ngoài'."
+  },
+  {
+    "question": "Nước và lipít là hai dung môi cơ bản và có vai trò quan trọng nhất trong cơ thể sinh vật",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 0,
+    "explanation": "Khẳng định là Đúng. Nước là dung môi phân cực chính, lipit là dung môi không phân cực chính của cơ thể (ví dụ: màng tế bào)."
+  },
+  {
+    "question": "Nước và lipít là hai dung dịch cơ bản và có vai trò quan trọng nhất trong cơ thể sinh vật",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 1,
+    "explanation": "Khẳng định là Sai. Nước và lipit là **dung môi**, không phải **dung dịch**."
+  },
+  {
+    "question": "Chỉ ra ý sai: Vai trò của các dung dịch trong cơ thể sinh vật:",
+    "answers": [
+      "Chứa đựng các thông tin cơ bản của cơ thể",
+      "Vận chuyển vật chất từ nơi này đến nơi khác của cơ thể.",
+      "Là môi trường để thực hiện các phản ứng hoá sinh.",
+      "Bao bọc và bảo vệ các tế bào, các tổ chức sống."
+    ],
+    "correct": 0,
+    "explanation": "Thông tin di truyền được chứa đựng trong các đại phân tử như DNA, RNA, không phải là vai trò chính của các dung dịch (như dịch nội bào, dịch ngoại bào)."
+  },
+  {
+    "question": "Dung dịch đại phân tử có thể được phân tán vào trong môi trường nước hoặc lipid trong cơ thể.",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 0,
+    "explanation": "Khẳng định là Đúng. Ví dụ, protein có thể tan trong nước (phân tử ưa nước) hoặc nằm trong màng lipid (phân tử kỵ nước/lưỡng cực)."
+  },
+  {
+    "question": "Dung dịch đại phân tử:",
+    "answers": [
+      "phân tử có phân tử lượng lớn (cỡ hàng chục nghìn đến hàng triệu).",
+      "có thể được phân tán vào trong môi trường nước hoặc lipid trong cơ thể.",
+      "có các tính chất chung như dung dịch keo.",
+      "Tất cả các ý đều đúng."
+    ],
+    "correct": 3,
+    "explanation": "Các đại phân tử có khối lượng lớn, có tính chất keo và phân tán trong các môi trường sinh học."
+  },
+  {
+    "question": "Dung dịch keo là dung dịch",
+    "answers": [
+      "Có tính kết dính mạnh với dung dịch khác",
+      "Dung môi là lipit",
+      "Dung môi có tính keo",
+      "Chất tan là chất keo"
+    ],
+    "correct": 3,
+    "explanation": "Dung dịch keo là dung dịch có chất tan là các hạt keo (kích thước lớn hơn ion, nhỏ hơn huyền phù)."
+  },
+  {
+    "question": "Nước đường tinh khiết là",
+    "answers": [
+      "Dung dịch không điện li",
+      "Dung dịch điện li",
+      "Dung dịch keo",
+      "Tất cả các ý sai"
+    ],
+    "correct": 0,
+    "explanation": "Đường (Saccharose) là chất hữu cơ không phân ly thành ion trong nước, do đó là dung dịch không điện li."
+  },
+  {
+    "question": "Nước muối NaCl là",
+    "answers": [
+      "Dung dịch không điện li",
+      "Dung dịch điện li",
+      "Dung dịch keo",
+      "Tất cả các ý sai"
+    ],
+    "correct": 1,
+    "explanation": "NaCl phân ly hoàn toàn thành ion Na+ và Cl- trong nước, do đó là dung dịch điện li."
+  },
+  {
+    "question": "Dung dịch keo khuếch tán nhanh hơn dung dịch thực",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 1,
+    "explanation": "Khẳng định là Sai. Dung dịch keo có kích thước hạt tan lớn hơn dung dịch thực, nên tốc độ khuếch tán của chúng chậm hơn."
+  },
+  {
+    "question": "Hiện tượng vận chuyển vật chất xảy ra trong cơ thể theo cơ chế vật lý cơ bản là: Vận chuyển vật chất giữa trong và ngoài màng tế bào.",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 1,
+    "explanation": "Khẳng định là Sai. Đây là nơi xảy ra quá trình vận chuyển, không phải cơ chế vật lý cơ bản. Cơ chế vật lý cơ bản là Khuếch tán, Thẩm thấu, Lọc, Siêu lọc."
+  },
+  {
+    "question": "Hiện tượng vận chuyển vật chất xảy ra trong cơ thể theo cơ chế vật lý cơ bản là:",
+    "answers": [
+      "Khuếch tán, thẩm thấu, lọc và siêu lọc.",
+      "Tạo thành dòng vĩ mô.",
+      "Vận chuyển vật chất giữa trong và ngoài màng tế bào.",
+      "Nguyên tử hoặc phân tử hai chất trộn lẫn chung với nhau."
+    ],
+    "correct": 0,
+    "explanation": "Bốn cơ chế vật lý chính chi phối sự vận chuyển vật chất trong cơ thể là Khuếch tán, Thẩm thấu, Lọc và Siêu lọc."
+  },
+  {
+    "question": "Hệ số khuếch tán D không phụ thuộc vào nhiệt độ tuyệt đối của dung dịch",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 1,
+    "explanation": "Khẳng định là Sai. Hệ số khuếch tán D tỷ lệ thuận với nhiệt độ tuyệt đối T (theo phương trình Einstein, D propto T). Nhiệt độ tăng làm chuyển động nhiệt mạnh hơn, tăng tốc độ khuếch tán."
+  },
+  {
+    "question": "Một trong các nguyên nhân gây ra áp suất thẩm thấu là do sự có mặt của các chất hòa tan trong dung dịch.",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 0,
+    "explanation": "Khẳng định là Đúng. Áp suất thẩm thấu tỷ lệ với nồng độ các hạt chất tan ( pi = iCRT)."
+  },
+  {
+    "question": "Áp suất thẩm thấu",
+    "answers": [
+      "Sinh ra là do sự có mặt của các chất hòa tan trong dung dịch.",
+      "Nó có tác dụng làm dung môi chuyển động về phía dung dịch.",
+      "Nó có độ lớn bằng áp suất (thủy tĩnh) cần thiết làm ngừng sự thẩm thấu khi đặt dung dịch ngăn cách với dung môi bằng một màng bán thấm.",
+      "Tất cả các ý đều đúng."
+    ],
+    "correct": 3,
+    "explanation": "Áp suất thẩm thấu (Osmotic pressure) là một thuộc tính vật lý của dung dịch, do chất tan gây ra, hút dung môi qua màng bán thấm và có thể đo bằng áp suất thủy tĩnh cần thiết để ngăn chặn sự thẩm thấu."
+  },
+  {
+    "question": "Định nghĩa hiện tượng khuếch tán: Là hiện tượng hai hay nhiều chất lỏng chuyển động ngẫu nhiên xuyên lẫn vào nhau.",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 1,
+    "explanation": "Khẳng định là Sai. Khuếch tán là hiện tượng chất tan chuyển động ngẫu nhiên từ nơi có nồng độ cao đến nơi có nồng độ thấp."
+  },
+  {
+    "question": "Hiện tượng khuếch tán đạt trạng thái cân bằng khi có trạng thái xác suất nhiệt động lớn nhất",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 0,
+    "explanation": "Khẳng định là Đúng. Trạng thái cân bằng là trạng thái có Entropi cực đại, tương ứng với xác suất nhiệt động lớn nhất (trạng thái hỗn loạn nhất)."
+  },
+  {
+    "question": "Hiện tượng khuếch tán coi là kết thúc khi:",
+    "answers": [
+      "Có trạng thái xác suất nhiệt động bé nhất",
+      "Có trạng thái xác suất nhiệt động trung bình",
+      "Có trạng thái xác suất nhiệt động lớn nhất",
+      "Tất cả các ý sai"
+    ],
+    "correct": 2,
+    "explanation": "Hiện tượng kết thúc khi đạt trạng thái cân bằng, tức là trạng thái hỗn loạn (xác suất nhiệt động) lớn nhất."
+  },
+  {
+    "question": "Bản chất của hiện tượng khuếch tán là sự chuyển động của chất hòa tan",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 0,
+    "explanation": "Khẳng định là Đúng. Khuếch tán là sự phân bố đồng đều của các phân tử chất tan trong dung môi."
+  },
+  {
+    "question": "Bản chất của hiện tượng khuếch tán là sự chuyển động của dung môi",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 1,
+    "explanation": "Khẳng định là Sai. Chuyển động của dung môi là bản chất của hiện tượng thẩm thấu."
+  },
+  {
+    "question": "Bản chất của hiện tượng khuếch tán là sự chuyển động của",
+    "answers": [
+      "Dung dịch",
+      "Dung môi",
+      "Chất lỏng",
+      "Chất tan"
+    ],
+    "correct": 3,
+    "explanation": "Khuếch tán là sự chuyển động của chất tan (solute) để cân bằng nồng độ."
+  },
+  {
+    "question": "Bản chất của hiện tượng thẩm thấu là sự chuyển động của dung môi",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 0,
+    "explanation": "Khẳng định là Đúng. Thẩm thấu là sự chuyển động của dung môi qua màng bán thấm."
+  },
+  {
+    "question": "Bản chất của hiện tượng thẩm thấu là sự chuyển động của dòng dung dịch",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 1,
+    "explanation": "Khẳng định là Sai. Thẩm thấu là sự chuyển động của **dung môi**, không phải dòng dung dịch."
+  },
+  {
+    "question": "Bản chất của hiện tượng thẩm thấu là sự chuyển động của",
+    "answers": [
+      "Dung môi",
+      "Chất lỏng",
+      "Chất tan",
+      "Dung dịch"
+    ],
+    "correct": 0,
+    "explanation": "Thẩm thấu là sự chuyển động của dung môi (ví dụ: nước) qua màng bán thấm."
+  },
+  {
+    "question": "Bản chất của hiện tượng lọc, siêu lọc là sự chuyển động của",
+    "answers": [
+      "Dung môi",
+      "Dung dịch",
+      "Chất lỏng",
+      "Chất tan"
+    ],
+    "correct": 1,
+    "explanation": "Lọc và siêu lọc là sự chuyển động của cả khối dung dịch (dung môi và chất tan) dưới tác dụng của áp suất (lực tổng hợp)."
+  },
+  {
+    "question": "Cơ chế của hiện tượng khuếch tán là chuyển động",
+    "answers": [
+      "Từ nơi có nồng độ thấp sang nơi có nồng độ cao",
+      "Theo chiều lực tổng hợp",
+      "Từ nơi có nồng độ cao sang nơi có nồng độ thấp",
+      "Theo trọng lực của trái đất"
+    ],
+    "correct": 2,
+    "explanation": "Khuếch tán xảy ra theo gradien nồng độ (nơi cao đến nơi thấp)."
+  },
+  {
+    "question": "Cơ chế của hiện tượng thẩm thấu là chuyển động từ nơi có nồng độ thấp sang nơi có nồng độ cao",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 0,
+    "explanation": "Khẳng định là Đúng. Dung môi (nước) chuyển động từ nơi có nồng độ chất tan thấp (ít chất tan) sang nơi có nồng độ chất tan cao (nhiều chất tan)."
+  },
+  {
+    "question": "Cơ chế của hiện tượng thẩm thấu là chuyển động",
+    "answers": [
+      "Từ nơi có nồng độ thấp sang nơi có nồng độ cao",
+      "Theo trọng lực của trái đất",
+      "Từ nơi có nồng độ cao sang nơi có nồng độ thấp",
+      "Theo chiều lực tổng hợp"
+    ],
+    "correct": 0,
+    "explanation": "Thẩm thấu là dung môi di chuyển về phía có nồng độ chất tan cao hơn."
+  },
+  {
+    "question": "Cơ chế của hiện tượng lọc, siêu lọc là chuyển động từ nơi có nồng độ cao sang nơi có nồng độ thấp",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 1,
+    "explanation": "Khẳng định là Sai. Cơ chế Lọc/Siêu lọc do áp suất (lực) chi phối, không phải do gradien nồng độ."
+  },
+  {
+    "question": "Cơ chế của hiện tượng lọc, siêu lọc là chuyển động",
+    "answers": [
+      "Từ nơi có nồng độ thấp sang nơi có nồng độ cao",
+      "Theo trọng lực của trái đất",
+      "Theo chiều lực tổng hợp",
+      "Từ nơi có nồng độ cao sang nơi có nồng độ thấp"
+    ],
+    "correct": 2,
+    "explanation": "Lọc và siêu lọc là sự chuyển động của khối dung dịch theo hướng của lực/áp suất tổng hợp (ví dụ: áp suất thủy tĩnh)."
+  },
+  {
+    "question": "Động lực của quá trình khuếch tán là:",
+    "answers": [
+      "Gradien áp suất",
+      "Năng lượng từ các tế bào ATP",
+      "Năng lượng từ ngoài vào",
+      "Gradien nồng độ"
+    ],
+    "correct": 3,
+    "explanation": "Khuếch tán xảy ra tự phát do sự chênh lệch nồng độ chất tan giữa hai vùng (gradien nồng độ)."
+  },
+  {
+    "question": "Động lực của quá trình thẩm thấu là: Gradien áp suất",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 0,
+    "explanation": "Khẳng định là Đúng. Thẩm thấu xảy ra do chênh lệch áp suất thẩm thấu (một dạng gradien áp suất) giữa hai bên màng."
+  },
+  {
+    "question": "Động lực của quá trình thẩm thấu là:",
+    "answers": [
+      "Gradien nồng độ",
+      "Gradien áp suất",
+      "Năng lượng từ các tế bào ATP",
+      "Năng lượng từ ngoài vào"
+    ],
+    "correct": 1,
+    "explanation": "Động lực trực tiếp của thẩm thấu là sự chênh lệch áp suất thẩm thấu (một dạng gradien áp suất)."
+  },
+  {
+    "question": "Động lực của quá trình Lọc, siêu lọc là:",
+    "answers": [
+      "Gradien nồng độ",
+      "Gradien áp suất",
+      "Năng lượng từ các tế bào ATP",
+      "Tất cả các ý sai"
+    ],
+    "correct": 2,
+    "explanation": "Trong ngữ cảnh Lý Sinh học/Y học, quá trình **Lọc** (chủ động) hoặc **Siêu lọc** đôi khi được xếp vào các cơ chế cần năng lượng (ATP) để thực hiện, mặc dù về vật lý cơ bản, động lực của lọc là gradien áp suất (lực tổng hợp). Dựa trên đáp án trong nguồn, nó đang quy chung vào nhóm cần năng lượng sinh học (vận chuyển tích cực)."
+  },
+  {
+    "question": "Quá trình Lọc, siêu lọc cần cung cấp năng lượng",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 0,
+    "explanation": "Khẳng định là Đúng. Trong cơ thể, một số quá trình 'lọc' hoặc 'siêu lọc' (ví dụ: ở thận) có liên quan đến các cơ chế vận chuyển tích cực cần ATP."
+  },
+  {
+    "question": "Quá trình Khuếch tán cần cung cấp năng lượng",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 1,
+    "explanation": "Khẳng định là Sai. Khuếch tán là vận chuyển thụ động, không cần cung cấp năng lượng sinh học (ATP)."
+  },
+  {
+    "question": "Quá trình Thẩm thấu cần cung cấp năng lượng",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 1,
+    "explanation": "Khẳng định là Sai. Thẩm thấu là vận chuyển thụ động của dung môi, không cần cung cấp năng lượng sinh học (ATP)."
+  },
+  {
+    "question": "Thẩm thấu là quá trình vận chuyển chất dung môi qua một màng xốp thấm tự do ngăn hai dung dịch có thành phần khác nhau. Quá trình vận chuyển đó không có sự tham gia của ngoại lực.",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 1,
+    "explanation": "Khẳng định là Sai. Thẩm thấu phải xảy ra qua **màng bán thấm**, không phải 'màng xốp thấm tự do'."
+  },
+  {
+    "question": "Cân bằng Donnan giúp chúng ta nhận biết",
+    "answers": [
+      "Động lực gây nên dòng chảy về phía các tế bào sống",
+      "Bản chất của quá trình hấp thu qua màng tế bào",
+      "Cơ chế hoạt động của màng tế bào",
+      "Tất cả các ý sai"
+    ],
+    "correct": 0,
+    "explanation": "Cân bằng Donnan giải thích sự phân bố không đều của các ion khuếch tán được (gây ra điện thế Donnan) và chênh lệch áp suất thẩm thấu, là động lực cho sự vận chuyển qua màng."
+  },
+  {
+    "question": "Trong Cân bằng Donnan biểu thức: [Na+]₂ [Cl-]₂ = [Na+]₁ [Cl-]₁ biểu thị:",
+    "answers": [
+      "Số ion qua lại màng bằng nhau",
+      "Cân bằng điện tích",
+      "Cân bằng nồng độ",
+      "Nồng độ ở hai ngăn là bằng nhau"
+    ],
+    "correct": 0,
+    "explanation": "Đây là điều kiện cân bằng của các ion khuếch tán được trong cân bằng Donnan, cho thấy tích nồng độ các ion ở hai ngăn là bằng nhau."
+  },
+  {
+    "question": "Trong Cân bằng Donnan biểu thức: (C_2 - x)^2 = (C_1 + x)x biểu thị:",
+    "answers": [
+      "Tích số nồng độ R- và Na+ ở 2 ngăn",
+      "Tích số nồng độ Cl- và Na+ ở 2 ngăn",
+      "Tích số nồng độ Cl- và R- ở 2 ngăn",
+      "Tích số nồng độ Cl-, R- và Na+ ở 2 ngăn"
+    ],
+    "correct": 1,
+    "explanation": "Biểu thức này là phương trình giải tìm nồng độ ion tại trạng thái cân bằng Donnan, dựa trên các nồng độ ion ban đầu (Cl⁻ và Na⁺)."
+  },
+  {
+    "question": "Trong Cân bằng Donnan, trường hợp C_1 ll C_2 biểu thị Dòng chảy vật chất từ ngoài qua màng vào trong tế bào là",
+    "answers": [
+      "C_2/3",
+      "C_2",
+      "C_2/2",
+      "0"
+    ],
+    "correct": 2,
+    "explanation": "Khi nồng độ ion không khuếch tán được (C_1) rất nhỏ so với ion khuếch tán được (C_2), áp suất thẩm thấu hiệu dụng Deltapi propto frac{C_2}{2}. Dòng chảy nước vào tế bào tỷ lệ với áp suất thẩm thấu hiệu dụng."
+  },
+  {
+    "question": "Trong Cân bằng Donnan, trường hợp C_1 gg C_2 biểu thị Dòng chảy vật chất từ ngoài qua màng vào trong tế bào là",
+    "answers": [
+      "C_2/2",
+      "C_2/3",
+      "C_2",
+      "0"
+    ],
+    "correct": 3,
+    "explanation": "Khi nồng độ ion không khuếch tán được (C_1) rất lớn so với ion khuếch tán được (C_2), chênh lệch nồng độ hiệu dụng gần như bằng 0, do đó dòng chảy vật chất/nước vào tế bào là 0."
+  },
+  {
+    "question": "Trong Cân bằng Donnan, trường hợp C_1 = C_2 biểu thị Dòng chảy vật chất từ ngoài qua màng vào trong tế bào là",
+    "answers": [
+      "C_2/3",
+      "0",
+      "C_2/2",
+      "C_2"
+    ],
+    "correct": 0,
+    "explanation": "Khi nồng độ ion không khuếch tán được (C_1) bằng ion khuếch tán được (C_2), áp suất thẩm thấu hiệu dụng Deltapi propto frac{C_2}{3}. Dòng chảy nước vào tế bào tỷ lệ với áp suất thẩm thấu hiệu dụng."
+  },
+  {
+    "question": "Môi trường nhược trương so với tế bào là môi trường: Có nồng độ chất tan thấp hơn nồng độ trong tế bào",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 0,
+    "explanation": "Khẳng định là Đúng. Đây là định nghĩa của môi trường nhược trương (Hypotonic), làm nước thẩm thấu vào tế bào."
+  },
+  {
+    "question": "Môi trường nhược trương so với tế bào là môi trường:",
+    "answers": [
+      "Có nồng độ chất tan cao hơn nồng độ trong tế bào",
+      "Có nồng độ chất tan bằng nồng độ trong tế bào",
+      "Có nồng độ chất tan thấp hơn nồng độ trong tế bào",
+      "Tất cả các ý đúng"
+    ],
+    "correct": 2,
+    "explanation": "Môi trường nhược trương có áp suất thẩm thấu thấp hơn tế bào (nồng độ chất tan thấp hơn)."
+  },
+  {
+    "question": "Môi trường ưu trương so với tế bào là môi trường:",
+    "answers": [
+      "Có nồng độ chất tan cao hơn nồng độ trong tế bào",
+      "Có nồng độ chất tan thấp hơn nồng độ trong tế bào",
+      "Có nồng độ chất tan bằng nồng độ trong tế bào",
+      "Tất cả các ý sai"
+    ],
+    "correct": 0,
+    "explanation": "Môi trường ưu trương (Hypertonic) có áp suất thẩm thấu cao hơn tế bào (nồng độ chất tan cao hơn)."
+  },
+  {
+    "question": "Nếu để tế bào trong môi trường ưu trương thì:",
+    "answers": [
+      "Tế bào mất nước, co lại",
+      "Tế bào hấp thu nước, phồng lên",
+      "Tế bào bình thường",
+      "Tất cả các ý đúng"
+    ],
+    "correct": 0,
+    "explanation": "Trong môi trường ưu trương, nước di chuyển từ tế bào (nồng độ thấp) ra môi trường (nồng độ cao) làm tế bào mất nước và co lại."
+  },
+  {
+    "question": "Nếu để tế bào trong môi trường nhược trương thì:",
+    "answers": [
+      "Tế bào mất nước, co lại",
+      "Tế bào hấp thu nước, phồng lên",
+      "Tế bào bình thường",
+      "Tất cả các ý sai"
+    ],
+    "correct": 1,
+    "explanation": "Trong môi trường nhược trương, nước di chuyển từ môi trường (nồng độ thấp) vào tế bào (nồng độ cao) làm tế bào hấp thu nước và phồng lên (có thể bị vỡ)."
+  },
+  {
+    "question": "Siêu lọc là hiện tượng lọc với màng ngăn là màng xốp thấm tự do",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 1,
+    "explanation": "Khẳng định là Sai. Siêu lọc phải dùng **màng bán thấm** để ngăn chặn các phân tử lớn (chất keo), cho phép dung môi và chất tan nhỏ đi qua."
+  },
+  {
+    "question": "Siêu lọc là hiện tượng lọc với màng ngăn là",
+    "answers": [
+      "Màng xốp thấm tự do",
+      "Màng thấm tự do",
+      "Màng thấm toàn phần",
+      "Màng bán thấm"
+    ],
+    "correct": 3,
+    "explanation": "Màng bán thấm (semipermeable membrane) là màng ngăn được sử dụng trong siêu lọc."
+  },
+  {
+    "question": "Phương pháp nghiên cứu sự vận chuyển vật chất qua màng tế bào bằng những khảo sát động học sự thay đổi thể tích tế bào khi ta đặt chúng trong các dung dịch ưu trương nồng độ khác nhau sau đó ly tâm để tách tế bào, đo thể tích tế bào, đo mật độ quang học của dung dịch, đo chiết suất dung dịch... gọi là phương pháp:",
+    "answers": [
+      "Phương pháp thẩm thấu",
+      "Phương pháp sử dụng các chất màu",
+      "Phương pháp phân tích vi lượng hoá học",
+      "Phương pháp đồng vị phóng xạ"
+    ],
+    "correct": 0,
+    "explanation": "Phương pháp này dựa trên hiện tượng thẩm thấu (sự thay đổi thể tích tế bào do nước di chuyển), nên được gọi là Phương pháp thẩm thấu."
+  },
+  {
+    "question": "Phương pháp nghiên cứu sự vận chuyển vật chất qua màng tế bào bằng cách khảo sát tốc độ thâm nhập của các chất màu. Với phương pháp này, nếu nồng độ thấp thì khó xác định kết quả. Nếu nồng độ cao thì độc cho tế bào.",
+    "answers": [
+      "Phương pháp thẩm thấu",
+      "Phương pháp sử dụng các chất màu",
+      "Phương pháp phân tích vi lượng hoá học",
+      "Phương pháp đồng vị phóng xạ"
+    ],
+    "correct": 1,
+    "explanation": "Phương pháp sử dụng chất màu để đánh giá sự thâm nhập của chất vào tế bào."
+  },
+  {
+    "question": "Phương pháp nghiên cứu sự vận chuyển vật chất qua màng tế bào bằng cách thay thế đồng vị thường bằng đồng vị phóng xạ. Phương pháp này cho ta kết quả chính xác cao nhất về định lượng, đồng thời không gây những biến đổi bất thường cho các đối tượng cần duy trì ở trạng thái sống.",
+    "answers": [
+      "Phương pháp sử dụng các chất màu",
+      "Phương pháp thẩm thấu",
+      "Phương pháp đồng vị phóng xạ",
+      "Phương pháp phân tích vi lượng hoá học"
+    ],
+    "correct": 2,
+    "explanation": "Việc sử dụng đồng vị phóng xạ (Chất đánh dấu) để theo dõi tốc độ và con đường vận chuyển vật chất là Phương pháp đồng vị phóng xạ."
+  },
+  {
+    "question": "Vận chuyển thụ động là quá trình không phải cung cấp năng lượng, năng lượng được lấy từ sự chênh lệch gradien nồng độ.",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 0,
+    "explanation": "Khẳng định là Đúng. Vận chuyển thụ động là quá trình tự phát, động lực là các gradien (nồng độ, áp suất, điện thế), không cần ATP."
+  },
+  {
+    "question": "Vận chuyển chủ động là quá trình không phải cung cấp năng lượng, năng lượng được lấy từ sự chênh lệch gradien nồng độ.",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 1,
+    "explanation": "Khẳng định là Sai. Vận chuyển chủ động là quá trình **cần** cung cấp năng lượng (ATP) và thường đi **ngược** chiều gradien."
+  },
+  {
+    "question": "Quá trình vận chuyển vật chất qua màng có động lực là các loại gradien khác nhau tồn tại ở hai phía của màng. Năng lượng chi phí cho các vận chuyển này được lấy ngay ở phần năng lượng dự trữ trong các gradien, tế bào không phải cung cấp thêm năng lượng lấy từ phải ứng hóa sinh. Chiều vận chuyển vật chất do tổng các vectơ gradien ở vùng màng quyết định.",
+    "answers": [
+      "Vận chuyển tích cực",
+      "Vận chuyển thụ động",
+      "Thực bào ẩm bào",
+      "Tất cả các ý sai"
+    ],
+    "correct": 1,
+    "explanation": "Đây là định nghĩa của **Vận chuyển thụ động** (Passive transport), nơi sự di chuyển theo chiều gradien và không tiêu tốn ATP."
+  },
+  {
+    "question": "Vận chuyển ngược chiều Gradien nồng độ, cần cung cấp năng lượng, dòng vật chất đi từ ngoài vào trong tế bào",
+    "answers": [
+      "Vận chuyển thụ động",
+      "Thực bào ẩm bào",
+      "Vận chuyển tích cực",
+      "Tất cả các ý sai"
+    ],
+    "correct": 2,
+    "explanation": "Vận chuyển đi ngược chiều gradien và cần năng lượng (ATP) là đặc điểm của **Vận chuyển tích cực** (Active transport)."
+  },
+  {
+    "question": "Khi tâm thất co, van nhĩ thất đóng còn van bán nguyệt mở.",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 0,
+    "explanation": "Khẳng định là Đúng. Khi tâm thất co (thì tâm thu thất), máu được đẩy vào động mạch, nên van nhĩ thất phải đóng để ngăn máu trào ngược, và van bán nguyệt phải mở để máu đi ra."
+  },
+  {
+    "question": "Khi tâm thất co.",
+    "answers": [
+      "Van nhĩ thất đóng còn van bán nguyệt mở.",
+      "Van nhĩ thất và van bán nguyệt đều mở.",
+      "Van nhĩ thất và van bán nguyệt đều đóng.",
+      "Van nhĩ thất mở còn van bán nguyệt đóng."
+    ],
+    "correct": 0,
+    "explanation": "Khi tâm thất co (thì tâm thu), van nhĩ thất đóng để ngăn máu trào ngược về tâm nhĩ, van bán nguyệt (van động mạch chủ và phổi) mở để máu được đẩy ra khỏi tim."
+  },
+  {
+    "question": "Chức năng quan trọng nhất của hệ tuần hoàn là:",
+    "answers": [
+      "Duy trì cân bằng nội môi.",
+      "Vận chuyển các chất từ nơi này đến nơi khác trong cơ thể.",
+      "Điều hoà nhiệt độ.",
+      "Bảo vệ cơ thể chống bệnh tật."
+    ],
+    "correct": 1,
+    "explanation": "Chức năng cốt lõi và quan trọng nhất của hệ tuần hoàn là vận chuyển: oxy, chất dinh dưỡng, hormone, chất thải, v.v..."
+  },
+  {
+    "question": "Cơ tim hoạt động theo quy luật “tất cả hoặc không có gì” có nghĩa là:",
+    "answers": [
+      "Khi kích thích ở cường độ dưới ngưỡng, cơ tim hoàn toàn không co bóp nhưng khi kích thích với cường độ tới ngưỡng hoặc vượt ngưỡng, cơ tim co tối đa",
+      "Khi kích thích ở cường độ dưới ngưỡng, cơ tim hoàn toàn không co bóp nhưng khi kích thích với cường độ tới ngưỡng, cơ tim co bóp bình thường.",
+      "Khi kích thích ở cường độ dưới ngưỡng, cơ tim co bóp nhẹ, nhưng khi kích thích với cường độ tới ngưỡng, cơ tim co tối đa",
+      "Tất cả các ý đúng"
+    ],
+    "correct": 2,
+    "explanation": "Theo quy luật 'Tất cả hoặc không có gì' (All-or-none law), cơ tim sẽ co tối đa khi kích thích đạt ngưỡng. **Lưu ý:** Phát biểu chính xác là 'dưới ngưỡng thì không co bóp', tuy nhiên, chọn đáp án *C* theo nguồn vì nó được đánh dấu là đáp án đúng (có thể là một biến thể của quy luật hoặc có lỗi trong câu hỏi/đáp án gốc)."
+  },
+  {
+    "question": "Sự kích thích cơ tim chỉ có thể tạo nên sự đáp ứng khi:",
+    "answers": [
+      "Kích thích với cường độ tối đa",
+      "Kích thích vào giai đoạn tâm trương",
+      "Kích thích vào thời kỳ trơ tuyệt đối",
+      "Kích thích đạt đến ngưỡng và vào thời kỳ trơ tương đối"
+    ],
+    "correct": 3,
+    "explanation": "Trong thời kỳ trơ tương đối, cơ tim có thể đáp ứng với một kích thích có cường độ lớn hơn ngưỡng. Trong thời kỳ trơ tuyệt đối, cơ tim không đáp ứng với bất kỳ kích thích nào."
+  },
+  {
+    "question": "Huyết áp tối thiểu sinh ra bởi áp suất của",
+    "answers": [
+      "Mạch máu",
+      "Tâm thất",
+      "Tâm nhĩ",
+      "Tim"
+    ],
+    "correct": 0,
+    "explanation": "Huyết áp tối thiểu (tâm trương) sinh ra bởi sự **đàn hồi** của thành **mạch máu** (động mạch chủ) khi van bán nguyệt đóng và tim giãn."
+  },
+  {
+    "question": "Mạch máu có tính đàn hồi có tác dụng duy trì dòng chảy liên tục và tăng thêm áp suất dòng chảy.",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 0,
+    "explanation": "Khẳng định là đúng. Tính đàn hồi của động mạch giúp duy trì áp lực máu trong thì tâm trương và làm dòng chảy liên tục, êm dịu hơn."
+  },
+  {
+    "question": "Nhịp tim là tần số tim đập trong",
+    "answers": [
+      "1 giây",
+      "1 giờ",
+      "1 phút",
+      "1 ngày"
+    ],
+    "correct": 2,
+    "explanation": "Nhịp tim được đo bằng số lần co bóp của tim trong **1 phút** (lần/phút)."
+  },
+  {
+    "question": "Nhịp tim thể hiện cường độ trao đổi chất, trạng thái sinh lý, bệnh lý của cơ thể, của tim.",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 0,
+    "explanation": "Khẳng định là đúng. Nhịp tim chịu ảnh hưởng và phản ánh trạng thái hoạt động và bệnh lý của cơ thể."
+  },
+  {
+    "question": "Thể tích tâm thu: là lượng máu mỗi lần tim co bóp phóng đi của",
+    "answers": [
+      "Tâm thất phải và trái",
+      "Tâm thất phải",
+      "Tâm nhĩ phải và trái",
+      "Tâm nhĩ trái"
+    ],
+    "correct": 0,
+    "explanation": "Thể tích tâm thu (Stroke Volume) là lượng máu được bơm ra khỏi mỗi **tâm thất** (phải và trái) trong một lần co bóp."
+  },
+  {
+    "question": "Công của tim:Là năng lượng sinh ra do tim co bóp gồm:",
+    "answers": [
+      "Nhiệt năng và công cơ giới",
+      "Công cơ giới và hóa năng",
+      "Nhiệt năng và hóa năng",
+      "Công cơ giới"
+    ],
+    "correct": 0,
+    "explanation": "Năng lượng sinh ra do tim co bóp bao gồm **Công cơ giới** (đẩy máu) và **Nhiệt năng** (năng lượng thất thoát)."
+  },
+  {
+    "question": "Điền vào chỗ trống: Trương lực của mạch máu là ..... do sức ép của tim sinh ra chống lại sự giãn nở của thành mạch",
+    "answers": [
+      "Áp suất",
+      "Tính đàn hồi của thành mạch",
+      "Áp suất thủy tĩnh",
+      "Tất cả các ý đúng"
+    ],
+    "correct": 2,
+    "explanation": "**Trương lực mạch máu** là trạng thái co thắt của cơ trơn thành mạch, được đo bằng **áp suất thủy tĩnh** tác động lên thành mạch."
+  },
+  {
+    "question": "Huyết áp tối đa ở",
+    "answers": [
+      "Kỳ tâm thất trương",
+      "Kỳ tâm nhĩ thu",
+      "Kỳ tâm nhĩ trương",
+      "Kỳ tâm thất thu"
+    ],
+    "correct": 3,
+    "explanation": "Huyết áp tối đa (tâm thu) đạt được khi **tâm thất co** (tâm thất thu) để đẩy máu vào động mạch."
+  },
+  {
+    "question": "Huyết áp tối thiểu ở",
+    "answers": [
+      "Kỳ tâm thất trương",
+      "Kỳ tâm thất thu",
+      "Kỳ tâm nhĩ thu",
+      "Kỳ tâm nhĩ trương"
+    ],
+    "correct": 0,
+    "explanation": "Huyết áp tối thiểu (tâm trương) đạt được khi **tâm thất giãn** (tâm thất trương)."
+  },
+  {
+    "question": "Tốc độ dòng chảy trong lòng động mạch nhỏ chậm hơn trong lòng động mạch lớn do:",
+    "answers": [
+      "Tổng tiết diện cắt ngang của các động mạch nhỏ bé hơn",
+      "Tổng tiết diện cắt ngang của các động mạch nhỏ bằng tiết diện cắt ngang của động mạch lớn.",
+      "Tổng tiết diện cắt ngang của các động mạch nhỏ lớn hơn",
+      "Tất cả các ý sai"
+    ],
+    "correct": 2,
+    "explanation": "Theo nguyên lý thủy động lực học, tốc độ dòng chảy (v) tỉ lệ nghịch với tổng tiết diện cắt ngang (A) (v = Q/A}). Tổng tiết diện của các động mạch nhỏ **lớn hơn** của động mạch lớn, nên tốc độ chảy chậm hơn."
+  },
+  {
+    "question": "Nhiệt độ môi trường có thể ảnh hưởng đến tuần hoàn máu?",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 0,
+    "explanation": "Khẳng định là đúng. Nhiệt độ môi trường ảnh hưởng đến tuần hoàn qua cơ chế giãn hoặc co mạch để điều hòa nhiệt độ cơ thể."
+  },
+  {
+    "question": "Những yếu tố khách quan ảnh hưởng đến tuần hoàn máu:",
+    "answers": [
+      "Hoạt động của cơ bắp",
+      "Ảnh hưởng của trọng trường",
+      "Ảnh hưởng của nhiệt độ và môi trường",
+      "Tất cả các ý đúng"
+    ],
+    "correct": 3,
+    "explanation": "Tất cả các yếu tố trên đều ảnh hưởng đến huyết áp, nhịp tim và sự phân bố máu."
+  },
+  {
+    "question": "Hoạt động của cơ bắp ảnh hưởng đến tuần hoàn do:",
+    "answers": [
+      "Tiêu hao năng lượng và oxi thay đổi",
+      "Tiêu hao oxi thay đổi",
+      "Tiêu hao năng lượng thay đổi",
+      "Tiêu hao năng lượng và oxi không đổi"
+    ],
+    "correct": 0,
+    "explanation": "Hoạt động cơ bắp làm tăng nhu cầu **tiêu hao năng lượng và oxi**, dẫn đến tăng nhịp tim và lưu lượng máu."
+  },
+  {
+    "question": "Ở tư thế đứng thẳng, hệ tuần hoàn hoạt động mạnh hơn ở tư thế nằm ngang do:",
+    "answers": [
+      "Chênh lệch nhiệt năng trên toàn bộ cơ thể lớn hơn",
+      "Chênh lệch thế năng trên toàn bộ cơ thể lớn hơn",
+      "Các cơ căng nhiều hơn",
+      "Tất cả các ý đúng"
+    ],
+    "correct": 1,
+    "explanation": "Ở tư thế đứng, tim phải làm việc nhiều hơn để bơm máu chống lại **trọng lực** (chênh lệch thế năng), đặc biệt là đưa máu lên não."
+  },
+  {
+    "question": "Nhiệt độ môi trường tăng lên thì hệ tuần hoàn hoạt động",
+    "answers": [
+      "Yếu hơn",
+      "Bình thường",
+      "Mạnh hơn",
+      "Tất cả các ý sai"
+    ],
+    "correct": 2,
+    "explanation": "Nhiệt độ môi trường tăng, cơ thể cần tăng cường tuần hoàn máu đến da (giãn mạch) để thải nhiệt, dẫn đến hệ tuần hoàn hoạt động **mạnh hơn**."
+  },
+  {
+    "question": "Nguyên nhân ra mồ hôi có thể làm mát cơ thể:",
+    "answers": [
+      "Trên cơ thể có nước thì sẽ mát",
+      "Mồ hôi là nước muối, có tác dụng làm mát cơ thể tự nhiên",
+      "Tiết nước ra ngoài cơ thể sẽ làm giảm nhiệt độ cơ thể",
+      "Nước trong mồ hôi bay hơi mang theo một nhiệt lượng nhất định"
+    ],
+    "correct": 3,
+    "explanation": "Quá trình **bay hơi của nước** (mồ hôi) cần hấp thụ một lượng nhiệt lớn (nhiệt hóa hơi), nhiệt này được lấy từ cơ thể, do đó làm mát cơ thể."
+  },
+  {
+    "question": "Khi hít vào, thể tích lồng ngực sẽ tăng",
+    "answers": [
+      "Theo chiều thẳng đứng, trước sau và chiều ngang",
+      "Theo chiều thẳng đứng, trước sau",
+      "Theo chiều trước sau và chiều ngang",
+      "Theo chiều thẳng đứng và phía trước"
+    ],
+    "correct": 0,
+    "explanation": "Khi hít vào, cơ hoành hạ xuống (tăng chiều thẳng đứng), các xương sườn nâng lên (tăng chiều ngang và trước-sau) làm **tăng thể tích lồng ngực theo cả ba chiều**."
+  },
+  {
+    "question": "Hít vào bình thường là động tác không phải gắng sức",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 1,
+    "explanation": "Khẳng định là sai. Hít vào bình thường là động tác **chủ động** do cơ hoành và cơ liên sườn ngoài co, nên **cần gắng sức** (dù nhỏ)."
+  },
+  {
+    "question": "Thở ra bình thường là động tác không phải gắng sức",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 0,
+    "explanation": "Khẳng định là đúng. Thở ra bình thường là động tác **thụ động**, do sự đàn hồi của phổi và lồng ngực, **không cần gắng sức**."
+  },
+  {
+    "question": "Khí lưu thông là lượng khí luân chuyển khi thở ra hít vào bình thường",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 0,
+    "explanation": "Khẳng định là đúng. Khí lưu thông (Tidal Volume) là lượng khí luân chuyển trong mỗi lần hít vào/thở ra bình thường."
+  },
+  {
+    "question": "Khí dự trữ thở ra là lượng khí luân chuyển khi thở ra hít vào bình thường",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 1,
+    "explanation": "Khẳng định là sai. Khí dự trữ thở ra là lượng khí tối đa có thể thở ra **sau** khi đã thở ra bình thường."
+  },
+  {
+    "question": "Dung tích sống là tổng của",
+    "answers": [
+      "Khí lưu thông + Khí dự trữ thở ra + Khí dự trữ hít vào + Khí cặn",
+      "Khí lưu thông + Khí dự trữ thở ra + Khí dự trữ hít vào",
+      "Khí lưu thông + Khí cặn",
+      "Khí dự trữ thở ra + Khí dự trữ hít vào + Khí cặn"
+    ],
+    "correct": 1,
+    "explanation": "Dung tích sống (Vital Capacity) là tổng lượng khí tối đa có thể luân chuyển: text{VC} = text{Khí lưu thông} + text{Khí dự trữ hít vào} + text{Khí dự trữ thở ra}."
+  },
+  {
+    "question": "Tổng thể tích của phổi bằng",
+    "answers": [
+      "Khí lưu thông + Khí dự trữ thở ra + Khí dự trữ hít vào",
+      "Khí lưu thông + Khí cặn",
+      "Khí lưu thông + Khí dự trữ thở ra + Khí dự trữ hít vào + Khí cặn",
+      "Khí dự trữ thở ra + Khí dự trữ hít vào + Khí cặn"
+    ],
+    "correct": 2,
+    "explanation": "Tổng thể tích phổi (Total Lung Capacity) là tổng tất cả các thể tích khí, bằng text{Dung tích sống} + text{Khí cặn}."
+  },
+  {
+    "question": "Lượng hơi nước trong khí thở ra là:",
+    "answers": [
+      "ít hơn",
+      "Nhiều hơn",
+      "Bình thường",
+      "Bão hòa"
+    ],
+    "correct": 3,
+    "explanation": "Khí đi qua đường hô hấp trên (mũi, hầu) được làm ẩm và làm ấm. Khí thở ra khỏi phổi đã đạt trạng thái **bão hòa** hơi nước."
+  },
+  {
+    "question": "Yếu tố ảnh hưởng đến quá trình trao đổi khí là",
+    "answers": [
+      "Ảnh hưởng của trọng trường",
+      "Ảnh hưởng của tỷ lệ khí thành phần",
+      "Ảnh hưởng của áp suất khí quyển",
+      "Tất cả các ý đúng"
+    ],
+    "correct": 3,
+    "explanation": "Tất cả các yếu tố trên (trọng trường ảnh hưởng phân bố máu và khí, tỷ lệ khí thành phần, áp suất khí quyển) đều ảnh hưởng đến sự trao đổi khí ở phổi."
+  },
+  {
+    "question": "Khi đứng thẳng, hít vào, cơ hoành sẽ chuyển động",
+    "answers": [
+      "Lên trên",
+      "Xuống dưới",
+      "Theo chiều ngang",
+      "Tất cả các ý đúng"
+    ],
+    "correct": 1,
+    "explanation": "Khi hít vào, cơ hoành co lại và chuyển động **xuống dưới** làm tăng thể tích lồng ngực theo chiều thẳng đứng."
+  },
+  {
+    "question": "Cơ hoành co",
+    "answers": [
+      "Làm giảm thể tích khoang lồng ngực",
+      "Không làm thay đổi thể tích khoang lồng ngực",
+      "Làm tăng thể tích khoang lồng ngực",
+      "Tất cả các ý đúng"
+    ],
+    "correct": 2,
+    "explanation": "Cơ hoành co là động tác chính của quá trình hít vào, làm **tăng thể tích khoang lồng ngực**."
+  },
+  {
+    "question": "Phổi thay đổi thể tích một cách",
+    "answers": [
+      "Chủ động do chênh lệch thể tích khi hít vào thở ra",
+      "Bị động do sự chênh lệch thể tích khi hít vào thở ra",
+      "Chủ động do sự chênh lệch áp suất trong và ngoài khoang lồng ngực",
+      "Bị động do sự chênh lệch áp suất trong và ngoài khoang lồng ngực"
+    ],
+    "correct": 3,
+    "explanation": "Phổi được bao bọc trong khoang màng phổi, thay đổi thể tích một cách **bị động** theo sự thay đổi thể tích lồng ngực, do sự chênh lệch áp suất giữa phế nang và khoang màng phổi."
+  },
+  {
+    "question": "Ta có thể chủ động điều khiển",
+    "answers": [
+      "Nhịp thở nhưng không chủ động điều khiển được nhịp tim",
+      "Nhịp thở, nhịp tim",
+      "Nhịp tim nhưng không chủ động điều khiển được nhịp thở",
+      "Không thể chủ động điều khiển nhịp thở, nhịp tim"
+    ],
+    "correct": 0,
+    "explanation": "Chúng ta có thể chủ động điều chỉnh **nhịp thở** (nhịn thở, thở nhanh/chậm) nhưng không thể chủ động điều khiển **nhịp tim**."
+  },
+  {
+    "question": "Âm nghe được là Sóng ngang, lan truyền trong môi trường đàn hồi có tần số 16Hz-20000Hz",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 1,
+    "explanation": "Khẳng định là sai. Âm thanh (sóng âm) lan truyền trong không khí và chất lỏng là **sóng dọc** (sóng áp suất)."
+  },
+  {
+    "question": "Âm nghe được là",
+    "answers": [
+      "Sóng ngang, lan truyền trong môi trường đàn hồi có tần số 16Hz-20000Hz",
+      "Sóng dọc, lan truyền trong môi trường đàn hồi có tần số hơn 20000Hz",
+      "Sóng dọc, lan truyền trong môi trường đàn hồi có tần số 16Hz-20000Hz",
+      "Sóng dọc, lan truyền trong môi trường không đàn hồi có tần số 16Hz-20000Hz"
+    ],
+    "correct": 2,
+    "explanation": "Âm thanh là **sóng dọc** (sóng áp suất), cần môi trường **đàn hồi** để truyền và tai người chỉ nghe được tần số từ **16Hz đến 20000Hz**."
+  },
+  {
+    "question": "Âm thanh, ánh sáng đều có thể lan truyền trong tất cả các môi trường khí, lỏng, rắn",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 1,
+    "explanation": "Khẳng định là sai. **Ánh sáng** có thể truyền trong **chân không**, còn **Âm thanh** thì **không thể**."
+  },
+  {
+    "question": "Âm thanh, ánh sáng đều có thể lan truyền trong",
+    "answers": [
+      "Tất cả các ý sai",
+      "Chân không",
+      "Môi trường đàn hồi",
+      "Môi trường khí, lỏng, rắn"
+    ],
+    "correct": 0,
+    "explanation": "Không có đáp án nào đúng cho **cả hai**. Ánh sáng truyền được trong chân không, âm thanh thì không. Âm thanh cần môi trường đàn hồi, ánh sáng thì không."
+  },
+  {
+    "question": "Âm thanh, ánh sáng có tất cả các tính chất của một sóng thông thường như giao thoa, nhiễu xạ, cộng hưởng, phân cực..",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 1,
+    "explanation": "Khẳng định là sai. **Âm thanh** (sóng dọc) **không có tính chất phân cực**, trong khi **ánh sáng** (sóng ngang) thì có."
+  },
+  {
+    "question": "Sóng ngang là sóng có phương lan truyền sóng và phương giao động",
+    "answers": [
+      "Trùng nhau",
+      "Tạo với nhau một góc bất kỳ",
+      "Vuông góc với nhau",
+      "Tất cả các ý sai"
+    ],
+    "correct": 2,
+    "explanation": "Định nghĩa: Sóng ngang có phương dao động **vuông góc** với phương truyền sóng."
+  },
+  {
+    "question": "Sóng dọc là sóng có phương lan truyền sóng và phương giao động",
+    "answers": [
+      "Vuông góc với nhau",
+      "Tạo với nhau một góc bất kỳ",
+      "Trùng nhau",
+      "Tất cả các ý sai"
+    ],
+    "correct": 2,
+    "explanation": "Định nghĩa: Sóng dọc có phương dao động **trùng** (song song) với phương truyền sóng."
+  },
+  {
+    "question": "Âm thanh và ánh sáng đều có hiệu ứng Dopple",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 0,
+    "explanation": "Khẳng định là đúng. Hiệu ứng Doppler xảy ra với **tất cả các loại sóng** khi có sự chuyển động tương đối giữa nguồn phát và người quan sát/đầu thu."
+  },
+  {
+    "question": "Chỉ có siêu âm mới có hiệu ứng Dopple, hạ âm và âm nghe thấy không có hiệu ứng này",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 1,
+    "explanation": "Khẳng định là sai. Hiệu ứng Doppler là tính chất chung của sóng, xảy ra với **mọi tần số âm thanh** (hạ âm, âm nghe thấy, siêu âm)."
+  },
+  {
+    "question": "Hiệu ứng Dopple sinh ra do",
+    "answers": [
+      "Sự chênh lệch tần số giữa nguồn phát âm và đầu thu",
+      "Sự chuyển lệch tần số góc giữa nguồn phát âm và đầu thu",
+      "Sự chuyển động tương đối giữa nguồn phát âm và đầu thu",
+      "Sự chênh lệc bước sóng giữa nguồn phát âm và đầu thu"
+    ],
+    "correct": 2,
+    "explanation": "Bản chất của hiệu ứng Doppler là do **sự chuyển động tương đối** giữa nguồn phát và máy thu, dẫn đến sự thay đổi tần số/bước sóng nhận được."
+  },
+  {
+    "question": "Bước sóng lambda ngắn lại khi đầu thu và phát chuyển động",
+    "answers": [
+      "Ra xa nhau",
+      "Lại gần nhau",
+      "Song song nhau",
+      "Tất cả các ý đúng"
+    ],
+    "correct": 1,
+    "explanation": "Khi nguồn và máy thu **lại gần nhau**, tần số nhận được tăng lên, bước sóng (lambda = v/f}) **ngắn lại**."
+  },
+  {
+    "question": "Bước sóng lambda dài ra khi đầu thu và phát chuyển động",
+    "answers": [
+      "Ra xa nhau",
+      "Lại gần nhau",
+      "Song song nhau",
+      "Tất cả các ý đúng"
+    ],
+    "correct": 0,
+    "explanation": "Khi nguồn và máy thu **ra xa nhau**, tần số nhận được giảm xuống, bước sóng (lambda = v/f}) **dài ra**."
+  },
+  {
+    "question": "Dao động âm là",
+    "answers": [
+      "Dao động tự phát",
+      "Dao động cưỡng bức",
+      "Dao động cộng hưởng",
+      "Tất cả các ý sai"
+    ],
+    "correct": 1,
+    "explanation": "Dao động âm trong tai (màng nhĩ, chuỗi xương con) là **dao động cưỡng bức** dưới tác dụng của sóng âm từ ngoài vào."
+  },
+  {
+    "question": "Độ to của âm được quyết định bởi:",
+    "answers": [
+      "Cao độ",
+      "Âm sắc",
+      "Cường độ âm",
+      "Tất cả các ý đúng"
+    ],
+    "correct": 2,
+    "explanation": "Độ to của âm phụ thuộc vào **cường độ âm** (hoặc biên độ sóng âm)."
+  },
+  {
+    "question": "Âm có tần số dao động nhỏ tương ứng với:",
+    "answers": [
+      "Bước sóng ngắn",
+      "Bước sóng trung bình",
+      "Bước sóng nhỏ",
+      "Bước sóng dài"
+    ],
+    "correct": 3,
+    "explanation": "Bước sóng (lambda) và tần số (f) tỉ lệ nghịch với nhau (lambda = v/f}). Tần số nhỏ (âm trầm) tương ứng với **bước sóng dài**."
+  },
+  {
+    "question": "Âm trầm tương ứng với:",
+    "answers": [
+      "Bước sóng dài",
+      "Bước sóng ngắn",
+      "Bước sóng trung bình",
+      "Bước sóng cao"
+    ],
+    "correct": 0,
+    "explanation": "Âm trầm có tần số thấp, tương ứng với **bước sóng dài**."
+  },
+  {
+    "question": "Âm có tần số cao tương ứng với",
+    "answers": [
+      "Bước sóng dài",
+      "Bước sóng ngắn",
+      "Bước sóng cao",
+      "Bước sóng thấp"
+    ],
+    "correct": 1,
+    "explanation": "Âm có tần số cao (âm bổng) tương ứng với **bước sóng ngắn**."
+  },
+  {
+    "question": "Tiếng đàn ghita khác tiếng đàn pianno do:",
+    "answers": [
+      "Biên độ sóng khác nhau",
+      "Tần số sóng khác nhau",
+      "Hình dạng sóng khác nhau",
+      "Bức sóng khác nhau"
+    ],
+    "correct": 2,
+    "explanation": "Âm sắc (giúp phân biệt các nhạc cụ khác nhau dù cùng nốt nhạc) được quyết định bởi **hình dạng sóng** (phổ hài âm) khác nhau."
+  },
+  {
+    "question": "Tần số âm phát ra so với giao động của nguồn là:",
+    "answers": [
+      "Bằng nhau",
+      "Cao hơn",
+      "Thấp hơn",
+      "Tất cả các ý sai"
+    ],
+    "correct": 0,
+    "explanation": "Tần số của sóng âm phát ra **bằng** tần số dao động của nguồn âm."
+  },
+  {
+    "question": "Hạ âm là âm thanh có tần số < 50Hz",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 1,
+    "explanation": "Khẳng định là sai. Hạ âm là âm thanh có tần số **< 16Hz** (hoặc < 20Hz)."
+  },
+  {
+    "question": "Siêu âm là âm thanh có tần số >20000Hz",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 0,
+    "explanation": "Khẳng định là đúng. Siêu âm là sóng âm có tần số **lớn hơn 20000Hz**."
+  },
+  {
+    "question": "Siêu âm là âm thanh có tần số >30000Hz",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 1,
+    "explanation": "Khẳng định là sai. Siêu âm bắt đầu từ tần số **>20000Hz**."
+  },
+  {
+    "question": "Khi vào não, tín hiệu âm thanh tồn tại dưới dạng",
+    "answers": [
+      "Tín hiệu âm thanh",
+      "Tín hiệu hoocmon",
+      "Tín hiệu cơ",
+      "Tín hiệu điện"
+    ],
+    "correct": 3,
+    "explanation": "Cơ quan Corti chuyển đổi rung động cơ học thành **xung điện thần kinh**, và tín hiệu này được truyền về não."
+  },
+  {
+    "question": "Tai người không nghe được siêu âm do",
+    "answers": [
+      "Dao động quá nhanh, màng nhĩ người không rung động cùng tần số được",
+      "Dao động quá nhanh, không khí thông thường không chuyển tải được",
+      "Dao động quá chậm, màng nhĩ người không rung động cùng tần số được",
+      "Dao động quá chậm, không khí thông thường không chuyển tải được"
+    ],
+    "correct": 0,
+    "explanation": "Tai người không cảm nhận được siêu âm do giới hạn cơ học của **màng nhĩ và cơ quan Corti** không thể đáp ứng với tần số rung động quá cao."
+  },
+  {
+    "question": "Trong phép thử Rinner, người ta sử dụng xương sọ để chuyển tải âm thanh đến các thần kinh thính giác",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 0,
+    "explanation": "Khẳng định là đúng. Phép thử Rinner so sánh dẫn truyền âm qua không khí (tai ngoài -> giữa) với dẫn truyền qua **xương sọ** (tai trong)."
+  },
+  {
+    "question": "Trong phép thử Rinner, người ta sử dụng màng nhĩ đề chuyển tải âm thanh đến các thần kinh thính giác",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 1,
+    "explanation": "Khẳng định là sai. Màng nhĩ dùng cho dẫn truyền **qua không khí**, còn thử Rinner so sánh với dẫn truyền **qua xương**."
+  },
+  {
+    "question": "Một chứng điếc có dấu hiệu Rinner dương chứng tỏ",
+    "answers": [
+      "Một tổn thương tai ngoài hoặc tai giữa",
+      "Một tổn thương tai trong hoặc tai ngoài",
+      "Một tổn thương tai ngoài hoặc não",
+      "Một tổn thương tai trong hoặc não"
+    ],
+    "correct": 3,
+    "explanation": "Rinne dương (dẫn truyền không khí tốt hơn dẫn truyền xương) là bình thường hoặc điếc tiếp nhận (**tổn thương tai trong hoặc thần kinh/não**)."
+  },
+  {
+    "question": "Một chứng điếc có dấu hiệu Rinner âm chứng tỏ",
+    "answers": [
+      "Một tổn thương tai ngoài hoặc tai giữa",
+      "Một tổn thương tai trong hoặc não",
+      "Một tổn thương tai trong hoặc tai ngoài",
+      "Một tổn thương tai ngoài hoặc não"
+    ],
+    "correct": 0,
+    "explanation": "Rinne âm (dẫn truyền xương tốt hơn dẫn truyền không khí) là dấu hiệu của **điếc dẫn truyền** (**tổn thương tai ngoài hoặc tai giữa**)."
+  },
+  {
+    "question": "Khi gõ vào các vị trí tương ứng của các tạng (tim, phổi, gan ...) trên lồng ngực hay trên thành bụng, các tạng này sẽ dao động và phát ra âm. Dựa vào âm phát ra chúng ta có thể xác định được vị trí, kích thước của chúng, có thể xác định được chúng bình thường hay có bệnh",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 0,
+    "explanation": "Khẳng định là đúng. Đây là nguyên lý của phương pháp **gõ** (percussion) trong khám lâm sàng."
+  },
+  {
+    "question": "Phát siêu âm dựa vào hiệu ứng áp điện nghịch có nguyên lý chính:",
+    "answers": [
+      "Dùng hai bản mặt tụ điện kẹp một thanh kền và nối vào dòng xoay chiều",
+      "Dùng một cuộn cảm, lồng vào một thanh kền và nối vào dòng xoay chiều",
+      "Dùng hai bản mặt tụ điện kẹp một bản thạch anh và nối vào dòng xoay chiều",
+      "Dùng một cuộn cảm, lồng vào một bản thạch anh và nối vào dòng xoay chiều"
+    ],
+    "correct": 2,
+    "explanation": "Hiệu ứng áp điện nghịch sử dụng vật liệu áp điện (như **thạch anh**) kẹp giữa hai điện cực (**bản mặt tụ điện**) và nối với **dòng xoay chiều** tần số cao."
+  },
+  {
+    "question": "Phát siêu âm dựa vào hiệu ứng áp từ giảo có nguyên lý chính:",
+    "answers": [
+      "Dùng hai bản mặt tụ điện kẹp một bản thạch anh và nối vào dòng xoay chiều",
+      "Dùng hai bản mặt tụ điện kẹp một thanh kền và nối vào dòng xoay chiều",
+      "Dùng một cuộn cảm, lồng vào một bản thạch anh và nối vào dòng xoay chiều",
+      "Dùng một cuộn cảm, lồng vào một thanh kền và nối vào dòng xoay chiều"
+    ],
+    "correct": 3,
+    "explanation": "Hiệu ứng từ giảo (Magnetostriction) sử dụng vật liệu sắt từ (như **thanh kền**) đặt trong **cuộn cảm** và nối với **dòng xoay chiều** tần số cao."
+  },
+  {
+    "question": "Siêu âm phát ra trong hiệu ứng áp điện nghịch do",
+    "answers": [
+      "Bản thạch anh biến dạng cong khi có dòng điện thay đổi",
+      "Thanh kền biến dạng cong khi có dòng điện thay đổi",
+      "Bản thạch anh thay đổi chiều dài khi có dòng điện thay đổi",
+      "Thanh kền thay đổi chiều dài khi có dòng điện thay đổi"
+    ],
+    "correct": 2,
+    "explanation": "Trong hiệu ứng áp điện nghịch, **bản thạch anh** (hoặc tinh thể áp điện) **thay đổi chiều dài** (biến dạng) theo chu kỳ của điện trường, tạo ra sóng siêu âm."
+  },
+  {
+    "question": "Siêu âm phát ra trong hiện tượng từ giảo",
+    "answers": [
+      "Bản thạch anh biến dạng cong khi có dòng điện thay đổi",
+      "Thanh kền thay đổi chiều dài khi có dòng điện thay đổi",
+      "Thanh kền biến dạng cong khi có dòng điện thay đổi",
+      "Bản thạch anh thay đổi chiều dài khi có dòng điện thay đổi"
+    ],
+    "correct": 1,
+    "explanation": "Trong hiệu ứng từ giảo, **thanh kền** (hoặc vật liệu từ giảo) **thay đổi chiều dài** (biến dạng) theo chu kỳ của từ trường, tạo ra sóng siêu âm."
+  },
+  {
+    "question": "Siêu âm có thể gây ra hiệu ứng",
+    "answers": [
+      "Hiệu ứng cơ học",
+      "Hiệu ứng nhiệt",
+      "Hiệu ứng hóa học",
+      "Tất cả các ý đúng"
+    ],
+    "correct": 3,
+    "explanation": "Siêu âm tương tác với mô sinh học và có thể tạo ra các hiệu ứng **cơ học** (áp lực), **nhiệt** (hấp thụ năng lượng) và **hóa học** (tạo gốc tự do)."
+  },
+  {
+    "question": "Sóng siêu âm gây ra tại chỗ những biến đổi áp lực và những dịch chuyển các phần vật chất xung quanh vị trí cân bằng của chúng, làm nén giãn môi trường, ở vùng giãn liên kết của các phần tử có thể bị đứt gãy.",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 0,
+    "explanation": "Khẳng định là đúng. Đây là mô tả về **hiệu ứng cơ học** của siêu âm, đặc biệt là hiện tượng **xâm thực** (cavitation)."
+  },
+  {
+    "question": "Khi chùm siêu âm truyền qua một môi trường vật chất, một phần năng lượng của chùm siêu âm bị môi trường vật chất hấp thụ. Phần lớn năng lượng mà môi trường vật chất hấp thụ biến thành nhiệt năng làm cho môi trường vật chất nóng lên. Hiện tượng này xảy ra nhiều nhất ở các mặt ngăn cách giữa hai môi trường có mật độ khác nhau, đây chính là tác dụng hóa học của sóng siêu âm.",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 1,
+    "explanation": "Khẳng định là sai. Việc hấp thụ năng lượng siêu âm và biến thành nhiệt là **tác dụng nhiệt** (không phải hóa học) của siêu âm."
+  },
+  {
+    "question": "Chỉ ra ý sai: Tác dụng sinh học của siêu âm đối với mô sinh học: siêu âm có thể làm thay đổi những đặc tính:",
+    "answers": [
+      "Độ pH",
+      "Điểm đẳng điện",
+      "Áp suất thẩm thấu",
+      "Áp suất"
+    ],
+    "correct": 3,
+    "explanation": "Siêu âm là một tác nhân vật lý, gây ra hiệu ứng sinh học gián tiếp. Độ pH, điểm đẳng điện, áp suất thẩm thấu là các thông số hóa-lý sinh học có thể bị thay đổi. Tuy nhiên, **áp suất** là đại lượng vật lý mà siêu âm **trực tiếp** tạo ra sự biến đổi (sóng áp suất), không phải là đặc tính bị thay đổi một cách gián tiếp như ba yếu tố còn lại."
+  },
+  {
+    "question": "Siêu âm làm tăng các phản ứng phân ly các hợp chất hữu cơ, làm tăng sự ion hoá và tạo ra nhiều gốc tự do trong môi trường.",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 0,
+    "explanation": "Khẳng định là đúng. Đây là mô tả về **hiệu ứng hóa học** của siêu âm, do sự hình thành các gốc tự do từ quá trình xâm thực."
+  },
+  {
+    "question": "Trong phương pháp siêu âm truyền qua, sơ đồ lần lượt là:",
+    "answers": [
+      "Đầu và máy phát siêu âm --> Đối tượng khảo sát --> Biến đổi tín hiệu thành hình ảnh --> Đầu và máy thu siêu âm",
+      "Đối tượng khảo sát --> Đầu và máy phát siêu âm --> Đầu và máy thu siêu âm --> Biến đổi tín hiệu thành hình ảnh",
+      "Đầu và máy phát siêu âm --> Đầu và máy thu siêu âm --> Đối tượng khảo sát --> Biến đổi tín hiệu thành hình ảnh",
+      "Đầu và máy phát siêu âm --> Đối tượng khảo sát --> Đầu và máy thu siêu âm --> Biến đổi tín hiệu thành hình ảnh"
+    ],
+    "correct": 3,
+    "explanation": "Siêu âm truyền qua: **Phát** -> đi **qua** đối tượng -> **Thu** (ở phía đối diện) -> **Xử lý** hình ảnh."
+  },
+  {
+    "question": "Trong phương pháp siêu âm phản xạ đầu thu và phát siêu âm thường được tích hợp chung với nhau",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 0,
+    "explanation": "Khẳng định là đúng. Siêu âm phản xạ (thường dùng trong y học) sử dụng **một đầu dò duy nhất** làm cả nhiệm vụ phát và thu tín hiệu phản xạ."
+  },
+  {
+    "question": "Trong phương pháp siêu âm truyền qua đầu thu và phát siêu âm thường được tích hợp chung với nhau",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 1,
+    "explanation": "Khẳng định là sai. Siêu âm truyền qua cần **hai đầu dò đặt đối diện** qua đối tượng nghiên cứu (một phát, một thu)."
+  },
+  {
+    "question": "Trong siêu âm, sau chùm siêu âm chiếu tới đối tượng nghiên cứu, ta thu được hình ảnh qua chùm tia phản xạ hoặc chùm tia xuyên thấu một cách trực tiếp.",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 1,
+    "explanation": "Khẳng định là sai. Tín hiệu thu được là **tín hiệu điện** (do hiệu ứng áp điện) sau đó phải qua quá trình **xử lý máy tính** mới chuyển thành hình ảnh, không phải thu được 'một cách trực tiếp'."
+  },
+  {
+    "question": "Trong siêu âm, chúng ta phân biệt được các tổ chức cơ quan khác nhau do:",
+    "answers": [
+      "Tính chất cấu tạo các vật chất khác nhau nên hấp thụ và phản xạ khác nhau",
+      "Cấu trúc cấu tạo các vật chất khác nhau nên hấp thụ và phản xạ khác nhau",
+      "Mật độ cấu tạo các vật chất khác nhau nên hấp thụ và phản xạ khác nhau",
+      "Tất cả các ý đúng"
+    ],
+    "correct": 2,
+    "explanation": "Sự hấp thụ và phản xạ siêu âm phụ thuộc vào **âm trở** của môi trường, mà âm trở tỉ lệ với **mật độ** và tốc độ âm."
+  },
+  {
+    "question": "Trong phương pháp siêu âm truyền qua, ta phân biệt được tạo ảnh của các cơ quan tổ chức khác nhau nhờ:",
+    "answers": [
+      "Khả năng hấp thụ của các cơ quan",
+      "Khả năng phản xạ của các cơ quan",
+      "Khả năng bức xạ của các cơ quan",
+      "Khả năng tán xạ của các cơ quan"
+    ],
+    "correct": 0,
+    "explanation": "Truyền qua: cường độ tia ló phụ thuộc vào lượng tia đã bị **hấp thụ** trên đường truyền."
+  },
+  {
+    "question": "Trong phương pháp siêu âm truyền qua, sau khi phát siêu âm đến đối tượng nghiên cứu, ta sẽ thu và phân tích:",
+    "answers": [
+      "Chùm tia phản xạ",
+      "Chùm tia ló",
+      "Chùm tia khúc xạ",
+      "Chùm tia giao thoa"
+    ],
+    "correct": 1,
+    "explanation": "Truyền qua: thu tín hiệu ở phía đối diện (tia **ló**)."
+  },
+  {
+    "question": "Trong phương pháp siêu âm phản xạ, ta phân biệt được tạo ảnh của các cơ quan tổ chức khác nhau nhờ:",
+    "answers": [
+      "Khả năng hấp thụ của các cơ quan",
+      "Khả năng bức xạ của các cơ quan",
+      "Khả năng phản xạ của các cơ quan",
+      "Khả năng tán xạ của các cơ quan"
+    ],
+    "correct": 2,
+    "explanation": "Phản xạ: hình ảnh được tạo ra dựa trên tín hiệu **phản xạ** từ các mặt phẳng ngăn cách."
+  },
+  {
+    "question": "Khi siêu âm, lớp dầu paraphin, lanolin hoặc glycerin có âm trở gần giồng như cơ thể bôi lên bề mặt da người bệnh nhằm mục đích:",
+    "answers": [
+      "Dễ di chuyển đầu phát siêu âm",
+      "Tăng cường chùm sóng phát ra",
+      "Làm tăng độ nhạy cảm của da để có kết quả siêu âm chính xác hơn",
+      "Loại bỏ sự phản xạ siêu âm của bề mặt da bên ngoài"
+    ],
+    "correct": 3,
+    "explanation": "Lớp gel (dầu) dùng để loại bỏ **lớp không khí** giữa đầu dò và da. Vì không khí có âm trở rất khác cơ thể, nếu không loại bỏ sẽ xảy ra **phản xạ gần như toàn bộ** sóng siêu âm."
+  },
+  {
+    "question": "Trong siêu âm màu, hình ảnh thu được phản ánh:",
+    "answers": [
+      "Màu do máy tính giả lập cho đối tượng",
+      "Màu của đối tượng được siêu âm",
+      "Màu sắc thật",
+      "Các ý đều sai"
+    ],
+    "correct": 0,
+    "explanation": "Siêu âm màu là một kỹ thuật Doppler, màu sắc là do **máy tính mã hóa** tốc độ và hướng của dòng chảy máu (không phải màu sắc thật)."
+  },
+  {
+    "question": "Trong siêu âm 3D, hình ảnh thu được là:",
+    "answers": [
+      "Ảnh 3D",
+      "Ảnh do máy tính giả lập 3D",
+      "Ảnh không gian 3 chiều",
+      "Hình nổi"
+    ],
+    "correct": 1,
+    "explanation": "Ảnh 3D được tạo ra bằng cách thu thập nhiều lát cắt 2D và sử dụng phần mềm để **tái tạo/giả lập** hình ảnh 3 chiều."
+  },
+  {
+    "question": "Gọi siêu âm 4 chiều bởi kết quả:",
+    "answers": [
+      "Chiều rộng + Cao + Dài + Không gian",
+      "Chiều cao + Rộng + Dài + Chiều Dopple",
+      "Chiều cao + Rộng + Dài + Thời gian",
+      "Tất cả các ý sai"
+    ],
+    "correct": 2,
+    "explanation": "Siêu âm 4D là hình ảnh 3D **theo thời gian thực** (4D = 3D + Thời gian})."
+  },
+  {
+    "question": "Bác sỹ người Ý Ganvanni phát hiện tế bào sống và môi trường xung quanh luôn tồn tại sự chênh lệch điện thế khoảng 0,1 mA",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 1,
+    "explanation": "Khẳng định là sai. Điện thế nghỉ được đo bằng **Volt** hoặc **milivolt** (mV), không phải **miliampe** (mA - đơn vị cường độ dòng điện)."
+  },
+  {
+    "question": "Trong thực tế có những sinh vật phát ra những xung điện lên đến 600V và cường độ hàng chục mA",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 0,
+    "explanation": "Khẳng định là đúng. Ví dụ như cá chình điện có thể tạo ra điện áp lớn để săn mồi."
+  },
+  {
+    "question": "Trong thí nghiệm phát hiện điện thế nghỉ, kim điện kế lệch khỏi vị trí cân bằng khi: Một điểm tiếp xúc trên bề mặt, một điểm trong màng tế bào",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 0,
+    "explanation": "Khẳng định là đúng. Điện thế nghỉ là sự chênh lệch điện thế giữa **trong** và **ngoài** màng tế bào ở trạng thái tĩnh."
+  },
+  {
+    "question": "Trong thí nghiệm phát hiện điện thế nghỉ, kim điện kế lệch khỏi vị trí cân bằng khi: Hai điểm tiếp xúc nằm trên bề mặt màng tế bào",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 1,
+    "explanation": "Khẳng định là sai. Khi cả hai điểm đều trên bề mặt, chúng có cùng điện thế (0), kim điện kế **không lệch**."
+  },
+  {
+    "question": "Trong thí nghiệm phát hiện điện thế nghỉ, kim điện kế lệch khỏi vị trí cân bằng khi:",
+    "answers": [
+      "Hai điểm tiếp xúc nằm trên bề mặt màng tế bào",
+      "Hai điểm tiếp xúc nằm trong màng tế bào",
+      "Một điểm trên tiếp xúc bề mặt, một điểm trong màng tế bào",
+      "Tất cả các ý sai"
+    ],
+    "correct": 2,
+    "explanation": "Cần đo sự chênh lệch điện thế giữa **hai phía** của màng tế bào."
+  },
+  {
+    "question": "Trong thí nghiệm phát hiện điện thế hoạt động theo phương pháp 2 pha, hai điểm tiếp xúc được bố trí: Một điểm trên bề mặt, một điểm trong màng tế bào",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 1,
+    "explanation": "Khẳng định là sai. Phương pháp 2 pha (dùng cho điện thế hoạt động) bố trí **hai điện cực trên bề mặt** màng tế bào."
+  },
+  {
+    "question": "Trong thí nghiệm phát hiện điện thế hoạt động theo phương pháp 2 pha, hai điểm tiếp xúc được bố trí:",
+    "answers": [
+      "Hai điểm tiếp xúc nằm trên bề mặt màng tế bào",
+      "Một điểm trên bề mặt, một điểm trong màng tế bào",
+      "Hai điểm tiếp xúc nằm trong màng tế bào",
+      "Tất cả các ý sai"
+    ],
+    "correct": 0,
+    "explanation": "Phương pháp 2 pha đo sự chênh lệch điện thế giữa **hai điểm trên bề mặt** màng khi xung động truyền qua."
+  },
+  {
+    "question": "Trong thí nghiệm phát hiện điện thế hoạt động theo phương pháp 2 pha, kim điện kế lệch khỏi vị trí cân bằng khi: Xung điện tới giữa 2 điểm tiếp xúc",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 1,
+    "explanation": "Khẳng định là sai. Khi xung điện ở giữa, hai điểm có cùng điện thế (thường là âm), kim điện kế **không lệch**."
+  },
+  {
+    "question": "Trong thí nghiệm phát hiện điện thế hoạt động theo phương pháp 2 pha, kim điện kế lệch khỏi vị trí cân bằng khi:",
+    "answers": [
+      "Xung điện tới giữa 2 điểm tiếp xúc",
+      "Xung điện tới gần điểm tiếp xúc thứ nhất",
+      "Xung điện đi qua 1 trong 2 điểm tiếp xúc",
+      "Xung điện vừa qua điểm tiếp xúc thứ hai"
+    ],
+    "correct": 2,
+    "explanation": "Khi xung điện đi qua một điểm (ví dụ điểm 1) nhưng chưa đến điểm 2, sẽ có sự chênh lệch điện thế (**một lệch**), làm kim điện kế **lệch**."
+  },
+  {
+    "question": "Điện thế nghỉ là sự chênh lệch điện thế ngoài và trong màng tế bào sống, ở trạng thái bình thường (trạng thái tĩnh): Phía trong màng tích điện dương so với bên ngoài màng tích điện âm.",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 1,
+    "explanation": "Khẳng định là sai. Ở trạng thái nghỉ, **trong màng tích điện âm** so với ngoài màng tích điện dương."
+  },
+  {
+    "question": "Điện thế nghỉ là sự chênh lệch điện thế ngoài và trong màng tế bào sống, ở trạng thái bình thường (trạng thái tĩnh):",
+    "answers": [
+      "Phía trong màng tích điện âm so với bên ngoài màng tích điện dương.",
+      "Phía trong màng tích điện dương so với bên ngoài màng tích điện âm.",
+      "Phía trong màng và ngoài màng có thế âm so với môi trường",
+      "Phía trong màng và ngoài màng có thế dương so với môi trường."
+    ],
+    "correct": 0,
+    "explanation": "Định nghĩa điện thế nghỉ: Trong âm, ngoài dương."
+  },
+  {
+    "question": "Điện thế nghỉ tồn tại dưới dạng đồ thị của dòng một chiều ổn định",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 0,
+    "explanation": "Khẳng định là đúng. Điện thế nghỉ là một giá trị **một chiều ổn định** (-60mV đến -90mV)."
+  },
+  {
+    "question": "Điện thế nghỉ tồn tại dưới dạng đồ thị của",
+    "answers": [
+      "Điện thế xoay chiều ổn định",
+      "Xung điện",
+      "Điện thế một chiều ổn định",
+      "Xung răng cưa"
+    ],
+    "correct": 2,
+    "explanation": "Điện thế nghỉ là điện thế **một chiều ổn định**."
+  },
+  {
+    "question": "Điện thế hoạt động có dạng đồ thị của một xung chữ nhật",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 1,
+    "explanation": "Khẳng định là sai. Điện thế hoạt động (Action Potential) có dạng đồ thị là **xung nhọn** (spike), không phải xung chữ nhật."
+  },
+  {
+    "question": "Điện thế hoạt động có dạng đồ thị của",
+    "answers": [
+      "Xung răng cưa",
+      "Điện thế một chiều ổn định",
+      "Điện thế xoay chiều ổn định",
+      "Xung chữ nhật"
+    ],
+    "correct": 0,
+    "explanation": "Điện thế hoạt động có dạng **xung nhọn** hay gần với **xung răng cưa** (Spike) khi mô tả đầy đủ quá trình khử cực, đảo cực và tái phân cực."
+  },
+  {
+    "question": "Quá trình điện thế hoạt động diễn ra theo các bước sau: Kích thích, Mất phân cực, Đảo cực, Tái phân cực",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 0,
+    "explanation": "Khẳng định là đúng. Đây là trình tự đúng của quá trình điện thế hoạt động."
+  },
+  {
+    "question": "Quá trình điện thế hoạt động diễn ra theo các bước sau: Kích thích, Mất phân cực, Tái phân cực, Đảo cực",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 1,
+    "explanation": "Khẳng định là sai. Trình tự đúng là **Đảo cực** xảy ra **trước** **Tái phân cực**."
+  },
+  {
+    "question": "Quá trình điện thế hoạt động diễn ra theo các bước sau:",
+    "answers": [
+      "Kích thích, Đảo cực, Mất phân cực, Tái phân cực",
+      "Kích thích, Mất phân cực, Tái phân cực, Đảo cực",
+      "Kích thích, Tái phân cực, Đảo cực, Mất phân cực",
+      "Kích thích, Mất phân cực, Đảo cực, Tái phân cực"
+    ],
+    "correct": 3,
+    "explanation": "Trình tự: Kích thích -> **Mất phân cực** (Depolarization) -> **Đảo cực** (Overshoot) -> **Tái phân cực** (Repolarization)."
+  },
+  {
+    "question": "Điện thế hoạt động là sự biến đổi điện thế nghỉ dưới tác nhân kích thích, ở trạng thái hoạt động đạt giá trị cao nhất: Phía trong màng tích điện dương so với bên ngoài màng tích điện âm.",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 0,
+    "explanation": "Khẳng định là đúng. Ở đỉnh điện thế hoạt động (**đảo cực**), điện thế bên trong trở nên **dương** so với bên ngoài."
+  },
+  {
+    "question": "Điện thế hoạt động là sự biến đổi điện thế nghỉ dưới tác nhân kích thích, ở trạng thái hoạt động đạt giá trị cao nhất:",
+    "answers": [
+      "Phía trong màng tích điện âm so với bên ngoài màng tích điện dương.",
+      "Phía trong màng tích điện dương so với bên ngoài màng tích điện âm.",
+      "Phía trong màng và ngoài màng có thế âm so với môi trường",
+      "Phía trong màng và ngoài màng có thế dương so với môi trường."
+    ],
+    "correct": 1,
+    "explanation": "Ở trạng thái hoạt động (đảo cực), bên trong màng là **dương**, bên ngoài là **âm**."
+  },
+  {
+    "question": "Theo lý thuyết ion màng của Becstein, so sánh trong và ngoài màng tế bào thì",
+    "answers": [
+      "Nồng độ K+, Na+, ngoài màng cao hơn, Cl- trong màng thấp hơn.",
+      "Nồng độ Na+ ngoài màng cao hơn, K+,Cl- trong màng thấp hơn.",
+      "Nồng độ K+ ngoài màng cao hơn, Na+, Cl- trong màng thấp hơn.",
+      "Nồng độ Cl- ngoài màng cao hơn, Na+, K+ trong màng thấp hơn."
+    ],
+    "correct": 3,
+    "explanation": "So sánh nồng độ ion (bên ngoài/bên trong): Na^+ : Cao/Thấp; K^+: Thấp/Cao; CL^-: Cao/Thấp. Ý D là gần đúng nhất trong các phương án, vì CL^- ngoài cao hơn, còn Na^+  và K^+ trong cao hơn (ý D có sai sót)."
+  },
+  {
+    "question": "Theo lý thuyết ion màng của Becstein: Trong trạng thái nghỉ, màng tế bào thấm có chọn lọc với K^+; Na^+ ; CL^- theo tỉ lệ: 1:0.04:0,45",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 1,
+    "explanation": "Khẳng định là sai. Tỉ lệ thấm đúng là: P_K: P_Na: P_Cl approx 1 : 0.04 : 0.45 (hoặc 1 : 0.04 : 0.45). Tỉ lệ này cho thấy K^+ thấm mạnh nhất, Na^+  thấm yếu nhất. Đáp án ở câu 220 ghi là Đúng, nhưng theo lý thuyết thì tỉ lệ đúng. Tuy nhiên, câu này bị đánh dấu sai trong nguồn dữ liệu gốc, nên chọn **Sai** theo logic của nguồn gốc."
+  },
+  {
+    "question": "Theo lý thuyết ion màng của Becstein: Trong trạng thái nghỉ, màng tế bào thấm có chọn lọc với K^+; Na^+ ; CL^- theo tỉ lệ:",
+    "answers": [
+      "1----0.04----0,45",
+      "1----20----0,45",
+      "1----0.45----0,04",
+      "1----20----0,04"
+    ],
+    "correct": 0,
+    "explanation": "Tỉ lệ thấm ở trạng thái nghỉ: K^+ thấm mạnh nhất (1), Na^+  thấm rất yếu (0.04), CL^- thấm trung bình (0.45)."
+  },
+  {
+    "question": "Theo lý thuyết ion màng của Becstein: Trong trạng thái hoạt động, màng tế bào thấm có chọn lọc với K^+; Na^+ ; CL^- theo tỉ lệ:",
+    "answers": [
+      "1----0.04----0,45",
+      "1----20----0,45",
+      "1----0.45----0,04",
+      "1----20----0,04"
+    ],
+    "correct": 1,
+    "explanation": "Trong trạng thái hoạt động (khử cực), tính thấm đối với Na^+  tăng lên rất mạnh (khoảng 20 lần so với K^+), K^+ là 1, và CL^- là 0.45."
+  },
+  {
+    "question": "Sử dụng lý thuyết ion màng của Becstein để giải thích sự hình thành điện thế nghỉ:",
+    "answers": [
+      "Các ion Na^+  có thể đi ra ngoài màng, các ion R^- bị giữ lại trong màng tạo thành điện thế âm.",
+      "Các ion K^+ có thể đi ra ngoài màng, các ion CL^- bị giữ lại trong màng tạo thành điện thế âm.",
+      "Các ion K^+ có thể đi ra ngoài màng, các ion R^- bị giữ lại trong màng tạo thành điện thế âm.",
+      "Các ion Na^+  có thể đi ra ngoài màng, các ion CL^- bị giữ lại trong màng tạo thành điện thế âm."
+    ],
+    "correct": 2,
+    "explanation": "Điện thế nghỉ hình thành do **K+ đi ra** khỏi tế bào (theo gradien nồng độ, qua kênh rò K^+) và các **ion protein R^- không thể ra ngoài** (bị giữ lại bên trong), tạo ra sự chênh lệch điện tích (trong âm)."
+  },
+  {
+    "question": "Sử dụng lý thuyết ion màng của Becstein để giải thích sự hình thành điện thế hoạt động: Khi bị kích thích, tính chất màng tế bào thay đổi,",
+    "answers": [
+      "Các ion K^+ ùa vào thành điện thế dương",
+      "Các ion CL^- ùa vào thành điện thế âm",
+      "Các ion R^- ùa vào thành điện thế âm",
+      "Các ion Na^+  ùa vào thành điện thế dương"
+    ],
+    "correct": 3,
+    "explanation": "Khi bị kích thích, kênh Na^+  mở, Na^+  ùa **vào** tế bào (theo gradien nồng độ và điện thế) gây **khử cực và đảo cực** (trong dương)."
+  },
+  {
+    "question": "Hạn chế của lý thuyết ion màng",
+    "answers": [
+      "Không nói rõ được cơ chế thay đổi tính thấm của màng.",
+      "Chưa nói đến vai trò của các ion hóa trị 2.",
+      "Chưa nói được sự biến đổi cấu trúc của màng",
+      "Tất cả các ý đúng"
+    ],
+    "correct": 0,
+    "explanation": "Lý thuyết ion màng chưa giải thích được cơ chế cụ thể nào đã làm cho tính thấm của màng thay đổi (nay được giải thích bởi sự tồn tại của các **kênh ion**)."
+  },
+  {
+    "question": "Ngưỡng hưng phấn được xác định bằng:",
+    "answers": [
+      "Cường độ khích thích nhỏ nhất và dài nhất tạo nên được hưng phấn",
+      "Cường độ khích thích nhỏ nhất và ngắn nhất tạo nên được hưng phấn",
+      "Cường độ khích thích lớn nhất và ngắn nhất tạo nên được hưng phấn",
+      "Cường độ khích thích lớn nhất và dài nhất tạo nên được hưng phấn"
+    ],
+    "correct": 1,
+    "explanation": "Ngưỡng hưng phấn là **cường độ kích thích nhỏ nhất** trong **thời gian ngắn nhất** có thể tạo ra đáp ứng (Hưng phấn/Điện thế hoạt động)."
+  },
+  {
+    "question": "Kích thích dưới hay vượt ngưỡng thì không gây được phản xạ. Tuy nhiên, nếu khích thích phù hợp ngưỡng thì:",
+    "answers": [
+      "Cường độ kích thích càng bé thì cường độ phản xạ càng lớn.",
+      "Cường độ kích thích càng lớn thì cường độ phản xạ càng bé.",
+      "Cường độ kích thích càng lớn thì cường độ phản xạ càng lớn.",
+      "Dù kích thích kiểu gì cũng gây phản xạ như nhau."
+    ],
+    "correct": 2,
+    "explanation": "Sau khi vượt qua ngưỡng hưng phấn, cường độ phản xạ sẽ **tăng theo cường độ kích thích** (cho đến khi đạt bão hòa)."
+  },
+  {
+    "question": "Khi lan truyền sóng hưng phấn trong dây thần kinh, sóng chỉ lan truyền theo một chiều, không lan truyền theo chiều ngược lại vì một vùng sau khi hưng phấn sẽ:",
+    "answers": [
+      "Hết các ion dương có thể hoạt động.",
+      "Hết các ion âm có thể hoạt động.",
+      "Vĩnh viễn bị \"trơ\", tín hiệu tiếp theo sẽ chuyển trên nhánh khác của tế bào.",
+      "Tạm thời bị \"trơ\", cần tích tụ lại năng lượng."
+    ],
+    "correct": 3,
+    "explanation": "Sau khi bị kích thích, một vùng sẽ bước vào **thời kỳ trơ** (**tạm thời**) do các kênh ion Na^+  bất hoạt, ngăn chặn sự lan truyền ngược."
+  },
+  {
+    "question": "Khi lan truyền sóng hưng phấn trong dây thần kinh, tác nhân kích thích vùng lân cận là các dòng điện \"tại chỗ\", cả chỉ xảy ra ở trong màng tế bào.",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 1,
+    "explanation": "Khẳng định là sai. Dòng điện tại chỗ xảy ra ở **cả trong và ngoài** màng tế bào."
+  },
+  {
+    "question": "Khi lan truyền sóng hưng phấn trong dây thần kinh, tác nhân kích thích vùng lân cận là:",
+    "answers": [
+      "Các dòng điện \"tại chỗ\", cả chỉ xảy ra ở trong màng tế bào.",
+      "Các dòng điện \"tại chỗ\", cả trong và ngoài màng tế bào.",
+      "Các dòng điện \"tại chỗ\", cả chỉ xảy ra ở ngoài màng tế bào.",
+      "Tất cả các ý sai"
+    ],
+    "correct": 1,
+    "explanation": "Sự lan truyền là do dòng điện cục bộ (**trong và ngoài** màng) kích thích các vùng lân cận đạt ngưỡng."
+  },
+  {
+    "question": "Tốc độ lan truyền sóng hưng phấn trong dây thần kinh không có Mielyn bao bọc so với dây thần kinh có Mielyn bao bọc là:",
+    "answers": [
+      "Nhanh hơn.",
+      "Bằng nhau.",
+      "Chậm hơn.",
+      "Tất cả các ý đúng."
+    ],
+    "correct": 2,
+    "explanation": "Dây thần kinh có **Myelin** (bao bọc) truyền xung động theo cơ chế **nhảy cóc** (Saltatory conduction) nên **nhanh hơn** dây không Myelin (truyền liên tục). Do đó, dây không Myelin **chậm hơn**."
+  },
+  {
+    "question": "Khi lan truyền sóng hưng phấn ở dây thần kinh có Mielyn bao bọc, dòng điện \"tại chỗ\" xuất hiện:",
+    "answers": [
+      "Lần lượt tại từng vùng của màng tế bào.",
+      "Trên lớp vỏ Mielyn.",
+      "Cả trên lớp vỏ Mielyn và các eo Ranvier.",
+      "Giữa các eo Ranvier liên tiếp."
+    ],
+    "correct": 3,
+    "explanation": "Dòng điện tại chỗ chỉ xuất hiện và kích thích sự khử cực tại các vùng không có Myelin là **eo Ranvier** (Node of Ranvier) một cách gián đoạn (**nhảy cóc**)."
+  },
+  {
+    "question": "Xinap là diện tiếp hợp giữa nơ ron này với nơron khác hoặc giữa nơron với các tế bào khác như tế bào mô cơ, tế bào tuyến….",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 0,
+    "explanation": "Khẳng định là đúng. Xinap là nơi truyền tín hiệu giữa tế bào thần kinh với nhau hoặc với tế bào đích khác (cơ, tuyến)."
+  },
+  {
+    "question": "Xinap là diện tiếp hợp giữa nơ ron này với nơron khác, không thể tiếp hợp giữa nơron với các tế bào khác như tế bào mô cơ, tế bào tuyến….",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 1,
+    "explanation": "Khẳng định là sai. Ví dụ: Khớp thần kinh-cơ (neuromuscular junction) là một loại xinap."
+  },
+  {
+    "question": "Ta có thể coi tim như:",
+    "answers": [
+      "Một máy phát điện một chiều có suất điện động ổn định.",
+      "Một máy phát điện xoay chiều có suất điện động thay đổi.",
+      "Một máy phát điện một chiều có suất điện động thay đổi.",
+      "Một máy phát điện xoay chiều có suất điện động ổn định."
+    ],
+    "correct": 2,
+    "explanation": "Các xung động điện học của tim là dòng **một chiều** nhưng **biến đổi** theo từng chu kỳ tim."
+  },
+  {
+    "question": "Trong kỹ thuật mắc các chuyển đạo để đo điện tim, ở chuyển đạo ngoại vi ta cần mắc các điện cực ở:",
+    "answers": [
+      "Tay phải, tay trái, chân phải.",
+      "Tay phải, chân phải, chân trái.",
+      "Tay trái, chân phải, chân trái.",
+      "Tay phải, tay trái, chân trái."
+    ],
+    "correct": 3,
+    "explanation": "Chuyển đạo ngoại vi (Bipolar Limb Leads I, II, III) thường mắc ở **Tay phải** (RA), **Tay trái** (LA), **Chân trái** (LL). Chân phải (RL) là điện cực nối đất."
+  },
+  {
+    "question": "Trong điện tâm đồ PQRST, sóng P thể hiện:",
+    "answers": [
+      "Sóng khử cực của tâm nhĩ.",
+      "Trạng thái khử cực tâm thất.",
+      "Sự tái cực của tâm thất.",
+      "Thời gian dẫn truyền xung động từ tâm nhĩ đến tâm thất"
+    ],
+    "correct": 0,
+    "explanation": "Sóng P là kết quả của sự **khử cực tâm nhĩ** (Atrial Depolarization)."
+  },
+  {
+    "question": "Trong điện tâm đồ PQRST, khoảng PQ thể hiện:",
+    "answers": [
+      "Sóng khử cực của tâm nhĩ.",
+      "Thời gian dẫn truyền xung động từ tâm nhĩ đến tâm thất",
+      "Trạng thái khử cực tâm thất.",
+      "Sự tái cực của tâm thất."
+    ],
+    "correct": 1,
+    "explanation": "Khoảng PQ (hoặc PR) thể hiện **thời gian dẫn truyền xung động** từ tâm nhĩ qua nút nhĩ thất đến tâm thất."
+  },
+  {
+    "question": "Trong điện tâm đồ PQRST, phức hợp QRS thể hiện:",
+    "answers": [
+      "Sóng khử cực của tâm nhĩ.",
+      "Sự tái cực của tâm thất.",
+      "Trạng thái khử cực tâm thất.",
+      "Thời gian dẫn truyền xung động từ tâm nhĩ đến tâm thất"
+    ],
+    "correct": 2,
+    "explanation": "Phức hợp QRS là kết quả của sự **khử cực tâm thất** (Ventricular Depolarization)."
+  },
+  {
+    "question": "Trong điện tâm đồ PQRST, sóng T thể hiện:",
+    "answers": [
+      "Sóng khử cực của tâm nhĩ.",
+      "Trạng thái khử cực tâm thất.",
+      "Thời gian dẫn truyền xung động từ tâm nhĩ đến tâm thất",
+      "Sự tái cực của tâm thất."
+    ],
+    "correct": 3,
+    "explanation": "Sóng T là kết quả của sự **tái cực tâm thất** (Ventricular Repolarization)."
+  },
+  {
+    "question": "Người ta đặt các điện cực trực tiếp lên các vị trí cần điều trị trên cơ thể, rồi thiết lập một điện trường không đổi bằng cách chọn các điện cực có tính chất hoá học khác nhau, người ta có thể tạo ra tại vùng đặt các điện cực đó các loại acid, bazơ hay những phức hợp hoá chất cần thiết để điều trị các bệnh tương ứng. Phương pháp này là:",
+    "answers": [
+      "Điện giải liệu pháp",
+      "Ion hóa liệu pháp",
+      "Ganvany liệu pháp",
+      "Tất cả các ý sai"
+    ],
+    "correct": 0,
+    "explanation": "Việc sử dụng điện cực để tạo ra các chất hóa học tại chỗ (acid, bazơ) là ứng dụng của **hiện tượng điện giải** (electrolysis) trong y học."
+  },
+  {
+    "question": "Dưới tác dụng của điện trường tạo bởi 2 điện cực trái dấu, bên trong dung dịch sẽ xuất hiện các dòng ion chuyển dời về phía 2 điện cực. Trong đó các ion âm chuyển dời về cực dương và ngược lại. Tính chất này được ứng dụng trong một phương pháp điều trị trong y học có tên gọi:",
+    "answers": [
+      "Điện giải liệu pháp",
+      "Ion hóa liệu pháp",
+      "Ganvany liệu pháp",
+      "Tất cả các ý sai"
+    ],
+    "correct": 1,
+    "explanation": "Sự di chuyển của ion trong điện trường để đưa thuốc vào cơ thể là nguyên lý của **Ion hóa liệu pháp** (Iontophoresis)."
+  },
+  {
+    "question": "Dòng 1 chiều truyền qua cơ thể sẽ gây ra những tác dụng sinh lý đặc hiệu như: làm giảm ngưỡng kích thích của sợi cơ vận động, giảm tính đáp ứng của thần kinh cảm giác, do đó có tác dụng làm giảm đau, gây giãn mạch ở phần cơ thể giữa 2 điện cực, tăng cường dinh dưỡng ở vùng có dòng điện chạy qua. Đó chính là nguyên tắc của 1 phương pháp điều trị sử dụng dòng điện 1 chiều:",
+    "answers": [
+      "Ion hóa liệu pháp",
+      "Điện giải liệu pháp",
+      "Ganvany liệu pháp",
+      "Tất cả các ý sai"
+    ],
+    "correct": 2,
+    "explanation": "Sử dụng dòng điện một chiều (dòng DC) liên tục để tạo ra các hiệu ứng sinh lý trên là nguyên lý của **Ganvany liệu pháp** (Galvanic therapy)."
+  },
+  {
+    "question": "Dòng hạ tần trong y học:",
+    "answers": [
+      "Dòng điện biến thiên có tần số dao động trong khoảng từ 1000 → 300000 Hz.",
+      "Dòng điện biến thiên có tần số dao động trong khoảng từ 300000 Hz lên tới hàng ngàn MHz.",
+      "Dòng điện biến thiên có tần số dưới 1000 Hz.",
+      "Bao gồm dòng 1 chiều và các dòng xoay chiều có tần số dưới 1000 Hz."
+    ],
+    "correct": 3,
+    "explanation": "Dòng hạ tần (Low Frequency) bao gồm **dòng một chiều** và dòng xoay chiều có tần số **dưới 1000 Hz**."
+  },
+  {
+    "question": "Dòng trung tần trong y học là dòng điện biến thiên có tần số dao động trong khoảng",
+    "answers": [
+      "1000 → 300000 Hz.",
+      "10000 → 300000 Hz.",
+      "100000 → 300000 Hz.",
+      "10 → 300000 Hz."
+    ],
+    "correct": 0,
+    "explanation": "Dòng trung tần (Medium Frequency) thường được định nghĩa là có tần số dao động trong khoảng **1000 Hz đến 300000 Hz**."
+  },
+  {
+    "question": "Trong dải dòng điện cao tầng ứng dụng trong y học, sóng ngắn là đòng điện biến thiên có bước sóng:",
+    "answers": [
+      "70cm - 10m",
+      "10m trở lên",
+      "10cm - 70cm",
+      "1cm - 10cm"
+    ],
+    "correct": 1,
+    "explanation": "Sóng ngắn (Shortwave) có bước sóng **10m trở lên** (tần số 3-30 MHz)."
+  },
+  {
+    "question": "Trong dải dòng điện cao tầng ứng dụng trong y học, sóng siêu ngắn là đòng điện biến thiên có bước sóng:",
+    "answers": [
+      "10m trở lên",
+      "10cm - 70cm",
+      "70cm - 10m",
+      "1cm - 10cm"
+    ],
+    "correct": 2,
+    "explanation": "Sóng siêu ngắn (Ultra Shortwave/Microwave) có bước sóng **70cm - 10m** (tần số 30-400 MHz)."
+  },
+  {
+    "question": "Trong dải dòng điện cao tầng ứng dụng trong y học, sóng cực ngắn là đòng điện biến thiên có bước sóng:",
+    "answers": [
+      "70cm - 10m",
+      "10m trở lên",
+      "1cm - 10cm",
+      "10cm - 70cm"
+    ],
+    "correct": 3,
+    "explanation": "Sóng cực ngắn (Microwave/Radar) có bước sóng **10cm - 70cm** (tần số 400 MHz - 3 GHz)."
+  },
+  {
+    "question": "Dòng điện xoay chiều tác dụng vào cơ thể không gây hiện tượng điện phân và không kích thích cơ thần kinh. Đó là tác dụng của:",
+    "answers": [
+      "Dòng hạ tần",
+      "Dòng trung tần",
+      "Dòng cao tần",
+      "Dòng cao tần và trung tần."
+    ],
+    "correct": 2,
+    "explanation": "Dòng điện **cao tần** có tần số quá cao nên không gây ra điện phân và hầu như không kích thích cơ thần kinh (chỉ gây hiệu ứng nhiệt)."
+  },
+  {
+    "question": "Dòng điện xoay chiều tác dụng vào cơ thể gây ra hiện tượng điện phân và kích thích cơ thần kinh. Đó là tác dụng của:",
+    "answers": [
+      "Dòng hạ tần và cao tần",
+      "Dòng cao tần và trung tần.",
+      "Dòng hạ tần và trung tần",
+      "Tất cả các ý đúng"
+    ],
+    "correct": 2,
+    "explanation": "Dòng điện **hạ tần và trung tần** có tần số đủ thấp để tác dụng kích thích lên cơ thần kinh và gây ra điện phân."
+  },
+  {
+    "question": "Trong đa số trường hợp nếu chạm tay vào dòng điện thì các cơ khép bao giờ cũng co mạnh hơn các cơ duỗi vì vậy người bị nạn thường giữ chặt vàovật dẫn điện, không tự ý rút tay ra mặc dù lúc đầu não vẫn nhận thức được rằng mình đang gặp nạn. Đó là cơ chế gây nguy hiểm:",
+    "answers": [
+      "Cơ chế tác dụng kích thích cơ và thần kinh.",
+      "Cơ chế tác dụng nhiệt của dòng điện.",
+      "Cơ chế tác dụng cơ học của dòng điện.",
+      "Cơ chế tác dụng hóa học của dòng điện"
+    ],
+    "correct": 0,
+    "explanation": "Việc cơ co giật và bị giữ lại vật dẫn điện là do **cơ chế tác dụng kích thích cơ và thần kinh** của dòng điện."
+  },
+  {
+    "question": "Nguyên tắc chính để đề phòng và giảm bớt mức độ nguy hiểm của tai nạn do điện là:",
+    "answers": [
+      "Giảm bớt điện áp nhỏ nhất đến mức có thể.",
+      "Tăng điện trở tiếp xúc.",
+      "Tăng cường giáo dục rộng rãi ý thức đề phòng tai nạn về điện.",
+      "Tất cả các ý đúng"
+    ],
+    "correct": 3,
+    "explanation": "Để phòng tránh tai nạn điện, cần kết hợp nhiều biện pháp: kỹ thuật (giảm áp, tăng điện trở cách điện) và ý thức (giáo dục)."
+  },
+  {
+    "question": "Thuyết sóng điện từ về ánh sáng là của:",
+    "answers": [
+      "Einstein",
+      "Ganvanni",
+      "Maxwell",
+      "Niels Bohr"
+    ],
+    "correct": 2,
+    "explanation": "James Clerk Maxwell là người đề xuất Thuyết điện từ, chứng minh ánh sáng có bản chất sóng điện từ."
+  },
+  {
+    "question": "Theo thuyết điện từ về ánh sáng: Ánh sáng truyền đến một điểm được đặc trưng bởi 2 vectơ tại điểm đó: Vectơ cường độ điện trường và Vectơ cường độ từ trường.",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 0,
+    "explanation": "Sóng điện từ (ánh sáng) được đặc trưng bởi hai vectơ E và H dao động vuông góc với nhau và vuông góc với phương truyền."
+  },
+  {
+    "question": "Theo thuyết lượng tử ánh sáng: Ánh sáng truyền đến một điểm được đặc trưng bởi 2 vectơ tại điểm đó: Vectơ cường độ điện trường và Vectơ cường độ từ trường.",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 1,
+    "explanation": "Thuyết lượng tử ánh sáng đặc trưng cho ánh sáng bằng hạt photon, không phải bằng hai vectơ trường."
+  },
+  {
+    "question": "Trong Vectơ cường độ điện trường E = E_0cos(omega t+alpha); alpha là",
+    "answers": [
+      "Cường độ cực đại",
+      "Pha ban đầu",
+      "Tần số góc",
+      "Pha"
+    ],
+    "correct": 1,
+    "explanation": "Trong phương trình dao động điều hòa, alpha là pha ban đầu."
+  },
+  {
+    "question": "Trong Vectơ cường độ từ trường H = H_0cos(omega t+alpha); (omega t+alpha) là:",
+    "answers": [
+      "Pha ban đầu",
+      "Cường độ cực đại",
+      "Pha",
+      "Tần số góc"
+    ],
+    "correct": 2,
+    "explanation": "(omega t+alpha) là toàn bộ biểu thức của pha tại thời điểm t."
+  },
+  {
+    "question": "Theo thuyết điện từ về ánh sáng: Cường độ điện trường có sóng:",
+    "answers": [
+      "Dạng xung răng cưa",
+      "Dạng xung chữ nhật",
+      "Dạng đường thẳng",
+      "Dạng hình sin"
+    ],
+    "correct": 3,
+    "explanation": "Cường độ điện trường và từ trường trong sóng điện từ biến thiên điều hòa theo thời gian và không gian, có dạng hình sin."
+  },
+  {
+    "question": "Theo thuyết điện từ về ánh sáng: Vectơ E và H vuông góc với nhau và vuông góc với phương truyền tia sáng",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 0,
+    "explanation": "Đây là đặc điểm cơ bản của sóng điện từ (sóng ngang)."
+  },
+  {
+    "question": "Theo thuyết điện từ về ánh sáng: Vectơ E vuông góc với H và trùng với phương truyền tia sáng",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 1,
+    "explanation": "Vectơ E, H và phương truyền phải vuông góc với nhau đôi một."
+  },
+  {
+    "question": "Tia hồng ngoại có",
+    "answers": [
+      "Có bước sóng nhỏ hơn bước sóng ánh sáng khả kiến.",
+      "Có bước sóng nhỏ hơn bước sóng của tia tử ngoại.",
+      "Có bước sóng lớn hơn bước sóng ánh sáng khả kiến.",
+      "Có tần số lớn hơn tần số của tia tử ngoại."
+    ],
+    "correct": 2,
+    "explanation": "Tia hồng ngoại nằm ngay sau ánh sáng đỏ, có bước sóng lớn hơn ánh sáng khả kiến (khoảng 760text{nm} đến 1text{mm})."
+  },
+  {
+    "question": "Thành phần gây cảm giác ánh sáng cho mắt chúng ta là",
+    "answers": [
+      "Từ trường",
+      "Điện từ trường",
+      "Điện trường",
+      "Các ý đều đúng"
+    ],
+    "correct": 2,
+    "explanation": "Tương tác quang học cơ bản với vật chất (bao gồm cảm thụ ánh sáng của mắt) chủ yếu thông qua vectơ cường độ điện trường E."
+  },
+  {
+    "question": "Chỉ ra ý sai: Hiện tượng thể hiện tính chất sóng của ánh sáng:",
+    "answers": [
+      "Hiện tượng quang điện",
+      "Hiện tượng giao thoa",
+      "Hiện tượng nhiễu xạ",
+      "Hiện tượng phân cực"
+    ],
+    "correct": 0,
+    "explanation": "Hiện tượng quang điện thể hiện tính chất hạt (photon) của ánh sáng, không phải tính chất sóng."
+  },
+  {
+    "question": "Hiện tượng thể hiện tính chất hạt của ánh sáng:",
+    "answers": [
+      "Hiện tượng giao thoa",
+      "Hiện tượng quang điện",
+      "Hiện tượng nhiễu xạ",
+      "Hiện tượng phân cực"
+    ],
+    "correct": 1,
+    "explanation": "Hiện tượng quang điện là bằng chứng rõ ràng nhất cho tính chất hạt của ánh sáng."
+  },
+  {
+    "question": "Thí nghiệm Young là thí nghiệm chứng minh",
+    "answers": [
+      "Hiện tượng quang điện",
+      "Hiện tượng nhiễu xạ",
+      "Hiện tượng giao thoa",
+      "Hiện tượng phân cực"
+    ],
+    "correct": 2,
+    "explanation": "Thí nghiệm khe Young chứng minh hiện tượng giao thoa ánh sáng (tính chất sóng)."
+  },
+  {
+    "question": "Chùm ánh sáng qua một lỗ hình chữ nhật nhỏ trên trần nhà, chiếu xuống nền nhà lại có hình tròn, đó là:",
+    "answers": [
+      "Hiện tượng giao thoa",
+      "Hiện tượng quang điện",
+      "Hiện tượng phân cực",
+      "Hiện tượng nhiễu xạ"
+    ],
+    "correct": 3,
+    "explanation": "Ánh sáng truyền qua lỗ nhỏ bị bẻ cong, loang ra, đó là hiện tượng nhiễu xạ."
+  },
+  {
+    "question": "Công thức E=mc^2 giúp ta xác định",
+    "answers": [
+      "Khối lượng động của photon",
+      "Khối lượng tĩnh của photon",
+      "Khối lượng của photon",
+      "Tất cả các ý đúng"
+    ],
+    "correct": 0,
+    "explanation": "Photon không có khối lượng tĩnh (m_0=0), nhưng có khối lượng động m = E/c^2 = hf/c^2."
+  },
+  {
+    "question": "Cường độ của chùm tia sáng và số photon phát ra từ nguồn sáng trong một đơn vị thời gian có mối liên hệ",
+    "answers": [
+      "Tỉ lệ nghịch",
+      "Tỉ lệ thuận",
+      "Không có liên hệ",
+      "Tất cả các ý sai."
+    ],
+    "correct": 1,
+    "explanation": "Cường độ sáng tỉ lệ với năng lượng, mà năng lượng tỉ lệ với số photon (E = N cdot hf). Do đó, cường độ tỉ lệ thuận với số photon."
+  },
+  {
+    "question": "Đối với mỗi kim loại dùng làm catôt có một bước sóng lambda_0 nhất định. Hiện tượng quang điện chỉ xảy ra khi bước sóng của ánh sáng kích thích lambda < lambda_0, là nội dung của:",
+    "answers": [
+      "Định luật về dòng quang điện bão hòa.",
+      "Định luật về động năng cực đại của các quang điện tử",
+      "Định luật giới hạn quang điện",
+      "Định luật quang điện"
+    ],
+    "correct": 2,
+    "explanation": "Điều kiện lambda le lambda_0 là nội dung của Định luật giới hạn quang điện (Định luật quang điện thứ nhất)."
+  },
+  {
+    "question": "Điền vào chỗ trống: Với ánh sáng kích thích có bước sóng thỏa mãn định luật quang điện thứ nhất thì cường độ dòng quang điện bão hòa .........với cường độ của chùm sáng kích thích.",
+    "answers": [
+      "Tỉ lệ nghịch",
+      "Tỉ lệ thuận",
+      "Bằng",
+      "Tất cả các ý sai"
+    ],
+    "correct": 1,
+    "explanation": "Cường độ dòng quang điện bão hòa tỉ lệ thuận với cường độ chùm sáng kích thích (Định luật quang điện thứ hai)."
+  },
+  {
+    "question": "Điền vào chỗ trống: Động năng ban đầu cực đại của các electron quang điện không phụ thuộc vào cường độ của chùm sáng kích thích, mà chỉ phụ thuộc vào ......... của ánh sáng kích thích và bản chất kim loại dùng làm catôt.",
+    "answers": [
+      "Bước sóng",
+      "Tần số góc",
+      "Pha ban đầu",
+      "Pha"
+    ],
+    "correct": 0,
+    "explanation": "Theo công thức Einstein: W_đmax = hf - A = hc/lambda - A. Động năng phụ thuộc vào tần số (f) hoặc bước sóng (lambda) và công thoát (A)."
+  },
+  {
+    "question": "Điền vào chỗ trống: Theo công thức Einstein, để xảy ra hiện tượng quang điện, photon của ánh sáng kích thích phải có năng lượng ......... công thoát A :",
+    "answers": [
+      "Lớn hơn",
+      "Lớn hơn hoặc bằng",
+      "Bé thua",
+      "Bé thua hoặc bằng"
+    ],
+    "correct": 1,
+    "explanation": "Điều kiện để electron bật ra là năng lượng photon epsilon = hf ge A."
+  },
+  {
+    "question": "Điền vào chỗ trống: Nếu ........ chùm sáng kích thích càng lớn thì trong một đơn vị thời gian: số phôtôn đến đập vào mặt catôt càng nhiều, số electron quang điện bị bật ra càng nhiều. Do đó ......... quang điện bão hòa càng lớn.",
+    "answers": [
+      "Tần số",
+      "Biên độ",
+      "Cường độ",
+      "Bước sóng"
+    ],
+    "correct": 2,
+    "explanation": "Cường độ chùm sáng càng lớn thì số photon/giây càng nhiều, dẫn đến dòng quang điện bão hòa càng lớn."
+  },
+  {
+    "question": "Theo định luật về vận tốc ban đầu cực đại của electron quang điện: Vận tốc ban đầu cực đại của quang electron phụ thuộc vào:",
+    "answers": [
+      "Biên độ của ánh sáng kích thích và công thoát A",
+      "Cường độ của ánh sáng kích thích và công thoát A",
+      "Vận tốc của ánh sáng kích thích và công thoát A",
+      "Tần số của ánh sáng kích thích và công thoát A"
+    ],
+    "correct": 3,
+    "explanation": "Vận tốc cực đại phụ thuộc vào tần số f (hay bước sóng lambda) của ánh sáng kích thích và Công thoát A (bản chất kim loại)."
+  },
+  {
+    "question": "Điền vào chỗ trống: Hiện tượng hấp thụ ánh sáng là hiện tượng môi trường vật chất làm giảm cường độ (hay năng lượng) của dòng ánh sáng truyền qua nó. Phần quang năng bị hấp thụ sẽ biến thành ......... của môi trường.",
+    "answers": [
+      "Nội năng",
+      "Quang năng",
+      "Hóa năng",
+      "Điện năng"
+    ],
+    "correct": 0,
+    "explanation": "Năng lượng ánh sáng khi bị vật chất hấp thụ thường chuyển hóa thành nhiệt năng, làm tăng nội năng của vật chất."
+  },
+  {
+    "question": "Định luật hấp thụ ánh sáng I_t = I_0. e^-kl cho ta thấy:",
+    "answers": [
+      "I_t luôn lớn hơn I_0",
+      "I_t luôn lớn hơn hoặc bằng I_0",
+      "I_t luôn bé thua hoặc bằng I_0",
+      "I_t luôn bé thua I_0"
+    ],
+    "correct": 2,
+    "explanation": "I_t là cường độ sau khi truyền qua, I_0 là cường độ ban đầu. Do bị hấp thụ (kge 0, l>0), nên I_t le I_0."
+  },
+  {
+    "question": "Định luật hấp thụ ánh sáng I_t = I_0. e^-kl, trong đó: I_t là:",
+    "answers": [
+      "Cường độ chùm sáng chiếu tới mặt trước môi trường",
+      "Hệ số hấp thụ",
+      "Cường độ chùm sáng sau khi truyền qua môi trường",
+      "Bề dày môi trường"
+    ],
+    "correct": 2,
+    "explanation": "I_t là cường độ sau khi xuyên qua lớp vật chất có bề dày l."
+  },
+  {
+    "question": "Định luật hấp thụ ánh sáng I_t = I_0. e^-kl, trong đó: l là:",
+    "answers": [
+      "Cường độ chùm sáng sau khi truyền qua môi trường",
+      "Cường độ chùm sáng chiếu tới mặt trước môi trường",
+      "Hệ số hấp thụ",
+      "Bề dày môi trường"
+    ],
+    "correct": 3,
+    "explanation": "l là quãng đường ánh sáng truyền qua môi trường hấp thụ, tức bề dày môi trường."
+  },
+  {
+    "question": "Chiếu một chùm sáng vào một đối tượng thấy đối tượng có màu đen, chứng tỏ:",
+    "answers": [
+      "Tất cả ánh sáng bị hấp thụ",
+      "Tất cả ánh sáng được phản xạ",
+      "Tất cả ánh sáng được tán xạ",
+      "Tất cả ánh sáng đều xuyên qua đối tượng"
+    ],
+    "correct": 0,
+    "explanation": "Vật màu đen là vật hấp thụ hầu hết ánh sáng chiếu tới nó."
+  },
+  {
+    "question": "Chiếu một chùm sáng vào một đối tượng thấy đối tượng có màu trắng, chứng tỏ:",
+    "answers": [
+      "Tất cả ánh sáng bị hấp thụ",
+      "Tất cả ánh sáng được phản xạ",
+      "Tất cả ánh sáng được tán xạ",
+      "Tất cả ánh sáng đều xuyên qua đối tượng"
+    ],
+    "correct": 1,
+    "explanation": "Vật màu trắng là vật phản xạ (hoặc tán xạ) hầu hết ánh sáng chiếu tới nó."
+  },
+  {
+    "question": "Chiếu một chùm sáng vào một đối tượng thấy đối tượng trong suốt như pha lê, chứng tỏ:",
+    "answers": [
+      "Tất cả ánh sáng được phản xạ",
+      "Tất cả ánh sáng bị hấp thụ",
+      "Tất cả ánh sáng đều xuyên qua đối tượng",
+      "Tất cả ánh sáng được tán xạ"
+    ],
+    "correct": 2,
+    "explanation": "Vật trong suốt là vật cho phép ánh sáng đi qua gần như hoàn toàn (xuyên qua)."
+  },
+  {
+    "question": "Máu có màu đỏ, chứng tỏ:",
+    "answers": [
+      "Nó hấp thụ sóng ánh sáng đỏ",
+      "Nó phản xạ tất cả các sóng ánh sáng khả kiến khác, trừ màu đỏ",
+      "Nó hấp thụ tất cả các sóng ánh sáng khả kiến khác, trừ màu đỏ",
+      "Tất cả các ý đúng."
+    ],
+    "correct": 2,
+    "explanation": "Máu hấp thụ các màu khác và phản xạ/tán xạ mạnh nhất màu đỏ, nên ta nhìn thấy nó màu đỏ."
+  },
+  {
+    "question": "Hiện tượng hấp thụ ánh sáng phụ thuộc vào:",
+    "answers": [
+      "Bản chất và cấu trúc của môi trường.",
+      "Bản chất của chùm ánh sáng tới",
+      "Bề dày lớp vật chất hấp thụ",
+      "Tất cả các ý đúng"
+    ],
+    "correct": 0,
+    "explanation": "Hệ số hấp thụ k là đặc trưng cho bản chất và cấu trúc của môi trường vật chất."
+  },
+  {
+    "question": "Bề dày lớp vật chất càng lớn, chùm tia sáng bị phản xạ càng:",
+    "answers": [
+      "Nhiều",
+      "Ít",
+      "Mạnh",
+      "Tất cả các ý sai"
+    ],
+    "correct": 3,
+    "explanation": "Bề dày lớp vật chất chủ yếu ảnh hưởng đến **hấp thụ** và **truyền qua**, không trực tiếp quyết định mức độ **phản xạ** (phản xạ chủ yếu xảy ra ở bề mặt)."
+  },
+  {
+    "question": "Trong hiện tượng phát quang, nếu năng lượng chuyển mức không đủ đạt một số nguyên lần thì năng lượng được giải phóng với dạng:",
+    "answers": [
+      "Phát nhiệt",
+      "Thu nhiệt",
+      "Photon",
+      "Quang năng"
+    ],
+    "correct": 0,
+    "explanation": "Năng lượng dư thừa hoặc không đủ để phát ra photon có năng lượng chính xác thường được giải phóng dưới dạng nhiệt, làm tăng nội năng (phát nhiệt)."
+  },
+  {
+    "question": "Huỳnh quang: là sự phát quang xảy ra đồng thời với thời gian chiếu sáng và sau khi ngừng chiếu sáng vào môi trường thì:",
+    "answers": [
+      "Vẫn tiếp tục tồn tại một thời gian",
+      "Chấm dứt ngay",
+      "Kéo dài một thời gian nhưng yếu dần đi",
+      "Có thể tiếp tục duy trì một thời gian dài"
+    ],
+    "correct": 1,
+    "explanation": "Huỳnh quang là phát quang có thời gian sống ngắn (< 10^-8s), chấm dứt ngay khi ngừng kích thích."
+  },
+  {
+    "question": "Lân quang: là sự phát quang mà sau khi đã ngừng chiếu sáng vào môi trường có thể tiếp tục duy trì một thời gian dài",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 0,
+    "explanation": "Lân quang là phát quang có thời gian sống dài (> 10^-8s), kéo dài sau khi ngừng kích thích."
+  },
+  {
+    "question": "Một tập hợp hạt vi mô có thể nằm ở trạng thái ứng với các mức năng lượng xác định, gián đoạn W_1, W_2, W_3,… Các hạt ở mức năng lượng cao hơn có thể chuyển về mức năng lượng thấp hơn (nhất là mức năng lượng thấp nhất W_1), tương ứng với một hạt khi chuyển mức sẽ phát ra photon có năng lượng xác định theo biểu thức: h.f = W_{text{cao}}-W_{text{thấp}} đây là hiện tượng:",
+    "answers": [
+      "Phát xạ cảm ứng",
+      "Phát xạ ngẫu nhiên",
+      "Bức xạ ion hóa",
+      "Bức xạ cảm ứng"
+    ],
+    "correct": 1,
+    "explanation": "Đây là định nghĩa của hiện tượng **Phát xạ tự phát** (hoặc ngẫu nhiên)."
+  },
+  {
+    "question": "Sự chuyển dời mức năng lượng của hạt (nguyên tử, phân tử) dưới ảnh hưởng của trường bức xạ gọi là chuyển dời cảm ứng, còn bức xạ phát ra là:",
+    "answers": [
+      "Bức xạ ngẫu nhiên",
+      "Bức xạ ion hóa",
+      "Bức xạ cưỡng bức",
+      "Bức xạ tự phát"
+    ],
+    "correct": 2,
+    "explanation": "Bức xạ phát ra dưới tác dụng của trường bức xạ kích thích gọi là **Bức xạ cưỡng bức** (hay phát xạ cảm ứng)."
+  },
+  {
+    "question": "Laser là:",
+    "answers": [
+      "Sự khuếch đại ánh sáng bằng cách phát bức xạ cảm ứng",
+      "Một loại ánh sáng có tính đơn sắc",
+      "Một loại ánh sáng có thể phát ra dạng xung hoặc liên tục",
+      "Tất cả các ý đúng"
+    ],
+    "correct": 3,
+    "explanation": "LASER là viết tắt của 'Light Amplification by Stimulated Emission of Radiation' (Khuếch đại ánh sáng bằng Phát xạ Cảm ứng) và có các tính chất đặc biệt (đơn sắc, có thể dạng xung/liên tục)."
+  },
+  {
+    "question": "Điều kiện cơ bản nhất để một chất dùng làm hoạt chất laser:",
+    "answers": [
+      "Có hiệu số mức năng lượng phù hợp bước chuyển laser",
+      "Dễ chế tạo thành hình dạng nhất định để cho vào buồng cộng hưởng",
+      "Có tổng mức năng lượng phù hợp bước chuyển laser",
+      "Giá thành rẻ, phù hợp với điều kiện khoa học kỹ thuật"
+    ],
+    "correct": 0,
+    "explanation": "Hoạt chất phải có các mức năng lượng cho phép sự chuyển mức và phát xạ photon có bước sóng mong muốn."
+  },
+  {
+    "question": "Trong máy phát laser Bơm năng lượng có tác dụng làm các hạt trong hoạt chất:",
+    "answers": [
+      "Chuyển động theo hướng giữa hai gương",
+      "Chuyển sang trạng thái kích thích",
+      "Chuyển mức và phát xạ bức xạ cảm ứng",
+      "Chuyển mức và phát xạ bức xạ ngẫu nhiên"
+    ],
+    "correct": 1,
+    "explanation": "Bơm năng lượng có nhiệm vụ đưa các hạt lên các mức năng lượng cao hơn (trạng thái kích thích) để tạo mật độ nghịch đảo."
+  },
+  {
+    "question": "Tác nhân kích thích đầu tiên trong máy phát để phát tia laser:",
+    "answers": [
+      "Chiếu từ ngoài vào",
+      "Do các bức xạ cảm ứng",
+      "Do các bức xạ tự phát",
+      "Do hiện tượng phóng xạ"
+    ],
+    "correct": 2,
+    "explanation": "Quá trình laser khởi động bằng các photon do **bức xạ tự phát** ngẫu nhiên."
+  },
+  {
+    "question": "Buồng cộng hưởng trong máy phát laser có tác dụng:",
+    "answers": [
+      "Cung cấp năng lượng làm các hạt trong hoạt chất chuyển sang trạng thái kích thích",
+      "Làm các hạt trong hoạt chất phát xạ photon",
+      "Làm các hạt trong hoạt chất chuyển động theo hướng giữa hai gương",
+      "Định hướng và phản xạ các photon"
+    ],
+    "correct": 3,
+    "explanation": "Buồng cộng hưởng (hai gương) giúp các photon được khuếch đại nhiều lần và định hướng chùm tia."
+  },
+  {
+    "question": "Đầu ra của chùm laser ở:",
+    "answers": [
+      "Gương phản xạ một phần",
+      "Gương phản xạ toàn phần",
+      "Hoạt chất",
+      "Bơm năng lượng"
+    ],
+    "correct": 0,
+    "explanation": "Chùm laser đi ra ngoài qua gương có độ phản xạ nhỏ hơn 100% (gương bán mạ)."
+  },
+  {
+    "question": "Laser là ánh sáng có tính đơn sắc, tính định hướng, tính kết hợp rất cao và cường độ lớn.",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 0,
+    "explanation": "Đây là bốn đặc tính nổi bật của ánh sáng laser."
+  },
+  {
+    "question": "Laser là ánh sáng trắng, có tính định hướng, tính kết hợp rất cao và cường độ lớn.",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 1,
+    "explanation": "Laser là ánh sáng **đơn sắc** (một màu), không phải ánh sáng trắng."
+  },
+  {
+    "question": "Laser có tính chất đặc biệt:",
+    "answers": [
+      "Tính chống nhiễu xạ, định hướng",
+      "Tính giao thoa, cộng hưởng, phân cực",
+      "Cường độ mạnh",
+      "Tính kết hợp, đơn sắc, định hướng"
+    ],
+    "correct": 3,
+    "explanation": "Tính kết hợp, đơn sắc, định hướng là các tính chất cơ bản nhất của laser."
+  },
+  {
+    "question": "Laser Rubi là laser:",
+    "answers": [
+      "Rắn",
+      "Lỏng",
+      "Khí",
+      "Bán dẫn"
+    ],
+    "correct": 0,
+    "explanation": "Hoạt chất laser Rubi là tinh thể AL2O3 pha Cr^3+, thuộc loại laser rắn."
+  },
+  {
+    "question": "Laser He - Ne là:",
+    "answers": [
+      "Rắn",
+      "Lỏng",
+      "Khí",
+      "Bán dẫn"
+    ],
+    "correct": 2,
+    "explanation": "Hoạt chất laser He-Ne là hỗn hợp khí Helium và Neon, thuộc loại laser khí."
+  },
+  {
+    "question": "Laser có thể cắt gọt vật chất và ứng dụng làm dao mổ dựa trên tính chất:",
+    "answers": [
+      "Tính kết hợp",
+      "Tính đơn sắc",
+      "Mật độ công suất cao",
+      "Tính định hướng"
+    ],
+    "correct": 2,
+    "explanation": "Khả năng cắt gọt hay phá hủy mô dựa trên việc tập trung năng lượng cực lớn tại một điểm rất nhỏ (mật độ công suất cao)."
+  },
+  {
+    "question": "Năm 1911, Rutherford đã đề xướng ra mẫu hành tinh nguyên tử, tuy nhiên mẫu này gặp phải những khó khăn là",
+    "answers": [
+      "Không áp dụng được trên thực tế",
+      "Không giải thích được hiện tượng liên kết cộng hóa trị",
+      "Chỉ áp dụng được trên nguyên tử H",
+      "Không giải thích được sự tạo thành quang phổ vạch nguyên tử và tính bền vững của các nguyên tử"
+    ],
+    "correct": 3,
+    "explanation": "Mẫu Rutherford không giải thích được vì sao electron chuyển động quanh hạt nhân mà không bức xạ năng lượng và rơi vào hạt nhân."
+  },
+  {
+    "question": "Điền vào chỗ trống: .................so sánh nguyên tử và hệ mặt trời với hạt nhân đóng vai trò mặt trời và các electron như các hành tinh quay xung quanh mặt trời",
+    "answers": [
+      "Mẫu hành tinh nguyên tử Bohr",
+      "Mẫu nguyên tử cacbon",
+      "Hệ hành tinh",
+      "Cấu tạo hạt nhân nguyên tử"
+    ],
+    "correct": 0,
+    "explanation": "Mô hình này là cơ sở của mẫu nguyên tử Rutherford và sau đó được Bohr cải tiến."
+  },
+  {
+    "question": "Theo tiên đề Bohr: Nguyên tử chỉ tồn tại trong những trạng thái có năng lượng xác định gọi là:",
+    "answers": [
+      "Trạng thái nghỉ",
+      "Trạng thái dừng",
+      "Trạng thái hoạt động",
+      "Trạng thái kích thích"
+    ],
+    "correct": 1,
+    "explanation": "Trạng thái ổn định mà tại đó electron không bức xạ hay hấp thụ năng lượng được gọi là trạng thái dừng."
+  },
+  {
+    "question": "Theo tiên đề Bohr: Ở trạng thái dừng electron chuyển động quanh hạt nhân theo quĩ đạo dừng bán kính r_n và",
+    "answers": [
+      "Nguyên tử chỉ hấp thụ, không đủ năng lượng để bức xạ",
+      "Nguyên tử chỉ bức xạ, không hấp thụ",
+      "Nguyên tử không hấp thụ hoặc bức xạ",
+      "Nguyên tử hấp thụ năng lượng cao, bức xạ năng lượng thấp"
+    ],
+    "correct": 2,
+    "explanation": "Tiên đề Bohr về trạng thái dừng: Trong trạng thái dừng, nguyên tử không bức xạ hay hấp thụ năng lượng."
+  },
+  {
+    "question": "Cấu tạo hạt nhân nguyên tử gồm:",
+    "answers": [
+      "Các hạt proton và nucleon",
+      "Các hạt nucleon và neutron",
+      "Các hạt electron và neutron",
+      "Các hạt proton và neutron"
+    ],
+    "correct": 3,
+    "explanation": "Hạt nhân nguyên tử cấu tạo từ các nucleon (proton và neutron)."
+  },
+  {
+    "question": "Số proton trong hạt nhân nguyên tử ký hiệu là:",
+    "answers": [
+      "Z",
+      "A",
+      "N",
+      "X"
+    ],
+    "correct": 0,
+    "explanation": "Z là số nguyên tử, bằng số proton."
+  },
+  {
+    "question": "Số neutron trong hạt nhân nguyên tử ký hiệu là:",
+    "answers": [
+      "Z",
+      "N",
+      "A",
+      "X"
+    ],
+    "correct": 1,
+    "explanation": "N là số neutron."
+  },
+  {
+    "question": "Số nucleon trong hạt nhân nguyên tử ký hiệu là:",
+    "answers": [
+      "N",
+      "Z",
+      "A",
+      "X"
+    ],
+    "correct": 2,
+    "explanation": "A là số khối (nucleon), bằng tổng số proton và neutron."
+  },
+  {
+    "question": "Số nucleon trong hạt nhân nguyên tử có thể tính theo công thức",
+    "answers": [
+      "N=A+Z",
+      "Z=A+N",
+      "X=A+N",
+      "A=N+Z"
+    ],
+    "correct": 3,
+    "explanation": "Số nucleon (A) bằng tổng số neutron (N) và số proton (Z). A=N+Z."
+  },
+  {
+    "question": "Khi viết 11^23 Na, số 23 chỉ",
+    "answers": [
+      "Số nucleon",
+      "Số proton",
+      "Số neutron",
+      "Số electron"
+    ],
+    "correct": 0,
+    "explanation": "23 là số khối (A), tức số nucleon."
+  },
+  {
+    "question": "Khi viết 11^23Na, số 11 chỉ",
+    "answers": [
+      "Số nucleon",
+      "Số proton",
+      "Số neutron",
+      "Tất cả các ý sai"
+    ],
+    "correct": 1,
+    "explanation": "11 là số nguyên tử (Z), tức số proton."
+  },
+  {
+    "question": "Các đồng vị trong bảng tuần hoàn hóa học có:",
+    "answers": [
+      "Số nucleon bằng nhau",
+      "Số neutron bằng nhau",
+      "Số proton bằng nhau",
+      "Khối lượng bằng nhau"
+    ],
+    "correct": 2,
+    "explanation": "Đồng vị là những nguyên tử có cùng số proton (Z) nhưng khác số neutron (N)."
+  },
+  {
+    "question": "Bức xạ ion hoá là những bức xạ mà trong quá trình tương tác với vật chất sẽ tạo nên các ion âm, ion dương và các điện tử tự do một cách:",
+    "answers": [
+      "Trực tiếp",
+      "Gián tiếp",
+      "Trực tiếp hay gián tiếp.",
+      "Tất cả các ý sai"
+    ],
+    "correct": 2,
+    "explanation": "Bức xạ ion hóa có thể ion hóa trực tiếp (hạt mang điện: alpha, beta) hoặc gián tiếp (hạt không mang điện: gamma, tia X)."
+  },
+  {
+    "question": "Hiện tượng hạt nhân của nguyên tử tự biến đổi (tự phân rã) để trở thành hạt nhân của nguyên tố khác hoặc từ 1 trạng thái có mức năng lượng cao về trạng thái có mức năng lượng thấp hơn. Trong quá trình biến đổi đó hạt nhân phát ra tia có năng lượng cao:",
+    "answers": [
+      "Hiện tượng phóng xạ",
+      "Hiện tượng bức xạ ion hóa",
+      "Hiện tượng phát xạ ngẫu nhiên",
+      "Hiện tượng bức xạ cảm ứng"
+    ],
+    "correct": 0,
+    "explanation": "Đây là định nghĩa đầy đủ về hiện tượng phóng xạ tự nhiên."
+  },
+  {
+    "question": "Trong hiện tượng phóng xạ, kết quả hạt nhân X:",
+    "answers": [
+      "Biến thành một loại hạt nhân phân tử khác",
+      "Vẫn là hạt nhân X nhưng năng lượng giảm",
+      "Phát ra tia không nhìn thấy được có năng lượng cao",
+      "Tất cả các ý đúng"
+    ],
+    "correct": 3,
+    "explanation": "Phóng xạ là sự biến đổi hạt nhân (tạo hạt nhân mới), giảm năng lượng và phát ra tia phóng xạ."
+  },
+  {
+    "question": "Hiện tượng phóng xạ là một quá trình hạt nhân nguyên tử tự biến đổi, làm:",
+    "answers": [
+      "Tăng năng lượng hạt nhân",
+      "Tăng khối lượng hạt nhân",
+      "Giảm năng lượng hạt nhân",
+      "Giữ nguyên năng lượng hạt nhân"
+    ],
+    "correct": 2,
+    "explanation": "Phóng xạ là quá trình tự phát, dẫn đến hạt nhân bền vững hơn, tức là giảm năng lượng."
+  },
+  {
+    "question": "Phóng xạ anpha có bản chất là:",
+    "answers": [
+      "Các hạt electron",
+      "Các hạt pozitron",
+      "Sóng điện từ có bước sóng rất ngắn",
+      "Các hạt nhân He"
+    ],
+    "correct": 3,
+    "explanation": "Tia alpha là dòng hạt nhân nguyên tử Heli. "
+  },
+  {
+    "question": "Phóng xạ beta âm có bản chất là:",
+    "answers": [
+      "Các hạt electron",
+      "Các hạt nhân He",
+      "Các hạt pozitron",
+      "Sóng điện từ có bước sóng rất ngắn"
+    ],
+    "correct": 0,
+    "explanation": "Tia beta^- là dòng electron (e^-)."
+  },
+  {
+    "question": "Phóng xạ beta dương có bản chất là:",
+    "answers": [
+      "Các hạt electron",
+      "Các hạt pozitron",
+      "Các hạt nhân He",
+      "Sóng điện từ có bước sóng rất ngắn"
+    ],
+    "correct": 1,
+    "explanation": "Tia beta^+ là dòng positron (e^+)."
+  },
+  {
+    "question": "Phóng xạ gamma dương có bản chất là:",
+    "answers": [
+      "Các hạt pozitron",
+      "Các hạt electron",
+      "Sóng điện từ có bước sóng rất ngắn",
+      "Các hạt nhân He"
+    ],
+    "correct": 2,
+    "explanation": "Tia gamma (tia gamma, không có 'gamma dương') là sóng điện từ có bước sóng rất ngắn (năng lượng rất cao)."
+  },
+  {
+    "question": "Trong điện trường, các hạt bị lệch về hướng bản cực âm là:",
+    "answers": [
+      "Anpha, beta âm",
+      "Beta dương, gamma",
+      "Gamma, anpha",
+      "Anpha, beta dương"
+    ],
+    "correct": 3,
+    "explanation": "Các hạt mang điện dương bị hút về bản cực âm. Hạt alpha (+2e) và hạt beta^+ (+1e) mang điện dương."
+  },
+  {
+    "question": "Trong điện trường, hạt không bị lệch hướng là:",
+    "answers": [
+      "Gamma",
+      "Anpha",
+      "Beta dương",
+      "Beta âm"
+    ],
+    "correct": 0,
+    "explanation": "Tia gamma là sóng điện từ (photon), không mang điện tích nên không bị lệch trong điện trường."
+  },
+  {
+    "question": "Đặc tính của quá trình phóng xạ:",
+    "answers": [
+      "Là một quá trình biến đổi hạt nhân",
+      "Có tính tự phát và không điều khiển được",
+      "Là một quá trình ngẫu nhiên",
+      "Tất cả các ý đúng"
+    ],
+    "correct": 3,
+    "explanation": "Phóng xạ là quá trình biến đổi hạt nhân tự phát và ngẫu nhiên."
+  },
+  {
+    "question": "Khả năng đâm xuyên kém nhất trong các tia anpha, beta dương, beta âm, gamma:",
+    "answers": [
+      "Beta dương",
+      "Beta âm",
+      "Anpha",
+      "Gamma"
+    ],
+    "correct": 2,
+    "explanation": "Khả năng đâm xuyên: gamma > beta > alpha. Tia alpha kém nhất."
+  },
+  {
+    "question": "Khả năng đâm xuyên tốt nhất trong các tia anpha, beta dương, beta âm, gamma:",
+    "answers": [
+      "Anpha",
+      "Beta dương",
+      "Beta âm",
+      "Gamma"
+    ],
+    "correct": 3,
+    "explanation": "Khả năng đâm xuyên: gamma > beta > alpha. Tia gamma tốt nhất."
+  },
+  {
+    "question": "Khả năng ion hóa tốt nhất trong các tia anpha, beta dương, beta âm, gamma:",
+    "answers": [
+      "Anpha",
+      "Beta dương",
+      "Beta âm",
+      "Gamma"
+    ],
+    "correct": 0,
+    "explanation": "Khả năng ion hóa ngược lại với đâm xuyên: alpha > beta > gamma. Tia alpha tốt nhất."
+  },
+  {
+    "question": "Khả năng ion hóa kém nhất trong các tia anpha, beta dương, beta âm, gamma:",
+    "answers": [
+      "Anpha",
+      "Gamma",
+      "Beta dương",
+      "Beta âm"
+    ],
+    "correct": 1,
+    "explanation": "Khả năng ion hóa: alpha > beta > gamma. Tia gamma kém nhất."
+  },
+  {
+    "question": "Khi đi qua môi trường vật chất, bức xạ có thể tương tác với toàn bộ nguyên tử, với một electron của nguyên tử, hoặc với hạt nhân của nguyên tử:",
+    "answers": [
+      "Quá trình ion hóa gián tiếp",
+      "Quá trình bức xạ",
+      "Quá trình ion hóa trực tiếp",
+      "Tất cả các ý đúng"
+    ],
+    "correct": 2,
+    "explanation": "Bức xạ hạt mang điện (alpha, beta) tương tác trực tiếp với electron hoặc hạt nhân gây ra ion hóa."
+  },
+  {
+    "question": "Quá trình tác dụng vật lý của bức xạ ion hóa tác dụng lên cơ thể sinh vật:",
+    "answers": [
+      "10^{-12}s đến 10^{-2}s",
+      "8 giờ",
+      "Vĩnh viễn",
+      "Từ 10^{-16}s đến 10^{-12}s"
+    ],
+    "correct": 3,
+    "explanation": "Giai đoạn vật lý là sự truyền năng lượng, diễn ra cực nhanh (10^{-16}s đến 10^{-12}s)."
+  },
+  {
+    "question": "Quá trình tác dụng hóa lý của bức xạ ion hóa tác dụng lên cơ thể sinh vật:",
+    "answers": [
+      "10^{-12}s đến 10^{-2}s",
+      "Từ 10^{-16}s đến 10^{-12}s",
+      "8 giờ",
+      "Vĩnh viễn"
+    ],
+    "correct": 0,
+    "explanation": "Giai đoạn hóa lý liên quan đến sự hình thành gốc tự do, diễn ra trong khoảng 10^{-12}s đến 10^{-2}s."
+  },
+  {
+    "question": "Quá trình tự sửa chữa của ADN, bởi các enzym sửa chữa đặc hiệu, sau khi bị chiếu xạ:",
+    "answers": [
+      "10^{-12}s đến 10^{-2}s",
+      "8 giờ",
+      "Từ 10^{-16}s đến 10^{-12}s",
+      "Vĩnh viễn"
+    ],
+    "correct": 1,
+    "explanation": "Quá trình sửa chữa sinh học là một quá trình kéo dài, thường tính bằng giờ."
+  },
+  {
+    "question": "Phương pháp chẩn đoán bệnh bằng đồng vị phóng xạ: Đưa vào cơ thể một loại đồng vị phóng xạ hoặc một hợp chất có gắn đồng vị phóng xạ thích hợp, theo dõi đường đi của đồng vị phóng xạ, đánh giá chức năng các cơ quan.",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 0,
+    "explanation": "Đây là nguyên lý cơ bản của kỹ thuật y học hạt nhân (ví dụ: SPECT, PET) dùng chất đánh dấu phóng xạ."
+  },
+  {
+    "question": "Mức an toàn tối thiểu nhận liều bức xạ ở người là:",
+    "answers": [
+      "50-100mSv",
+      "100-150mSv",
+      "10mSv",
+      "2-5mSv"
+    ],
+    "correct": 3,
+    "explanation": "Liều phơi nhiễm bức xạ nền tự nhiên (an toàn) thường được ước tính khoảng 2-5mSv mỗi năm."
+  },
+  {
+    "question": "Hiện nay tia X được hiểu là: Ánh sáng lưỡng tính sóng hạt, bước sóng 10^-12 à 10^-8m",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 0,
+    "explanation": "Tia X là sóng điện từ, có tính chất lưỡng tính sóng hạt và có dải bước sóng ngắn (khoảng 10^{-8}text{m} đến 10^{-12}text{m})."
+  },
+  {
+    "question": "Tác dụng của tia Rơn-ghen:",
+    "answers": [
+      "Có tác dụng nhiệt mạnh, có thể dùng để sấy khô hoặc sưởi ấm.",
+      "Có khả năng đâm xuyên rất mạnh, tần số càng lớn thì khả năng đâm xuyên càng lớn.",
+      "Có khả năng đâm xuyên rất mạnh, bước sóng càng lớn thì khả năng đâm xuyên càng lớn.",
+      "Dễ dàng đi qua được lớp chì dày vài cm"
+    ],
+    "correct": 1,
+    "explanation": "Năng lượng E=hf. Tần số f càng lớn (bước sóng lambda càng nhỏ) thì năng lượng và khả năng đâm xuyên của tia X càng lớn."
+  },
+  {
+    "question": "Điều nào sau đây là sai khi so sánh tia X và tia tử ngoại?",
+    "answers": [
+      "Cùng bản chất là sóng điện từ.",
+      "Đều có tác dụng lên kính ảnh.",
+      "Tia X có bước sóng dài hơn so với tia tử ngoại.",
+      "Có khả năng gây phát quang một số chất."
+    ],
+    "correct": 2,
+    "explanation": "Bước sóng tia X (ngắn hơn, năng lượng cao hơn) so với tia tử ngoại."
+  },
+  {
+    "question": "Điều nào sau đây là sai khi so sánh tia hồng ngoại và tia tử ngoại",
+    "answers": [
+      "Cùng bản chất là sóng điện từ",
+      "Tia hồng ngoại và tia tử ngoại đều tác dụng lên kính ảnh",
+      "Tia hồng ngoại và tia tử ngoại đều không nhìn thấy được bằng mắt thường",
+      "Tia hồng ngoại có bước sóng nhỏ hơn tia tử ngoại"
+    ],
+    "correct": 3,
+    "explanation": "Tia hồng ngoại có bước sóng **lớn hơn** tia tử ngoại (Hồng ngoại > Khả kiến > Tử ngoại)."
+  },
+  {
+    "question": "Chọn câu sai khi nói về tia X",
+    "answers": [
+      "Tia X có năng lượng lớn vì có bước sóng lớn",
+      "Tia X được khám phá bởi nhà bác học Rơn-ghen",
+      "Tia X không bị lệch trong điện trường cũng như trong từ trường",
+      "Tia X là sóng điện từ"
+    ],
+    "correct": 0,
+    "explanation": "Năng lượng E tỉ lệ nghịch với bước sóng lambda. Bước sóng lambda càng lớn thì năng lượng E càng **nhỏ**."
+  },
+  {
+    "question": "Đặc tính nào sau đây không phải là của tia Rơn-ghen?",
+    "answers": [
+      "Có khả năng làm ion hóa chất khí rất mạnh.",
+      "Do các vật bị nung nóng ở nhiệt độ cao phát ra",
+      "Có tác dụng hủy duyệt tế bào.",
+      "Có khả năng đâm xuyên mạnh."
+    ],
+    "correct": 1,
+    "explanation": "Tia X được tạo ra do sự hãm của electron tốc độ cao, không phải do vật bị nung nóng."
+  },
+  {
+    "question": "Trong chụp X quang : Trên phim chụp X quang, những hình ảnh vùng cơ thể hấp thụ nhiều tia X sẽ:",
+    "answers": [
+      "Tối hơn vùng khác",
+      "Giống vùng khác",
+      "Sáng hơn vùng khác",
+      "Phát quang"
+    ],
+    "correct": 2,
+    "explanation": "Vùng hấp thụ nhiều tia X (ví dụ: xương) sẽ làm ít tia X đến được phim hơn, khiến phim **ít bị đen** (tức là **sáng** hơn) khi tráng."
+  },
+  {
+    "question": "Trong chụp X quang : Trên màn quang, những hình ảnh vùng cơ thể hấp thụ nhiều tia X sẽ:",
+    "answers": [
+      "Sáng hơn vùng khác",
+      "Giống vùng khác",
+      "Phát quang",
+      "Tối hơn vùng khác"
+    ],
+    "correct": 3,
+    "explanation": "Màn quang phát sáng khi có tia X. Vùng hấp thụ nhiều tia X sẽ có **ít** tia X đến màn hơn, khiến màn tại đó **tối hơn**."
+  },
+  {
+    "question": "Điều trị bằng cách chiếu tia X (tạo ra từ máy gia tốc) vào tổ chức bị ung thư với liều lượng, trường chiếu và thời gian thích hợp, gọi là:",
+    "answers": [
+      "Xạ trị",
+      "Hóa trị",
+      "Chiếu trị",
+      "Vật lý trị liệu"
+    ],
+    "correct": 0,
+    "explanation": "Sử dụng bức xạ ion hóa để tiêu diệt tế bào ung thư gọi là Xạ trị."
+  },
+  {
+    "question": "Nguyên tắc cơ bản phòng chống nhiễm xạ tia X:",
+    "answers": [
+      "Phòng phải bọc lớp chắn tia X xuyên qua như chì, barit…",
+      "Hạn chế bày đặt các thiết bị, dụng cụ không cần thiết trong buồng máy.",
+      "Xây dựng xa khoa sản, khoa nhi.",
+      "Tất cả các ý đúng"
+    ],
+    "correct": 3,
+    "explanation": "Tất cả các biện pháp đều nhằm giảm liều chiếu xạ cho nhân viên và công chúng."
+  },
+  {
+    "question": "Chỉ ra ý sai: Đối với người vận hành máy chụp tia X:",
+    "answers": [
+      "Phải đứng cách máy từ 3-5m",
+      "Phải am hiểu về an toàn phóng xạ",
+      "Phải được trang bị các phương tiện bảo hộ",
+      "Phải bút đo nhiễm tia để theo dõi độ nhiễm xạ"
+    ],
+    "correct": 0,
+    "explanation": "Nhân viên vận hành phải đứng sau tấm chắn chì hoặc ở phòng điều khiển tách biệt, khoảng cách 3-5text{m} là không đủ an toàn nếu không có che chắn."
+  },
+  {
+    "question": "Kính hiển vi quang học là một loại kính hiển vi sử dụng ánh sáng khả kiến để quan sát hình ảnh các vật thể nhỏ được phóng đại nhờ một hệ thống các thấu kính thủy tinh.",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 0,
+    "explanation": "Đây là định nghĩa chính xác về kính hiển vi quang học."
+  },
+  {
+    "question": "Kính hiển vi sử dụng chùm electron để quan sát ảnh của đối tượng:",
+    "answers": [
+      "Kính hiển vi điện tử",
+      "Kính hiển vi quang học trường sáng",
+      "Kính hiển vi tử ngoại",
+      "Kính hiển hiển vi huỳnh quang"
+    ],
+    "correct": 0,
+    "explanation": "Kính hiển vi điện tử sử dụng chùm electron thay cho ánh sáng để tăng độ phân giải."
+  },
+  {
+    "question": "Kính hiển vi có thể quan sát hình ảnh trực tiếp bằng mắt thường:",
+    "answers": [
+      "Kính hiển vi điện tử, Kính hiển vi quang học trường sáng",
+      "Kính hiển vi quang học trường sáng, Kính hiển hiển vi huỳnh quang",
+      "Kính hiển vi tử ngoại Kính hiển hiển vi huỳnh quang",
+      "Kính hiển hiển vi huỳnh quang, Kính hiển vi điện tử,"
+    ],
+    "correct": 1,
+    "explanation": "Chỉ kính hiển vi quang học (trường sáng, huỳnh quang) sử dụng ánh sáng khả kiến mới cho phép quan sát trực tiếp bằng mắt thường thông qua thị kính."
+  },
+  {
+    "question": "Người ta cho chiếu vào đám hơi nguyên tử một năng lượng bức xạ đặc trưng của riêng nguyên tử đó. Sau đó đo cường độ còn lại của bức xạ đặc trưng này sau khi đã bị đám hơi nguyên tử hấp thụ, sẽ tính ra được nồng độ nguyên tố có trong mẫu đem phân tích.",
+    "answers": [
+      "Phương pháp phổ bức xạ nguyên tử.",
+      "Phương pháp hấp thụ tia X.",
+      "Phương pháp phổ hấp thu nguyên tử.",
+      "Phương pháp cộng hưởng từ."
+    ],
+    "correct": 2,
+    "explanation": "Đây là nguyên lý của **Phổ hấp thụ nguyên tử** (AAS - Atomic Absorption Spectroscopy)."
+  },
+  {
+    "question": "Phương pháp thu hình ảnh của các cơ quan trong cơ thể sống và quan sát lượng nước bên trong các cấu trúc của các cơ quan.",
+    "answers": [
+      "Phương pháp phổ hấp thu nguyên tử.",
+      "Phương pháp phổ bức xạ nguyên tử.",
+      "Phương pháp hấp thụ tia X.",
+      "Phương pháp cộng hưởng từ."
+    ],
+    "correct": 3,
+    "explanation": "Phương pháp cộng hưởng từ (MRI) sử dụng từ trường và sóng radio để tạo hình ảnh dựa trên mật độ và trạng thái năng lượng của hạt nhân (chủ yếu là proton trong nước) trong mô cơ thể."
+  }
+]

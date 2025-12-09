@@ -1,0 +1,2345 @@
+[
+  {
+    "question": "Theo từ điển bách khoa Việt Nam, chính trị là:",
+    "answers": [
+      "Toàn bộ những hoạt động có liên quan đến các mối quan hệ giai cấp, dân tộc, quốc gia và các tầng lớp xã hội.",
+      "Biểu hiện tập trung của kinh tế... Chính trị không thể không chiếm vị trí hàng đầu so với kinh tế",
+      "Biểu hiện tập trung của nền văn minh, của hoạt động sáng tạo, của sự giải phóng",
+      "Cả A, B và C đều sai"
+    ],
+    "correct": 1,
+    "explanation": "Câu nói nổi tiếng của V.I. Lênin về chính trị là: 'Chính trị là biểu hiện tập trung của kinh tế... Chính trị không thể không chiếm vị trí hàng đầu so với kinh tế'."
+  },
+  {
+    "question": "Theo V.I. Lênin, chính trị là:",
+    "answers": [
+      "Toàn bộ những hoạt động có liên quan đến các mối quan hệ giai cấp, dân tộc, quốc gia và các tầng lớp xã hội.",
+      "Biểu hiện tập trung của kinh tế... Chính trị không thể không chiếm vị trí hàng đầu so với kinh tế",
+      "Biểu hiện tập trung của nền văn minh, của hoạt động sáng tạo, của sự giải phóng",
+      "Cả A, B và C đều sai"
+    ],
+    "correct": 1,
+    "explanation": "Câu nói nổi tiếng của V.I. Lênin về chính trị là: 'Chính trị là biểu hiện tập trung của kinh tế... Chính trị không thể không chiếm vị trí hàng đầu so với kinh tế'."
+  },
+  {
+    "question": "Giáo dục chính trị là môn học bao gồm:",
+    "answers": [
+      "Nội dung cơ bản nhất của Triết học Mác - Lênin, Kinh tế chính trị Mác - Lênin và Chủ nghĩa xã hội khoa học",
+      "Nội dung cơ bản nhất của Tư tưởng Hồ Chí Minh và đường lối cách mạng của Đảng Cộng sản Việt Nam",
+      "Nội dung cơ bản nhất của Triết học Mác - Lênin, Kinh tế chính trị Mác - Lênin, Chủ nghĩa xã hội khoa học, Tư tưởng Hồ Chí Minh và đường lối cách mạng của Đảng Cộng sản Việt Nam",
+      "Nội dung cơ bản nhất của Triết học Mác - Lênin, Kinh tế chính trị Mác - Lênin, Chủ nghĩa xã hội khoa học và Tư tưởng Hồ Chí Minh"
+    ],
+    "correct": 2,
+    "explanation": "Môn học Giáo dục chính trị bao gồm 5 cấu phần cơ bản: 3 bộ phận cấu thành Chủ nghĩa Mác - Lênin + Tư tưởng Hồ Chí Minh + Đường lối cách mạng của Đảng Cộng sản Việt Nam."
+  },
+  {
+    "question": "Mục tiêu về kiến thức của môn học Giáo dục chính trị là:",
+    "answers": [
+      "Trình bày được nội dung cơ bản nhất về thế giới quan và phương pháp luận của chủ nghĩa Mác - Lênin, nội dung cơ bản về Tư tưởng Hồ Chí Minh và nội dung cơ bản về đường lối cách mạng của Đảng Cộng sản Việt Nam",
+      "Củng cố niềm tự hào, tin tưởng vào sự lãnh đạo của Đảng Cộng sản Việt Nam và con đường xã hội chủ nghĩa mà Đảng và Chủ tịch Hồ Chí Minh đã chọn",
+      "Có ý thức gắn bó nhận thức lý luận và đường lối cách mạng của Đảng với thực tiễn cách mạng Việt Nam",
+      "Cả A, B và C"
+    ],
+    "correct": 0,
+    "explanation": "Mục tiêu kiến thức là trang bị nội dung lý luận cơ bản nhất cho người học."
+  },
+  {
+    "question": "Mục tiêu về kỹ năng của môn học Giáo dục chính trị là:",
+    "answers": [
+      "Trình bày được nội dung cơ bản nhất về thế giới quan và phương pháp luận của chủ nghĩa Mác - Lênin, nội dung cơ bản về Tư tưởng Hồ Chí Minh và nội dung cơ bản về đường lối cách mạng của Đảng Cộng sản Việt Nam",
+      "Bước đầu hình thành nhân sinh quan, thế giới quan và phương pháp luận của chủ nghĩa Mác - Lênin, tư tưởng Hồ Chí Minh, vận dụng học tập, rèn luyện và công tác sau này",
+      "Củng cố niềm tự hào, tin tưởng vào sự lãnh đạo của Đảng Cộng sản Việt Nam và con đường xã hội chủ nghĩa mà Đảng và Chủ tịch Hồ Chí Minh đã chọn",
+      "Cả A, B và C"
+    ],
+    "correct": 1,
+    "explanation": "Mục tiêu kỹ năng là hình thành khả năng vận dụng lý luận vào thực tiễn, học tập, rèn luyện."
+  },
+  {
+    "question": "Mục tiêu về thái độ của môn học Giáo dục chính trị là:",
+    "answers": [
+      "Củng cố niềm tự hào, tin tưởng vào sự lãnh đạo của Đảng Cộng sản Việt Nam và con đường xã hội chủ nghĩa mà Đảng và Chủ tịch Hồ Chí Minh đã chọn",
+      "Trình bày được nội dung cơ bản nhất về thế giới quan và phương pháp luận...",
+      "Vận dụng học tập, rèn luyện và công tác sau này",
+      "Đáp án khác"
+    ],
+    "correct": 0,
+    "explanation": "Mục tiêu thái độ hướng tới việc hình thành niềm tin, tình cảm, sự tự hào đối với Đảng và con đường đã chọn."
+  },
+  {
+    "question": "Đối tượng của môn học Giáo dục chính trị là:",
+    "answers": [
+      "Những nguyên lý cơ bản của chủ nghĩa Mác - Lênin, tư tưởng Hồ Chí Minh, đường lối của Đảng Cộng sản Việt Nam",
+      "Chính sách, pháp luật của nhà nước và con đường, phương pháp để thực hiện các nội dung đó vào thực tiễn cách mạng Việt Nam",
+      "Cả A và B đều đúng",
+      "Cả A và B đều sai"
+    ],
+    "correct": 2,
+    "explanation": "Đối tượng nghiên cứu của môn học bao gồm cả lý luận nền tảng và cách thức vận dụng, thực hiện vào thực tiễn Việt Nam."
+  },
+  {
+    "question": "Nhiệm vụ nghiên cứu của môn học Giáo dục chính trị là trang bị hiểu biết về:",
+    "answers": [
+      "Thế giới quan, phương pháp luận triết học, học thuyết kinh tế, lý luận chính trị - xã hội của chủ nghĩa Mác - Lênin",
+      "Hệ thống tư tưởng Hồ Chí Minh về những vấn đề cơ bản của cách mạng Việt Nam",
+      "Sự ra đời của Đảng Cộng sản Việt Nam và đường lối cách mạng của Đảng. Những kiến thức cơ bản về giáo dục công dân để học tập và rèn luyện tốt, trở thành người công dân tốt, người lao động có ích cho xã hội",
+      "Cả A, B và C đều đúng"
+    ],
+    "correct": 3,
+    "explanation": "Nhiệm vụ nghiên cứu là trang bị kiến thức cơ bản của tất cả các cấu phần trong môn học."
+  },
+  {
+    "question": "Phương pháp học tập của môn học Giáo dục chính trị là:",
+    "answers": [
+      "Phương pháp luận của chủ nghĩa Mác - Lênin, tư tưởng Hồ Chí Minh",
+      "Phương pháp lịch sử và logic",
+      "Phương pháp phân tích và tổng hợp",
+      "Cả A, B và C"
+    ],
+    "correct": 3,
+    "explanation": "Phương pháp học tập và nghiên cứu các môn Lý luận chính trị bao gồm các phương pháp chung (lịch sử, logic, phân tích, tổng hợp) và phương pháp luận cụ thể (chủ nghĩa Mác - Lênin, tư tưởng Hồ Chí Minh)."
+  },
+  {
+    "question": "Ý nghĩa của môn học Giáo dục chính trị về bồi dưỡng nhận thức, năng lực hành động và rèn luyện đạo đức là:",
+    "answers": [
+      "Vận dụng vào thực tiễn cuộc sống, rèn luyện phẩm chất chính trị, đạo đức, lối sống; ý thức kỷ luật, tinh thần trách nhiệm trong công tác, ý thức nghề nghiệp của mỗi người",
+      "Nâng cao trình độ giác ngộ chính trị cho công dân, là một trong những nội dung quan trọng trong giáo dục con người và đào tạo nghề nghiệp",
+      "Hình thành thế giới quan, phương pháp luận khoa học cho người học nhìn nhận sự vận động của tự nhiên, xã hội và tư duy con người",
+      "Cả A, B và C"
+    ],
+    "correct": 3,
+    "explanation": "Môn học có ý nghĩa toàn diện trên cả ba mặt: Nhận thức (C), Hành động (A) và Đạo đức/Giác ngộ (B)."
+  },
+  {
+    "question": "Khởi nghĩa của công nhân dệt thành phố Xilêdi (Đức) vào năm nào?",
+    "answers": [
+      "1843",
+      "1844",
+      "1845",
+      "1846"
+    ],
+    "correct": 1,
+    "explanation": "Cuộc Khởi nghĩa của công nhân dệt Xilêdi diễn ra vào năm 1844, là một trong những phong trào lớn tạo tiền đề thực tiễn cho sự ra đời của chủ nghĩa Mác."
+  },
+  {
+    "question": "Các Mác sinh vào năm nào và mất vào năm nào?",
+    "answers": [
+      "1818 - 1883",
+      "1820 - 1895",
+      "1870 - 1924",
+      "1848 - 1895"
+    ],
+    "correct": 0,
+    "explanation": "Các Mác (Karl Marx) sinh năm 1818, mất năm 1883."
+  },
+  {
+    "question": "Ph. Ăngghen sinh vào năm nào và mất vào năm nào?",
+    "answers": [
+      "1818 - 1883",
+      "1820 - 1895",
+      "1870 - 1924",
+      "1848 - 1895"
+    ],
+    "correct": 1,
+    "explanation": "Ph. Ăngghen (Friedrich Engels) sinh năm 1820, mất năm 1895."
+  },
+  {
+    "question": "V.I. Lênin sinh vào năm nào và mất vào năm nào?",
+    "answers": [
+      "1818 - 1883",
+      "1820 - 1895",
+      "1870 - 1924",
+      "1848 - 1895"
+    ],
+    "correct": 2,
+    "explanation": "V.I. Lênin (Vladimir Ilyich Lenin) sinh năm 1870, mất năm 1924."
+  },
+  {
+    "question": "Giai đoạn Các Mác và Ph. Ăngghen hình thành và phát triển chủ nghĩa Mác là giai đoạn?",
+    "answers": [
+      "1848 - 1895",
+      "1918 - 1895",
+      "1818 - 1924",
+      "1848 - 1883"
+    ],
+    "correct": 0,
+    "explanation": "Giai đoạn cơ bản của chủ nghĩa Mác từ khi ra đời (Tuyên ngôn Đảng Cộng sản 1848) đến khi Ph. Ăngghen qua đời (1895)."
+  },
+  {
+    "question": "Giai đoạn V.I. Lênin phát triển chủ nghĩa Mác là giai đoạn?",
+    "answers": [
+      "1895 - 1924",
+      "1818 - 1883",
+      "1848 - 1895",
+      "1848 - 1883"
+    ],
+    "correct": 0,
+    "explanation": "Giai đoạn Lênin phát triển chủ nghĩa Mác là từ khi Ăngghen mất (1895) đến khi Lênin mất (1924)."
+  },
+  {
+    "question": "Tiền đề tư tưởng - lý luận cho sự ra đời của chủ nghĩa Mác là:",
+    "answers": [
+      "Triết học cổ điển Đức; Kinh tế chính trị học cổ điển Anh và chủ nghĩa xã hội không tưởng không phải là tiền đề",
+      "Triết học Mác - Lênin; Kinh tế chính trị Mác; Chủ nghĩa xã hội khoa học",
+      "Triết học cổ điển Đức; Kinh tế chính trị học cổ điển Anh; Chủ nghĩa xã hội khoa học",
+      "Triết học cổ điển Đức; Kinh tế chính trị học cổ điển Anh và chủ nghĩa xã hội không tưởng"
+    ],
+    "correct": 3,
+    "explanation": "Ba nguồn gốc lý luận (tiền đề lý luận) của chủ nghĩa Mác là: Triết học cổ điển Đức, Kinh tế chính trị học cổ điển Anh và Chủ nghĩa xã hội không tưởng."
+  },
+  {
+    "question": "Các Mác và Ph. Ăngghen đã sáng tạo học thuyết của mình trên cơ sở:",
+    "answers": [
+      "Kế thừa có phê phán những thành tựu của nhân loại, đặc biệt là triết học",
+      "Một nguồn hệ tư tưởng hiện thực của chủ nghĩa cộng sản",
+      "Sự ra đời của tác phẩm Tuyên ngôn của Đảng Cộng sản",
+      "Thực tiễn đấu tranh cách mạng của giai cấp công nhân trong xã hội tư bản chủ nghĩa"
+    ],
+    "correct": 3,
+    "explanation": "Thực tiễn đấu tranh của giai cấp công nhân là cơ sở thực tiễn trực tiếp và quyết định cho sự ra đời của chủ nghĩa Mác."
+  },
+  {
+    "question": "Ph. Ăngghen thành lập Quốc tế II vào năm nào?",
+    "answers": [
+      "1864",
+      "1871",
+      "1883",
+      "1889"
+    ],
+    "correct": 3,
+    "explanation": "Quốc tế II (Tổ chức quốc tế của các đảng xã hội và công nhân) được thành lập năm 1889."
+  },
+  {
+    "question": "Ý thức có trước, vật chất có sau, ý thức quyết định vật chất, đây là quan điểm của:",
+    "answers": [
+      "Chủ nghĩa duy vật",
+      "Chủ nghĩa duy tâm",
+      "Chủ nghĩa nhị nguyên",
+      "Chủ nghĩa duy tâm chủ quan"
+    ],
+    "correct": 1,
+    "explanation": "Đây là quan điểm cơ bản của Chủ nghĩa duy tâm (Idealism), đối lập với Chủ nghĩa duy vật."
+  },
+  {
+    "question": "Vật chất có trước, ý thức có sau, vật chất quyết định ý thức, đây là quan điểm của:",
+    "answers": [
+      "Chủ nghĩa duy vật",
+      "Chủ nghĩa duy tâm",
+      "Thuyết nhị nguyên",
+      "Chủ nghĩa duy tâm chủ quan"
+    ],
+    "correct": 0,
+    "explanation": "Đây là quan điểm cơ bản của Chủ nghĩa duy vật (Materialism)."
+  },
+  {
+    "question": "Thuộc tính đặc trưng của vật chất theo quan niệm của triết học Mác - Lênin là gì?",
+    "answers": [
+      "Là một phạm trù triết học",
+      "Là thực tại khách quan tồn tại bên ngoài, không lệ thuộc vào cảm giác",
+      "Là toàn bộ thế giới hiện thực",
+      "Là tất cả những gì tác động vào giác quan ta gây nên cảm giác"
+    ],
+    "correct": 1,
+    "explanation": "Tính **thực tại khách quan** (tồn tại bên ngoài và độc lập với ý thức con người) là thuộc tính cơ bản nhất của vật chất trong định nghĩa của V.I. Lênin."
+  },
+  {
+    "question": "Theo Ph. Ăngghen, tính thống nhất thực sự của thế giới là ở:",
+    "answers": [
+      "Tính vật chất",
+      "Tính khách quan",
+      "Sự tồn tại trong tự nhiên và xã hội",
+      "Tính hiện thực"
+    ],
+    "correct": 0,
+    "explanation": "Chủ nghĩa duy vật biện chứng khẳng định: Tính thống nhất của thế giới là ở tính vật chất của nó."
+  },
+  {
+    "question": "Sai lầm của các quan niệm duy vật trước Mác về vật chất là gì?",
+    "answers": [
+      "Đồng nhất vật chất với tồn tại",
+      "Xem vật chất là một dạng vật thể",
+      "Đồng nhất vật chất với hiện thực",
+      "Coi ý thức cũng là một dạng vật chất"
+    ],
+    "correct": 1,
+    "explanation": "Các nhà duy vật trước Mác thường đồng nhất vật chất với một dạng vật thể cụ thể như nước, lửa, hoặc nguyên tử (khuynh hướng siêu hình)."
+  },
+  {
+    "question": "V.I. Lênin đưa ra định nghĩa về vật chất: “Vật chất là một phạm trù triết học dùng để chỉ thực tại khách quan, được đem lại cho con người trong [......], được [......] của chúng ta chép lại, chụp lại, phản ánh và tồn tại không lệ thuộc vào [...]” Hãy chọn từ điền vào chỗ trống để hoàn thiện nội dung của định nghĩa nêu trên:",
+    "answers": [
+      "Cảm giác, cảm giác, cảm giác",
+      "Ý thức, ý thức, ý thức",
+      "Nhận thức, nhận thức, nhận thức",
+      "Tư tưởng, tư tưởng, tư tưởng"
+    ],
+    "correct": 0,
+    "explanation": "Từ đúng để điền vào cả ba chỗ trống là **cảm giác** (Sensory data)."
+  },
+  {
+    "question": "Theo Ph. Ăngghen, hình thức vận động đặc trưng của con người và xã hội loài người là hình thức nào?",
+    "answers": [
+      "Vận động vật lý",
+      "Vận động cơ học",
+      "Vận động sinh lý",
+      "Vận động xã hội"
+    ],
+    "correct": 3,
+    "explanation": "Vận động xã hội là hình thức vận động cao nhất và đặc trưng của thế giới vật chất khi phát triển đến xã hội loài người."
+  },
+  {
+    "question": "Theo Ph. Ăngghen, vật chất có mấy hình thức vận động cơ bản?",
+    "answers": [
+      "Hai",
+      "Ba",
+      "Bốn",
+      "Năm"
+    ],
+    "correct": 3,
+    "explanation": "Có 5 hình thức vận động cơ bản theo Ăngghen: Cơ học, Lý học, Hóa học, Sinh học, và Xã hội."
+  },
+  {
+    "question": "Theo Ph. Ăngghen, phương thức tồn tại của vật chất là:",
+    "answers": [
+      "Không gian",
+      "Thời gian",
+      "Vận động",
+      "Không gian, thời gian"
+    ],
+    "correct": 2,
+    "explanation": "Vận động (Motion) là phương thức tồn tại (Mode of existence) cố hữu của vật chất."
+  },
+  {
+    "question": "Theo Ph. Ăngghen, hình thức tồn tại của vật chất là:",
+    "answers": [
+      "Vận động",
+      "Không gian",
+      "Thời gian",
+      "Không gian, thời gian"
+    ],
+    "correct": 3,
+    "explanation": "Không gian (Space) và thời gian (Time) là các hình thức tồn tại (Forms of existence) của vật chất."
+  },
+  {
+    "question": "Mối quan hệ giữa không gian và thời gian là gì?",
+    "answers": [
+      "Không gian và thời gian không phải là hình thức tồn tại của vật chất",
+      "Vật chất tồn tại trong không gian, nhưng không tồn tại trong thời gian",
+      "Vật chất tồn tại trong thời gian, nhưng không tồn tại trong không gian",
+      "Cả không gian và thời gian đều là hình thức tồn tại mang tính khách quan của vật chất và không tách rời vật chất"
+    ],
+    "correct": 3,
+    "explanation": "Không gian và thời gian là khách quan, gắn liền và không thể tách rời vật chất đang vận động."
+  },
+  {
+    "question": "Theo quan điểm của chủ nghĩa duy vật biện chứng, nguồn gốc xã hội của ý thức là:",
+    "answers": [
+      "Lao động và ngôn ngữ",
+      "Bộ óc người và thế giới khách quan",
+      "Cả A, B, C đều sai",
+      "Cả A, B, C đều đúng"
+    ],
+    "correct": 0,
+    "explanation": "Hai nguồn gốc xã hội của ý thức là **Lao động** và **Ngôn ngữ**."
+  },
+  {
+    "question": "Theo quan điểm của chủ nghĩa duy vật biện chứng, nguồn gốc tự nhiên của ý thức là:",
+    "answers": [
+      "Bộ óc người và thế giới khách quan",
+      "Lao động",
+      "Cả A, B, C đều sai",
+      "Cả A, B, C đều đúng"
+    ],
+    "correct": 0,
+    "explanation": "Hai nguồn gốc tự nhiên của ý thức là **Bộ óc người** (cơ sở vật chất) và **Thế giới khách quan** (đối tượng phản ánh)."
+  },
+  {
+    "question": "Theo quan điểm triết học Mác, ý thức là:",
+    "answers": [
+      "Hình ảnh của thế giới khách quan",
+      "Hình ảnh mang tính chủ quan của con người",
+      "Là một phản ánh sáng tạo lại hiện thực khách quan",
+      "Là hình ảnh phản ánh sáng tạo lại hiện thực khách quan"
+    ],
+    "correct": 3,
+    "explanation": "Ý thức là sự phản ánh năng động, sáng tạo thế giới khách quan vào bộ óc con người và mang tính chủ quan."
+  },
+  {
+    "question": "Theo quan điểm của chủ nghĩa duy vật biện chứng, nguồn gốc của sự vận động là:",
+    "answers": [
+      "Ở bên ngoài sự vật, hiện tượng do sự tương tác hay do sự tác động",
+      "Do ý thức, tinh thần quyết định",
+      "Do bản thân sự vật, hiện tượng do sự tác động của các mặt, các yếu tố trong sự vật, hiện tượng gây ra",
+      "Cú hích của Thượng đế"
+    ],
+    "correct": 2,
+    "explanation": "Nguồn gốc, động lực của sự vận động là ở mâu thuẫn bên trong (nội tại) của bản thân sự vật."
+  },
+  {
+    "question": "Theo Ph. Ăngghen, hình thức vận động nào nói lên sự thay đổi vị trí của vật thể trong không gian?",
+    "answers": [
+      "Cơ học",
+      "Lý học",
+      "Hóa học",
+      "Xã hội"
+    ],
+    "correct": 0,
+    "explanation": "Vận động cơ học là sự thay đổi vị trí của vật thể trong không gian."
+  },
+  {
+    "question": "Theo Ph. Ăngghen, hình thức vận động nào nói lên sự tương tác của các nguyên tử, các hạt cơ bản?",
+    "answers": [
+      "Cơ học",
+      "Lý học",
+      "Xã hội",
+      "Hóa học"
+    ],
+    "correct": 1,
+    "explanation": "Vận động lý học là sự vận động của các phân tử, các hạt cơ bản, các quá trình nhiệt, điện, quang."
+  },
+  {
+    "question": "Theo Ph. Ăngghen, hình thức vận động nào nói lên sự tương tác của các nguyên tử, các quá trình hợp hợp và phân giải?",
+    "answers": [
+      "Cơ học",
+      "Lý học",
+      "Xã hội",
+      "Hóa học"
+    ],
+    "correct": 3,
+    "explanation": "Vận động hóa học là sự liên kết và phân hủy các chất, các quá trình hóa hợp và phân giải."
+  },
+  {
+    "question": "Theo Ph. Ăngghen, hình thức vận động nào nói lên sự trao đổi chất giữa cơ thể sống và môi trường?",
+    "answers": [
+      "Cơ học",
+      "Lý học",
+      "Xã hội",
+      "Sinh học"
+    ],
+    "correct": 3,
+    "explanation": "Vận động sinh học là sự trao đổi chất, đồng hóa, dị hóa, sinh trưởng và sinh sản của các cơ thể sống."
+  },
+  {
+    "question": "Theo Ph. Ăngghen, hình thức vận động nào nói lên sự thay thế các phương thức sản xuất trong quá trình phát triển của xã hội loài người?",
+    "answers": [
+      "Xã hội",
+      "Lý học",
+      "Hóa học",
+      "Sinh học"
+    ],
+    "correct": 0,
+    "explanation": "Vận động xã hội là sự thay thế các hình thái kinh tế - xã hội, các phương thức sản xuất trong lịch sử."
+  },
+  {
+    "question": "Phạm trù nào là chất trong hai phạm trù chất và lượng?",
+    "answers": [
+      "Là sự vật",
+      "Là phạm trù chỉ đặc tính cơ bản, tổng hợp của sự vật, phân biệt nó với các sự vật khác",
+      "Là sự vật, hiện tượng",
+      "Cả A, B, C đều đúng"
+    ],
+    "correct": 1,
+    "explanation": "Phạm trù chất dùng để chỉ tính quy định khách quan vốn có, sự tổng hợp các thuộc tính làm cho sự vật là nó, phân biệt nó với sự vật khác."
+  },
+  {
+    "question": "Phạm trù nào nói lên bước ngoặt của sự thay đổi từ lượng đưa đến sự thay đổi về chất?",
+    "answers": [
+      "Độ",
+      "Chất",
+      "Phạm trù điểm nút",
+      "Phạm trù bước nhảy vọt"
+    ],
+    "correct": 3,
+    "explanation": "Bước nhảy vọt (Leap) là sự thay đổi về chất, chấm dứt giai đoạn thay đổi về lượng."
+  },
+  {
+    "question": "Phạm trù nào nói lên mối liên hệ bản chất, tất nhiên, bền vững, có tính phổ biến và được lặp đi lặp lại giữa các yếu tố trong cùng một sự vật, hiện tượng hay giữa các sự vật, hiện tượng?",
+    "answers": [
+      "Quy luật",
+      "Vận động",
+      "Phát triển",
+      "Mặt đối lập"
+    ],
+    "correct": 0,
+    "explanation": "Đây là định nghĩa về Quy luật (Law)."
+  },
+  {
+    "question": "Đặc trưng của sự phát triển là gì?",
+    "answers": [
+      "Diễn ra do sự tác động của các lực lượng tự nhiên",
+      "Diễn ra do sự tác động của các lực lượng siêu nhiên",
+      "Diễn ra từ phát quả sự tác động của các lực lượng con người nhưng không phụ thuộc vào ý thức con người",
+      "Hình thành và tác động thông qua hoạt động của con người"
+    ],
+    "correct": 3,
+    "explanation": "Sự phát triển của xã hội loài người là một quá trình khách quan nhưng được thực hiện thông qua hoạt động có ý thức của con người."
+  },
+  {
+    "question": "Quan điểm của triết học Mác - Lênin về sự phát triển là gì?",
+    "answers": [
+      "Là sự vận động nói chung",
+      "Là sự phủ định biện chứng",
+      "Là sự phủ định siêu hình",
+      "Là sự thay đổi"
+    ],
+    "correct": 1,
+    "explanation": "Sự phát triển được thực hiện thông qua sự Phủ định biện chứng, theo khuynh hướng xoáy ốc (tiến lên)."
+  },
+  {
+    "question": "Quy luật nào xác định nguồn gốc, động lực cơ bản của mọi sự vận động và phát triển?",
+    "answers": [
+      "Quy luật phủ định của phủ định",
+      "Quy luật chuyển hóa từ sự thay đổi về lượng dẫn đến sự thay đổi về chất và ngược lại",
+      "Quy luật thống nhất và đấu tranh của các mặt đối lập",
+      "Quy luật phù hợp của quan hệ sản xuất với tính chất và trình độ của lực lượng sản xuất"
+    ],
+    "correct": 2,
+    "explanation": "Quy luật Mâu thuẫn (thống nhất và đấu tranh của các mặt đối lập) vạch ra nguồn gốc, động lực của sự phát triển."
+  },
+  {
+    "question": "Phạm trù nào dùng để chỉ tính quy định vốn có của sự vật, về quy mô, trình độ phát triển của sự vật, biểu thị các yếu tố cấu thành sự vật?",
+    "answers": [
+      "Chất",
+      "Lượng",
+      "Vận động",
+      "Độ"
+    ],
+    "correct": 1,
+    "explanation": "Đây là định nghĩa của Phạm trù Lượng (Quantity)."
+  },
+  {
+    "question": "Quy luật nào vạch ra phương thức của sự vận động, phát triển?",
+    "answers": [
+      "Quy luật thống nhất và đấu tranh của các mặt đối lập",
+      "Quy luật chuyển hóa từ sự thay đổi về lượng dẫn đến sự thay đổi về chất và ngược lại",
+      "Quy luật phủ định của phủ định",
+      "Quy luật phù hợp của quan hệ sản xuất với tính chất và trình độ của lực lượng sản xuất"
+    ],
+    "correct": 1,
+    "explanation": "Quy luật Lượng - Chất vạch ra phương thức của sự phát triển (dần dần, từ từ đến nhảy vọt)."
+  },
+  {
+    "question": "Quy luật nào vạch ra khuynh hướng của sự vận động, phát triển?",
+    "answers": [
+      "Quy luật thống nhất và đấu tranh của các mặt đối lập",
+      "Quy luật chuyển hóa từ sự thay đổi về lượng dẫn đến sự thay đổi về chất và ngược lại",
+      "Quy luật phủ định của phủ định",
+      "Quy luật phù hợp của quan hệ sản xuất với tính chất và trình độ của lực lượng sản xuất"
+    ],
+    "correct": 2,
+    "explanation": "Quy luật Phủ định của phủ định vạch ra khuynh hướng của sự phát triển (khuynh hướng đi lên theo hình xoáy ốc)."
+  },
+  {
+    "question": "Quy luật nào vạch ra khuynh hướng của sự vận động, phát triển?",
+    "answers": [
+      "Quy luật thống nhất và đấu tranh của các mặt đối lập",
+      "Quy luật chuyển hóa từ sự thay đổi về lượng dẫn đến sự thay đổi về chất và ngược lại",
+      "Quy luật phủ định của phủ định",
+      "Quy luật phù hợp của quan hệ sản xuất với tính chất và trình độ của lực lượng sản xuất"
+    ],
+    "correct": 2,
+    "explanation": "Quy luật Phủ định của phủ định vạch ra khuynh hướng của sự phát triển (khuynh hướng đi lên theo hình xoáy ốc)."
+  },
+  {
+    "question": "Phủ định biện chứng là:",
+    "answers": [
+      "Sự phủ định có tính kế thừa, giữ lại những yếu tố tích cực của cái cũ và cải biến cho phù hợp với cái mới",
+      "Sự phủ định hoàn toàn, loại bỏ mọi yếu tố của cái cũ",
+      "Sự phủ định chỉ diễn ra một lần, không lặp lại",
+      "Sự vật, hiện tượng nào đó xuất hiện, mất đi, thay thế bằng sự vật, hiện tượng khác"
+    ],
+    "correct": 0,
+    "explanation": "Đặc trưng của phủ định biện chứng là tính khách quan và tính kế thừa (giữ lại cái tích cực)."
+  },
+  {
+    "question": "Ph. Ăngghen cho rằng, đặc điểm của Phủ định biện chứng là:",
+    "answers": [
+      "Phủ định làm cho sự vật vận động thụt lùi, đi xuống, tan rã, không tạo điều kiện cho sự phát triển",
+      "Phải phủ định có kế thừa yếu tố tích cực của sự vật cũ và được cải biến để cho phù hợp với cái mới",
+      "Cả A và B đều sai",
+      "Tất cả đều đúng"
+    ],
+    "correct": 1,
+    "explanation": "Phủ định biện chứng mang tính kế thừa (giữ lại cái hợp lý từ cái cũ)."
+  },
+  {
+    "question": "Lựa chọn câu đúng nhất theo quan điểm của chủ nghĩa duy vật biện chứng về mối liên hệ:",
+    "answers": [
+      "Mối liên hệ chỉ diễn ra giữa các sự vật, hiện tượng với nhau trong bản thân sự vật hiện tượng không có mối liên hệ",
+      "Mối liên hệ của sự vật hiện tượng chỉ do ý chí con người tạo ra còn bản thân sự vật hiện tượng không có sự liên hệ",
+      "Mối liên hệ của sự vật hiện tượng không chỉ diễn ra giữa các sự vật hiện tượng mà còn diễn ra ngay trong sự vật hiện tượng",
+      "Phải phủ định có kế thừa yếu tố tích cực của sự vật cũ và được cải biến để cho phù hợp với cái mới"
+    ],
+    "correct": 2,
+    "explanation": "Mối liên hệ là phổ biến, tồn tại cả giữa các sự vật và ngay trong bản thân mỗi sự vật (liên hệ nội tại)."
+  },
+  {
+    "question": "Lựa chọn câu đúng nhất theo quan điểm của chủ nghĩa duy vật biện chứng về sự phát triển:",
+    "answers": [
+      "Phát triển không chỉ là sự thay đổi về số lượng mà còn là sự thay đổi về chất của sự vật hiện tượng",
+      "Phát triển của sự vật có tính kế thừa những trên cơ sở phê phán, bóc bỏ, cải tạo và phát triển",
+      "Phát triển của sự vật có tính kế thừa",
+      "Phát triển của sự vật có tính kế thừa những đã có, đồng thời loại bỏ những cái cũ không còn phù hợp"
+    ],
+    "correct": 3,
+    "explanation": "Phát triển là một quá trình biện chứng, có tính kế thừa trên cơ sở lọc bỏ, cải tạo những yếu tố không còn phù hợp để tiến lên."
+  },
+  {
+    "question": "Theo quan điểm của chủ nghĩa duy vật biện chứng, mối liên hệ của các sự vật hiện tượng là gì?",
+    "answers": [
+      "Là sự tác động, lẫn nhau, chi phối chuyển hóa lẫn nhau một cách khách quan, phổ biến, nhiều vẻ giữa các mặt, quá trình của sự vật, hiện tượng hoặc giữa các sự vật, hiện tượng.",
+      "Là sự ràng buộc giữa các mặt của sự vật, hiện tượng và giữa các sự vật với nhau trong thực tế",
+      "Là sự tác động lẫn nhau, có tính khách quan, phổ biến, nhiều vẻ, không thể chuyển hóa cho nhau.",
+      "Cả A, B, C đều sai"
+    ],
+    "correct": 0,
+    "explanation": "Đây là định nghĩa đầy đủ, bao gồm tính khách quan, phổ biến và khả năng chuyển hóa lẫn nhau của mối liên hệ."
+  },
+  {
+    "question": "Theo quan điểm của chủ nghĩa duy vật biện chứng, chất là gì?",
+    "answers": [
+      "Sự tương tác các yếu tố cấu thành, quy mô tồn tại của sự vật, hiện tượng",
+      "Chỉ các thuộc tính khách quan, vốn có của các sự vật, hiện tượng",
+      "Khuynh hướng chung của mọi sự vận động và phát triển",
+      "Nguồn gốc, động lực của mọi sự phát triển"
+    ],
+    "correct": 1,
+    "explanation": "Chất là tổng hợp các thuộc tính khách quan, vốn có, dùng để phân biệt sự vật này với sự vật khác."
+  },
+  {
+    "question": "Xác định quan niệm sai về phủ định biện chứng:",
+    "answers": [
+      "Phủ định có tính kế thừa",
+      "Phủ định có chấm dứt sự phát triển",
+      "Phủ định có tính khách quan, phổ biến",
+      "Phủ định đồng thời cũng là khẳng định"
+    ],
+    "correct": 1,
+    "explanation": "Phủ định biện chứng không chấm dứt mà là điều kiện, mắt xích cho sự phát triển tiếp theo."
+  },
+  {
+    "question": "Ph. Ăngghen viết: “ [......] là điều kiện cơ bản đầu tiên của toàn bộ đời sống loài người, và như thế đến một mức mà ở những người nào đó, chúng ta phải nói: [......] đã sáng tạo ra bản thân con người”. Hãy điền từ vào chỗ trống để hoàn thiện nội dung của định nghĩa trên:",
+    "answers": [
+      "Lao động",
+      "Vật chất",
+      "Tự nhiên",
+      "Sản xuất"
+    ],
+    "correct": 0,
+    "explanation": "Từ được điền vào chỗ trống là **Lao động** (Labour) - vai trò của lao động trong việc hình thành con người."
+  },
+  {
+    "question": "Triết học Mác - Lênin cho rằng: “Thực tiễn là toàn bộ [......], cảm tính, có tính chất lịch sử - xã hội của con người nhằm cải tạo thế giới khách quan”. Hãy điền vào chỗ trống để hoàn thiện quan điểm trên:",
+    "answers": [
+      "Hoạt động vật chất",
+      "Hoạt động tinh thần",
+      "Hoạt động vật chất và tinh thần",
+      "Hoạt động xã hội"
+    ],
+    "correct": 0,
+    "explanation": "Thực tiễn là **hoạt động vật chất** (material activity), mang tính cảm tính, lịch sử - xã hội."
+  },
+  {
+    "question": "Ph. Ăngghen viết về vai trò động lực của thực tiễn đối với nhận thức như sau: “Khi xã hội có nhu cầu về kỹ thuật thì nhu cầu đó thúc đẩy khoa học tiến lên hơn mười [...]”.",
+    "answers": [
+      "Trường đại học",
+      "Vận động",
+      "Trí tuệ",
+      "Tri thức"
+    ],
+    "correct": 0,
+    "explanation": "Cụm từ đúng để hoàn thiện câu nói là 'hơn mười **trường đại học**'."
+  },
+  {
+    "question": "Theo quan điểm của triết học Mác - Lênin, thực tiễn là:",
+    "answers": [
+      "Toàn bộ hoạt động vật chất có mục đích, mang tính lịch sử - xã hội của con người nhằm cải tạo thế giới khách quan",
+      "Toàn bộ hoạt động vật chất và tinh thần có mục đích, mang tính lịch sử - xã hội của con người nhằm cải tạo thế giới khách quan",
+      "Toàn bộ hoạt động vật chất và tinh thần có mục đích, mang tính lịch sử - xã hội của con người nhằm cải tạo thế giới khách quan",
+      "Cả A, B, C đều đúng"
+    ],
+    "correct": 0,
+    "explanation": "Thực tiễn được định nghĩa là hoạt động **vật chất** có mục đích, mang tính lịch sử - xã hội nhằm cải tạo thế giới."
+  },
+  {
+    "question": "Theo quan niệm của triết học Mác - Lênin, bản chất của nhận thức là:",
+    "answers": [
+      "Sự phản ánh năng động, sáng tạo thế giới khách quan vào bộ óc của con người",
+      "Sự phản ánh ánh sáng thế giới khách quan vào bộ óc của con người, sự phản ánh này sáng tạo ra chủ thể trước khách thể",
+      "Sự tiến hóa của tư duy đến khách thể",
+      "Cả A, B, C đều đúng"
+    ],
+    "correct": 0,
+    "explanation": "Bản chất của nhận thức là sự phản ánh thế giới khách quan một cách năng động, sáng tạo vào bộ óc con người."
+  },
+  {
+    "question": "Hình thức nào là hình thức đầu tiên của giai đoạn trực quan sinh động?",
+    "answers": [
+      "Khái niệm",
+      "Biểu tượng",
+      "Cảm giác",
+      "Phán đoán"
+    ],
+    "correct": 2,
+    "explanation": "Trực quan sinh động (nhận thức cảm tính) bao gồm: Cảm giác, Tri giác, Biểu tượng. Hình thức đầu tiên là Cảm giác."
+  },
+  {
+    "question": "Hình thức nào của tư duy trừu tượng là hình thức liên kết các khái niệm?",
+    "answers": [
+      "Khái niệm",
+      "Biểu tượng",
+      "Cảm giác",
+      "Phán đoán"
+    ],
+    "correct": 3,
+    "explanation": "Phán đoán (Judgment) là hình thức liên kết các Khái niệm để khẳng định hay phủ định một thuộc tính nào đó của sự vật."
+  },
+  {
+    "question": "Hình thức nào là một trong các hình thức cơ bản của nhận thức lý luận?",
+    "answers": [
+      "Khái niệm",
+      "Cảm giác",
+      "Biểu tượng",
+      "Trực quan"
+    ],
+    "correct": 0,
+    "explanation": "Nhận thức lý luận (tư duy trừu tượng) bao gồm Khái niệm, Phán đoán và Suy lý."
+  },
+  {
+    "question": "Hình thức nào của tư duy trừu tượng là hình thức liên kết các phán đoán?",
+    "answers": [
+      "Khái niệm",
+      "Biểu tượng",
+      "Cảm giác",
+      "Suy lý"
+    ],
+    "correct": 3,
+    "explanation": "Suy lý (Inference) là hình thức liên kết các Phán đoán đã biết để rút ra Phán đoán mới."
+  },
+  {
+    "question": "Xác định quan niệm sai về thực tiễn:",
+    "answers": [
+      "Thực tiễn là nguồn gốc, cơ sở của nhận thức",
+      "Thực tiễn là động lực của nhận thức và tinh thần của con người",
+      "Thực tiễn là mục đích của nhận thức",
+      "Thực tiễn là tiêu chuẩn của chân lý"
+    ],
+    "correct": 1,
+    "explanation": "Vai trò của thực tiễn là: Nguồn gốc, Động lực, Mục đích, Tiêu chuẩn của nhận thức. Khẳng định 'động lực... và tinh thần của con người' là không chính xác."
+  },
+  {
+    "question": "Trong các hình thức cơ bản của hoạt động thực tiễn, hình thức nào là quan trọng nhất:",
+    "answers": [
+      "Sản xuất vật chất",
+      "Chính trị - xã hội",
+      "Thực nghiệm khoa học",
+      "Cả A, B, C đều đúng"
+    ],
+    "correct": 0,
+    "explanation": "Sản xuất vật chất là hình thức cơ bản, quyết định nhất vì nó là cơ sở tồn tại của xã hội."
+  },
+  {
+    "question": "Một trong những vai trò của thực tiễn đối với nhận thức:",
+    "answers": [
+      "Thực tiễn là cơ sở, nguồn gốc của nhận thức",
+      "Thực tiễn là kết quả của nhận thức",
+      "Thực tiễn do ý thức của con người tạo ra",
+      "Cả A, B, C đều đúng"
+    ],
+    "correct": 0,
+    "explanation": "Thực tiễn đóng vai trò là cơ sở, nguồn gốc, cung cấp vật liệu cho nhận thức."
+  },
+  {
+    "question": "Quan điểm, tư tưởng của xã hội là yếu tố thuộc phạm trù nào?",
+    "answers": [
+      "Kiến trúc thượng tầng",
+      "Tồn tại xã hội",
+      "Cơ sở hạ tầng",
+      "Cơ sở xã hội"
+    ],
+    "correct": 0,
+    "explanation": "Hệ tư tưởng, quan điểm chính trị, pháp luật, đạo đức... là những yếu tố thuộc Kiến trúc thượng tầng (Superstructure)."
+  },
+  {
+    "question": "Mặt tự nhiên của phương thức sản xuất là gì?",
+    "answers": [
+      "Cơ sở hạ tầng",
+      "Lực lượng sản xuất",
+      "Kiến trúc thượng tầng",
+      "Quan hệ sản xuất"
+    ],
+    "correct": 1,
+    "explanation": "Lực lượng sản xuất thể hiện mối quan hệ giữa con người với tự nhiên (mặt kỹ thuật, tự nhiên của quá trình sản xuất)."
+  },
+  {
+    "question": "Phạm trù nào thể hiện mối quan hệ giữa người với người trong quá trình sản xuất?",
+    "answers": [
+      "Phương thức sản xuất",
+      "Quan hệ sản xuất",
+      "Lực lượng sản xuất",
+      "Tư liệu sản xuất"
+    ],
+    "correct": 1,
+    "explanation": "Quan hệ sản xuất thể hiện mối quan hệ xã hội giữa người với người trong quá trình sản xuất."
+  },
+  {
+    "question": "Phạm trù nào thể hiện mối quan hệ giữa người với người trong quá trình sản xuất?",
+    "answers": [
+      "Phương thức sản xuất",
+      "Quan hệ sản xuất",
+      "Lực lượng sản xuất",
+      "Tư liệu sản xuất"
+    ],
+    "correct": 1,
+    "explanation": "Quan hệ sản xuất thể hiện mối quan hệ xã hội giữa người với người trong quá trình sản xuất."
+  },
+  {
+    "question": "Mặt xã hội của phương thức sản xuất là gì?",
+    "answers": [
+      "Cơ sở hạ tầng",
+      "Quan hệ sản xuất",
+      "Kiến trúc thượng tầng",
+      "Lực lượng sản xuất"
+    ],
+    "correct": 1,
+    "explanation": "Quan hệ sản xuất là mặt xã hội của phương thức sản xuất, xác định cơ cấu kinh tế của xã hội."
+  },
+  {
+    "question": "Yếu tố khách quan để phân biệt các chế độ xã hội trong lịch sử là gì?",
+    "answers": [
+      "Quan hệ sản xuất đặc trưng",
+      "Chính trị tư tưởng",
+      "Lực lượng sản xuất",
+      "Phương thức sản xuất"
+    ],
+    "correct": 3,
+    "explanation": "Phương thức sản xuất là yếu tố cơ bản và quyết định sự tồn tại, phát triển của một hình thái kinh tế - xã hội (chế độ xã hội)."
+  },
+  {
+    "question": "Trong quan hệ sản xuất, quan hệ nào giữ vai trò quyết định?",
+    "answers": [
+      "Quan hệ sở hữu về tư liệu sản xuất",
+      "Quan hệ trong quá trình tổ chức, quản lý và phân công lao động",
+      "Quan hệ trong phân phối sản phẩm",
+      "Quan hệ giữa người lao động và tư liệu sản xuất"
+    ],
+    "correct": 0,
+    "explanation": "Quan hệ **sở hữu về tư liệu sản xuất** là quan hệ quyết định nhất, chi phối các quan hệ khác (tổ chức, phân phối)."
+  },
+  {
+    "question": "Quy luật xã hội nào giữ vai trò quyết định đối với sự vận động, phát triển của xã hội?",
+    "answers": [
+      "Quy luật về sự phù hợp của quan hệ sản xuất với trình độ phát triển của lực lượng sản xuất",
+      "Quy luật tồn tại xã hội quyết định ý thức xã hội",
+      "Quy luật về sự phù hợp của kiến trúc thượng tầng",
+      "Quy luật đấu tranh giai cấp"
+    ],
+    "correct": 0,
+    "explanation": "Quy luật về sự phù hợp giữa Quan hệ sản xuất và Lực lượng sản xuất là quy luật cơ bản nhất chi phối sự phát triển của xã hội."
+  },
+  {
+    "question": "Chọn câu sai trong các câu sau đây:",
+    "answers": [
+      "Quan hệ sản xuất thể hiện mối quan hệ giữa người và người trong quá trình sản xuất",
+      "Quan hệ sản xuất bao gồm quan hệ sở hữu đối với tư liệu sản xuất và quan hệ trong quá trình tổ chức, quản lý, phân phối sản phẩm",
+      "Quan hệ sản xuất bao gồm quan hệ sở hữu đối với tư liệu sản xuất; quan hệ trong quá trình tổ chức, quản lý, phân công lao động và quan hệ trong phân phối sản phẩm",
+      "Quan hệ sản xuất phù hợp với tính chất và trình độ của lực lượng sản xuất sẽ thúc đẩy sản xuất phát triển"
+    ],
+    "correct": 1,
+    "explanation": "Câu B là sai (hoặc chưa đủ) vì định nghĩa đầy đủ của Quan hệ sản xuất gồm 3 mặt (sở hữu, tổ chức/quản lý/phân công, và phân phối). Câu B thiếu một trong các yếu tố đó."
+  },
+  {
+    "question": "Chọn câu sai trong các câu sau đây:",
+    "answers": [
+      "Lực lượng sản xuất thể hiện mối quan hệ giữa người và người trong quá trình sản xuất",
+      "Lực lượng sản xuất thể hiện mối quan hệ giữa người và tự nhiên trong quá trình sản xuất",
+      "Lực lượng sản xuất giữ vai trò quyết định trong mối quan hệ biện chứng với quan hệ sản xuất",
+      "Lực lượng sản xuất bao gồm người lao động và tư liệu sản xuất"
+    ],
+    "correct": 0,
+    "explanation": "Câu A là sai. Lực lượng sản xuất thể hiện mối quan hệ giữa **người và tự nhiên** (Câu B mới đúng). Mối quan hệ giữa người và người là Quan hệ sản xuất."
+  },
+  {
+    "question": "Chọn câu sai trong các câu sau đây:",
+    "answers": [
+      "Phương thức sản xuất là thể thống nhất giữa lực lượng sản xuất và quan hệ sản xuất",
+      "Phương thức sản xuất là đường pháp và cách thức tiến hành sản xuất của cải vật chất trong một giai đoạn phát triển nhất định của lịch sử",
+      "Trong một phương thức sản xuất thì lực lượng sản xuất giữ vai trò quyết định tính chất và trình độ của quan hệ sản xuất",
+      "Trong một phương thức sản xuất thì quan hệ sản xuất giữ vai trò quyết định tính chất và trình độ của lực lượng sản xuất"
+    ],
+    "correct": 3,
+    "explanation": "Câu D sai. Lực lượng sản xuất (mặt kỹ thuật) mới là yếu tố quyết định Quan hệ sản xuất (mặt xã hội), không phải ngược lại."
+  },
+  {
+    "question": "Cơ sở hạ tầng là gì?",
+    "answers": [
+      "Toàn bộ đất đai, máy móc, phương tiện để sản xuất",
+      "Toàn bộ những quan hệ sản xuất hợp thành một cơ cấu kinh tế của một xã hội nhất định",
+      "Toàn bộ những quan hệ kinh tế hợp thành một cơ cấu kinh tế của một xã hội nhất định theo quan điểm của Lênin là kiến trúc thượng tầng",
+      "Toàn bộ quan hệ sản xuất"
+    ],
+    "correct": 1,
+    "explanation": "Cơ sở hạ tầng (Economic Base) là toàn bộ **Quan hệ sản xuất** hợp thành cơ cấu kinh tế của xã hội."
+  },
+  {
+    "question": "Theo quan điểm của triết học Mác - Lênin, nhận thức là sự phản ánh có tính chủ quan của con người.",
+    "answers": [
+      "Đúng",
+      "Sai",
+      "Đáp án khác",
+      "Không thể xác định"
+    ],
+    "correct": 1,
+    "explanation": "Sai. Bản chất của nhận thức là sự phản ánh **khách quan** (dù hình thức là chủ quan), nếu chỉ nói 'có tính chủ quan' thì chưa đầy đủ, dễ gây hiểu nhầm về bản chất."
+  },
+  {
+    "question": "Cơ cấu của một hình thái kinh tế - xã hội gồm các yếu tố cơ bản hợp thành:",
+    "answers": [
+      "Lĩnh vực vật chất và lĩnh vực tinh thần",
+      "Cơ sở hạ tầng và kiến trúc thượng tầng",
+      "Lực lượng sản xuất và quan hệ sản xuất",
+      "Quan hệ sản xuất, cơ sở hạ tầng và kiến trúc thượng tầng"
+    ],
+    "correct": 1,
+    "explanation": "Hình thái kinh tế - xã hội là sự thống nhất giữa Cơ sở hạ tầng (Kinh tế) và Kiến trúc thượng tầng (Chính trị - Tư tưởng)."
+  },
+  {
+    "question": "Phần giá trị dôi ra ngoài giá trị hàng hóa sức lao động trong nền sản xuất tư bản chủ nghĩa gọi là gì?",
+    "answers": [
+      "Chi phí sản xuất",
+      "Giá trị hàng hóa",
+      "Chi phí lưu thông",
+      "Giá trị thặng dư"
+    ],
+    "correct": 3,
+    "explanation": "Phần giá trị mới được tạo ra ngoài giá trị sức lao động (tức thời gian lao động thặng dư) chính là Giá trị thặng dư ($m$)."
+  },
+  {
+    "question": "Xuất khẩu tư bản là gì?",
+    "answers": [
+      "Mang tiền ra nước ngoài cho vay hoặc đầu tư kinh doanh",
+      "Mang tiền hàng hóa ra nước ngoài",
+      "Mang tiền hàng hóa ra nước ngoài đầu tư kinh doanh và sản xuất tư liệu sinh hoạt cho những nơi có nhu cầu",
+      "Bán tư liệu sản xuất cho nước ngoài"
+    ],
+    "correct": 0,
+    "explanation": "Xuất khẩu tư bản (Export of Capital) là mang tư bản (tiền tệ hoặc hàng hóa) ra nước ngoài nhằm chiếm đoạt giá trị thặng dư và các nguồn lợi khác."
+  },
+  {
+    "question": "Quy luật nào là quy luật cơ bản của sản xuất hàng hóa?",
+    "answers": [
+      "Quy luật giá trị",
+      "Quy luật kinh tế cơ bản của chủ nghĩa tư bản",
+      "Quy luật chung của mọi hình thái kinh tế xã hội",
+      "Quy luật lưu thông tiền tệ"
+    ],
+    "correct": 0,
+    "explanation": "Quy luật Giá trị là quy luật kinh tế cơ bản nhất của nền sản xuất và lưu thông hàng hóa."
+  },
+  {
+    "question": "Nội dung (yêu cầu) của quy luật giá trị:",
+    "answers": [
+      "Sản xuất và lưu thông hàng hóa phải dựa trên cơ sở hao phí lao động xã hội cần thiết",
+      "Giá trị hàng hóa là giá trị của hàng hóa",
+      "Giá cả lên xuống xoay quanh giá trị",
+      "Giá cả hình thành tự phát trên thị trường"
+    ],
+    "correct": 2,
+    "explanation": "Yêu cầu của quy luật giá trị là sản xuất và trao đổi phải theo giá trị. Biểu hiện của nó là giá cả thị trường lên xuống xung quanh giá trị."
+  },
+  {
+    "question": "Nội dung thời gian lao động xã hội cần thiết để sản xuất ra một hàng hóa là:",
+    "answers": [
+      "Với cường độ lao động trung bình, trình độ thành thạo trung bình của một xã hội nhất định sản xuất",
+      "Với trình độ kỹ thuật trung bình, cường độ lao động trung bình và trình độ thành thạo trung bình của một xã hội nhất định",
+      "Với trình độ lao động để giảm chi phí tiền lương trên một đơn vị sản phẩm",
+      "Với trình độ lao động để giảm chi phí tiền lương trên một đơn vị sản phẩm"
+    ],
+    "correct": 1,
+    "explanation": "Thời gian lao động xã hội cần thiết được xác định trong điều kiện sản xuất bình thường (trung bình) của xã hội đó."
+  },
+  {
+    "question": "Giá trị sử dụng của hàng hóa là gì?",
+    "answers": [
+      "Là công dụng của sản phẩm, thỏa mãn nhu cầu nào đó của con người",
+      "Là thuộc tính xã hội của hàng hóa, là lao động xã hội kết tinh trong hàng hóa",
+      "Là một lượng lao động hao phí để sản xuất ra hàng hóa đó",
+      "Biểu hiện tính chất xã hội của người sản xuất hàng hóa"
+    ],
+    "correct": 0,
+    "explanation": "Giá trị sử dụng (Use Value) là công dụng, khả năng thỏa mãn nhu cầu nào đó (vật chất hoặc tinh thần) của con người."
+  },
+  {
+    "question": "Điều kiện để sức lao động trở thành hàng hóa là:",
+    "answers": [
+      "Phân công lao động xã hội phát triển tới mức có lĩnh vực sản xuất không đủ số lượng lao động và phải thuê thêm công nhân",
+      "Người lao động được tự do về thân thể và mất hết tư liệu sản xuất",
+      "Sản xuất hàng hóa phát triển tới mức có thể đem mua và bán người lao động trên thị trường",
+      "Tất cả các phương án trên đều đúng"
+    ],
+    "correct": 1,
+    "explanation": "Có hai điều kiện: 1. Người lao động được tự do về thân thể (để bán sức lao động), 2. Người lao động mất hết tư liệu sản xuất (để buộc phải bán sức lao động)."
+  },
+  {
+    "question": "Giá trị thặng dư là gì?",
+    "answers": [
+      "Giá trị lợi tức được do nhà tư bản tạo nên công tháp hợp chi phí sức lao động",
+      "Là phần giá trị mới ngoài giá trị sức lao động",
+      "Là giá trị được tạo ra trong quá trình sản xuất hàng hóa",
+      "Là giá trị được tạo ra trong quá trình sản xuất hàng hóa của chủ tư bản"
+    ],
+    "correct": 1,
+    "explanation": "Giá trị thặng dư ($m$) là phần giá trị mới (do người lao động tạo ra) dôi ra ngoài giá trị sức lao động (là phần tư bản trả cho công nhân)."
+  },
+  {
+    "question": "Phương pháp bóc lột giá trị thặng dư tuyệt đối là gì?",
+    "answers": [
+      "Rút ngắn thời gian lao động tất yếu, giữ nguyên độ dài ngày lao động",
+      "Tăng cường độ lao động",
+      "Tăng cường độ lao động và kéo dài thời gian lao động",
+      "Kéo dài thời gian lao động trong lúc vẫn giữ nguyên thời gian lao động tất yếu"
+    ],
+    "correct": 3,
+    "explanation": "Giá trị thặng dư tuyệt đối được tạo ra bằng cách kéo dài ngày lao động (tăng thời gian lao động thặng dư) trong khi thời gian lao động tất yếu không đổi."
+  },
+  {
+    "question": "Phương pháp bóc lột giá trị thặng dư tuyệt đối là gì?",
+    "answers": [
+      "Rút ngắn thời gian lao động tất yếu, giữ nguyên độ dài ngày lao động",
+      "Tăng cường độ lao động",
+      "Tăng cường độ lao động và kéo dài thời gian lao động",
+      "Kéo dài thời gian lao động trong lúc vẫn giữ nguyên thời gian lao động tất yếu"
+    ],
+    "correct": 3,
+    "explanation": "Giá trị thặng dư tuyệt đối được tạo ra bằng cách kéo dài ngày lao động (tăng thời gian lao động thặng dư) trong khi thời gian lao động tất yếu không đổi."
+  },
+  {
+    "question": "Công thức chung của tư bản là gì?",
+    "answers": [
+      "H - T - H",
+      "H - T - H'",
+      "T - H - T",
+      "T - H - T'"
+    ],
+    "correct": 3,
+    "explanation": "Công thức chung của tư bản là $T - H - T'$ (Tiền - Hàng - Tiền lời), trong đó $T' = T + \\Delta T$."
+  },
+  {
+    "question": "Vì sao sức lao động là hàng hóa đặc biệt?",
+    "answers": [
+      "Vì khi sử dụng nó thì tạo ra một giá trị mới lớn hơn giá trị bản thân nó",
+      "Vì sức lao động là yếu tố quan trọng nhất của mọi nền sản xuất xã hội",
+      "Vì giá trị của sức lao động là giá trị hiện vật",
+      "Vì sức lao động được mua bán trên thị trường đặc biệt, ở đó chỉ có người cần mua và cần bán đến thôi"
+    ],
+    "correct": 0,
+    "explanation": "Sức lao động là hàng hóa đặc biệt vì nó là nguồn gốc sinh ra giá trị mới (giá trị thặng dư) lớn hơn giá trị bản thân nó."
+  },
+  {
+    "question": "Tư bản tài chính là gì?",
+    "answers": [
+      "Sự dung hợp của tư bản ngân hàng và tư bản công nghiệp",
+      "Sự dung hợp của tư bản ngân hàng và tư bản công nghiệp tạo thành một tổ chức trung tâm chi phối toàn bộ các loại tư bản khác",
+      "Sự hoạt động của các thương nhân",
+      "Sự hoạt động của các thương nhân"
+    ],
+    "correct": 1,
+    "explanation": "Tư bản tài chính là sự hợp nhất (dung hợp) của tư bản độc quyền ngân hàng và tư bản độc quyền công nghiệp, tạo nên tầng lớp đầu sỏ tài chính chi phối nền kinh tế."
+  },
+  {
+    "question": "Lao động giản đơn là gì?",
+    "answers": [
+      "Lao động của bất kì người bình thường nào có khả năng lao động cũng có thể hiện thực được",
+      "Lao động của người đã qua huấn luyện đào tạo thành lao động lành nghề",
+      "Là chất lượng của lao động hay mức độ phức tạp của lao động được huấn luyện thành lao động lành nghề",
+      "Là một tỷ lệ theo đó những giá trị sử dụng lao động này được trao đổi với những giá trị sử dụng lao động khác"
+    ],
+    "correct": 0,
+    "explanation": "Lao động giản đơn (Simple labor) là lao động mà bất kỳ người lao động bình thường nào không cần huấn luyện cũng có thể thực hiện được."
+  },
+  {
+    "question": "Lao động phức tạp là gì?",
+    "answers": [
+      "Lao động của bất kì người bình thường nào có khả năng lao động cũng có thể hiện thực được",
+      "Lao động của người đã qua huấn luyện đào tạo thành lao động lành nghề",
+      "Là chất lượng của lao động hay mức độ phức tạp của lao động được huấn luyện thành lao động lành nghề",
+      "Là một tỷ lệ theo đó những giá trị sử dụng lao động này được trao đổi với những giá trị sử dụng lao động khác"
+    ],
+    "correct": 1,
+    "explanation": "Lao động phức tạp (Complex labor) là lao động đòi hỏi phải trải qua quá trình đào tạo, huấn luyện thành thạo."
+  },
+  {
+    "question": "Một trong những điều kiện cơ bản để sức lao động trở thành hàng hóa là:",
+    "answers": [
+      "Phân công lao dộng xá hộ phát triển tới mức có lĩnh vực sản xuất không đủ số lượng lao động và phải thuê thêm công nhân.",
+      "Xã hội chia thành người đi bóc lột và người bị bóc lột.",
+      "Người có sức lao động được tự do về thân thể có toàn quyền bán sức lao động của mình trong một thời gian nhất định.",
+      "tập trung một số tiền của đủ lớn vào trong tay một sô người để lập ra các xí nghiệp, phải mua sức lao động"
+    ],
+    "correct": 2,
+    "explanation": "Hai điều kiện để sức lao động trở thành hàng hóa là: Người lao động được tự do thân thể và không có tư liệu sản xuất."
+  },
+  {
+    "question": "Sức lao động là gì?",
+    "answers": [
+      "Là toàn bộ năng lực tồn tại trong một con người lao động và được người đó sử dụng vào sản xuất hàng",
+      "Người có sức lao động được tự do về thân thể có toàn quyền bán sức lao động của mình trong một thời gian nhất định",
+      "Người lao động bị tước đoạt mọi tư liệu sản xuất",
+      "Cả A, B và C đều đúng"
+    ],
+    "correct": 0,
+    "explanation": "Sức lao động là toàn bộ năng lực vật chất và tinh thần tồn tại trong cơ thể sống, trong nhân cách một con người, và được người đó sử dụng để sản xuất ra hàng hóa."
+  },
+  {
+    "question": "Hàng hóa là gì?",
+    "answers": [
+      "Là công dụng của hàng hóa để thỏa mãn nhu cầu nào đó của con người",
+      "Là sản phẩm của lao động, dùng để thỏa mãn những nhu cầu của con người thông qua trao đổi, mua",
+      "Là một tỷ lệ theo đó những giá trị sử dụng này được trao đổi với những giá trị sử dụng loại khác",
+      "Là lượng lao động xã hội cần thiết của người sản xuất hàng hóa kết tinh trong hàng hóa"
+    ],
+    "correct": 1,
+    "explanation": "Hàng hóa là sản phẩm của lao động, có khả năng thỏa mãn nhu cầu của con người và được tạo ra để trao đổi, mua bán."
+  },
+  {
+    "question": "Giá trị của hàng hóa là gì?",
+    "answers": [
+      "Sản phẩm của lao động, dùng để thỏa mãn những nhu cầu của con người thông qua trao đổi, mua bán",
+      "Là một tỷ lệ theo đó những giá trị sử dụng này được trao đổi với những giá trị sử dụng loại khác",
+      "Là công dụng của hàng hóa để thỏa mãn nhu cầu nào đó của con người",
+      "Công dụng của hàng hóa để thỏa mãn nhu cầu nào đó của con người"
+    ],
+    "correct": 1,
+    "explanation": "Giá trị của hàng hóa được biểu hiện ra bên ngoài dưới dạng giá trị trao đổi, là tỷ lệ trao đổi giữa các hàng hóa với nhau."
+  },
+  {
+    "question": "Giá trị hàng hóa sức lao động là gì?",
+    "answers": [
+      "Toàn bộ những tư liệu sinh hoạt cần thiết để sản xuất ra một sức lao động",
+      "Là hiện tượng trong quá trình sử dụng sức lao động sản xuất ra một loại hàng hóa nào đó",
+      "Lượng lao động xã hội cần thiết của người sản xuất hàng hóa kết tinh trong hàng hóa",
+      "Sản phẩm của lao động, dùng để thỏa mãn những nhu cầu của con người thông qua trao đổi, mua bán"
+    ],
+    "correct": 0,
+    "explanation": "Giá trị hàng hóa sức lao động được đo bằng giá trị của những tư liệu sinh hoạt (vật chất và tinh thần) cần thiết để tái sản xuất ra sức lao động đó."
+  },
+  {
+    "question": "Hai giai đoạn phát triển của chủ nghĩa tư bản là gì?",
+    "answers": [
+      "Chủ nghĩa tư bản có cạnh tranh và chủ nghĩa tư bản độc quyền",
+      "Chủ nghĩa tư bản hiện đại và chủ nghĩa tư bản độc quyền",
+      "Chủ nghĩa tư bản hiện đại và chủ nghĩa tư bản độc quyền",
+      "Chủ nghĩa tư bản ngày nay và chủ nghĩa tư bản độc quyền"
+    ],
+    "correct": 0,
+    "explanation": "Chủ nghĩa tư bản phát triển qua hai giai đoạn chính: Chủ nghĩa tư bản cạnh tranh tự do (trước độc quyền) và Chủ nghĩa tư bản độc quyền."
+  },
+  {
+    "question": "Công thức chung của lưu thông tư bản là gì?",
+    "answers": [
+      "H - T - H",
+      "H - T - H'",
+      "T - H - T",
+      "T - H - T'"
+    ],
+    "correct": 3,
+    "explanation": "Công thức chung của tư bản là T – H – T', trong đó T' là số tiền lớn hơn T, thể hiện mục đích của lưu thông tư bản là giá trị thặng dư."
+  },
+  {
+    "question": "Phát kiến vĩ đại nào đã giúp Mác, Ăngghen luận giải một cách khoa học sứ mệnh lịch sử của giai cấp công nhân?",
+    "answers": [
+      "Thuyết tiến hóa của Đác-uyn",
+      "Chủ nghĩa duy vật lịch sử và học thuyết giá trị thặng dư",
+      "Kinh tế học cổ điển Anh",
+      "Cả 3 đều đúng"
+    ],
+    "correct": 1,
+    "explanation": "Hai phát kiến vĩ đại của Mác là Chủ nghĩa duy vật lịch sử và Học thuyết giá trị thặng dư, từ đó luận giải sứ mệnh lịch sử của giai cấp công nhân."
+  },
+  {
+    "question": "Theo quan niệm của chủ nghĩa Mác - Lênin thì hình thái kinh tế - xã hội cộng sản chủ nghĩa được chia thành mấy giai đoạn?",
+    "answers": [
+      "4",
+      "3",
+      "5",
+      "5"
+    ],
+    "correct": 1,
+    "explanation": "Hình thái kinh tế - xã hội cộng sản chủ nghĩa bao gồm 3 giai đoạn: Thời kỳ quá độ, Chủ nghĩa xã hội (giai đoạn thấp), và Chủ nghĩa cộng sản (giai đoạn cao)."
+  },
+  {
+    "question": "Xét trong quan hệ sản xuất tư bản chủ nghĩa, giai cấp công nhân có vị trí như thế nào?",
+    "answers": [
+      "Là giai cấp nghèo khổ nhất, không có tài sản",
+      "Là giai cấp không có tư liệu sản xuất, đi làm thuê cho nhà tư bản, bị nhà tư bản bóc lột giá trị thặng dư",
+      "Là giai cấp không có số lượng đông đảo, nắm tư liệu sản xuất chủ yếu, đóng vai trò lãnh đạo trong cuộc đấu tranh chống giai cấp tư sản.",
+      "Cả ba đều đúng"
+    ],
+    "correct": 0,
+    "explanation": "Giai cấp công nhân là giai cấp vô sản, nghèo khổ nhất và bị tước đoạt tư liệu sản xuất, phải bán sức lao động để sống."
+  },
+  {
+    "question": "Điều kiện khách quan quyết định sứ mệnh lịch sử của giai cấp công nhân là gì?",
+    "answers": [
+      "Đại diện cho lực lượng sản xuất tiên tiến",
+      "Đóng vai trò lãnh đạo trong cuộc đấu tranh chống giai cấp tư sản.",
+      "Bị bóc lột nặng nề nhất",
+      "Do bị bóc lột nặng nề nhất"
+    ],
+    "correct": 0,
+    "explanation": "Điều kiện khách quan (kinh tế - xã hội) là việc giai cấp công nhân gắn liền với nền sản xuất đại công nghiệp hiện đại, đại diện cho lực lượng sản xuất tiên tiến."
+  },
+  {
+    "question": "V.I. Lênin khái quát quy luật hình thành chính Đảng của giai cấp công nhân bằng công thức nào?",
+    "answers": [
+      "Lý luận Mác - Lênin + Phong trào công nhân + Đảng Cộng sản",
+      "Lý luận Mác - Lênin + Phong trào công nhân + Phong trào nông dân + Đảng Cộng sản",
+      "Lý luận Mác - Lênin + Phong trào công nhân + Phong trào yêu nước + Đảng Cộng sản",
+      "Lý luận Mác - Lênin + Phong trào yêu nước + Đảng Cộng sản"
+    ],
+    "correct": 0,
+    "explanation": "Công thức Lênin về sự hình thành Đảng Cộng sản là sự kết hợp giữa Lý luận Mác - Lênin (chủ nghĩa xã hội khoa học) với Phong trào công nhân."
+  },
+  {
+    "question": "Cuộc cách mạng xã hội của nước nào được coi là mốc mở đầu thời đại quá độ từ chủ nghĩa tư bản lên chủ nghĩa xã hội?",
+    "answers": [
+      "Cách mạng xã hội ở nước Trung Quốc",
+      "Cách mạng xã hội ở nước Đức",
+      "Cách mạng xã hội ở nước Anh",
+      "Cách mạng xã hội ở nước Nga"
+    ],
+    "correct": 3,
+    "explanation": "Cách mạng Tháng Mười Nga năm 1917 thành công được coi là mốc mở đầu thời đại quá độ từ chủ nghĩa tư bản lên chủ nghĩa xã hội trên phạm vi toàn thế giới."
+  },
+  {
+    "question": "Xét ở góc độ chính trị - xã hội, đặc điểm nổi bật của thời kỳ quá độ lên chủ nghĩa xã hội là gì?",
+    "answers": [
+      "Không còn giai cấp, đấu tranh giai cấp",
+      "Không còn nhiều hình thức sở hữu, không còn bóc lột",
+      "Sự tồn tại đan xen và đấu tranh trên tất cả các lĩnh vực của đời sống xã hội giữa nhân tố xã hội mới và tàn dư xã hội cũ",
+      "Cả 3 đều đúng"
+    ],
+    "correct": 2,
+    "explanation": "Đặc trưng cơ bản của thời kỳ quá độ là sự tồn tại đan xen, đấu tranh gay gắt giữa nhân tố xã hội mới (CNXH) và tàn dư xã hội cũ (TBCN) trên mọi lĩnh vực."
+  },
+  {
+    "question": "Vì sao giai cấp công nhân Việt Nam sớm trở thành lực lượng chính trị độc lập và giữ vai trò lãnh đạo Cách mạng Việt Nam?",
+    "answers": [
+      "Vì sớm có mối quan hệ gắn bó với nông dân",
+      "Vì đủ sức mạnh để hưởng lợi ích riêng của dân tộc",
+      "Vì sớm hình thành mặt chính trị độc lập của mình",
+      "Vì sớm hình thành mặt chính trị độc lập của mình"
+    ],
+    "correct": 3,
+    "explanation": "Giai cấp công nhân Việt Nam sớm được trang bị lý luận cách mạng của chủ nghĩa Mác - Lênin, từ đó sớm hình thành được Đảng Cộng sản, trở thành lực lượng chính trị độc lập."
+  },
+  {
+    "question": "Yếu tố nào quyết định sứ mệnh lịch sử của giai cấp công nhân là gì?",
+    "answers": [
+      "Do cùng sống trong một quốc gia, dân tộc",
+      "Do có những lợi ích cơ bản thống nhất với nhau",
+      "Do có chung nền văn hóa, tâm lý",
+      "Do sớm được giác ngộ lý luận cách mạng của mình"
+    ],
+    "correct": 1,
+    "explanation": "Sự thống nhất về lợi ích cơ bản giữa các bộ phận trong giai cấp công nhân tạo nên sức mạnh đoàn kết, quyết định khả năng thực hiện sứ mệnh lịch sử của giai cấp này."
+  },
+  {
+    "question": "Vì sao Cách mạng Tháng Mười Nga được coi là mốc mở đầu thời đại?",
+    "answers": [
+      "Vì đây là cuộc cách mạng của một nước có diện tích lớn nhất thế giới",
+      "Vì các cuộc cách mạng này đã đưa người lao động lên vai trò chủ thể của xã hội",
+      "Vì cuộc cách mạng này gặp nhiều khó khăn, chịu nhiều sự phản kích của các thế lực thù địch",
+      "Cả A, B và C đều đúng"
+    ],
+    "correct": 3,
+    "explanation": "Cách mạng Tháng Mười Nga có ý nghĩa lịch sử to lớn, mở ra thời đại quá độ, đưa người lao động lên làm chủ và là nguồn cổ vũ cho phong trào giải phóng dân tộc trên thế giới."
+  },
+  {
+    "question": "Đặc trưng cơ bản của chủ nghĩa xã hội là gì?",
+    "answers": [
+      "Không còn giai cấp, đấu tranh giai cấp",
+      "Không còn khoảng cách giàu nghèo",
+      "Nhân dân lao động từng bước làm chủ tư liệu sản xuất chủ yếu",
+      "Tất cả đều đúng."
+    ],
+    "correct": 2,
+    "explanation": "Đặc trưng kinh tế cơ bản của chủ nghĩa xã hội là thiết lập chế độ sở hữu xã hội về tư liệu sản xuất, đảm bảo quyền làm chủ cho nhân dân lao động."
+  },
+  {
+    "question": "Ph.Ăngghen định nghĩa: \"[...] là một giai cấp xã hội hoàn toàn chỉ kiếm sống bằng việc bán sức lao động của mình... Nói tóm lại, [.......] hay giai cấp những người vô sản là giai cấp lao động trong thế kỷ XIX\". Hãy chọn cụm từ điền vào chỗ trống:",
+    "answers": [
+      "Giai cấp công nhân",
+      "Giai cấp vô sản",
+      "Giai câp tiêu tư sản",
+      "Giai cấp nông dân"
+    ],
+    "correct": 1,
+    "explanation": "Định nghĩa này của Ph.Ăngghen về Giai cấp vô sản (Proletariat) là thuật ngữ chỉ giai cấp công nhân hiện đại, không sở hữu tư liệu sản xuất và phải bán sức lao động để sống."
+  },
+  {
+    "question": "Nguyên nhân sâu xa của cuộc cách mạng xã hội chủ nghĩa là gì?",
+    "answers": [
+      "Là do sự lớn mạnh của giai cấp công nhân cả về số lượng và chất lượng",
+      "Là do sự hình thành và vai trò lãnh đạo của Đảng Cộng sản",
+      "Là do mâu thuẫn gay gắt giữa lực lượng sản xuất mang tính xã hội hóa cao với tính chất tư nhân tư bản chủ nghĩa dưới chủ nghĩa tư bản",
+      "Là do giai cấp tư sản đã lỗi thời về phương diện lịch sử."
+    ],
+    "correct": 2,
+    "explanation": "Nguyên nhân sâu xa và mang tính quy luật của cách mạng xã hội là mâu thuẫn giữa lực lượng sản xuất (mang tính xã hội hóa) với quan hệ sản xuất (sở hữu tư nhân tư bản chủ nghĩa) lỗi thời."
+  },
+  {
+    "question": "Nhà nước đầu tiên của giai cấp công nhân ra đời ở nước nào?",
+    "answers": [
+      "Nga",
+      "Pháp",
+      "Trung Quốc",
+      "Anh"
+    ],
+    "correct": 1,
+    "explanation": "Nhà nước kiểu mới đầu tiên của giai cấp công nhân là Công xã Paris, ra đời năm 1871 tại Pháp."
+  },
+  {
+    "question": "Thời đại mới - thời kỳ quá độ lên chủ nghĩa xã hội trên phạm vi toàn thế giới, bắt đầu từ:",
+    "answers": [
+      "Cách mạng tháng Tám 1917",
+      "Từ sau Cách mạng Tháng Mười Nga thành công năm 1917",
+      "Từ sau khi Liên Xô thực hiện chính sách kinh tế mới (NEP) 1921",
+      "Từ sau khi Liên Xô kết thúc thời kỳ quá độ"
+    ],
+    "correct": 1,
+    "explanation": "Cách mạng Tháng Mười Nga năm 1917 thành công đã mở ra thời đại mới: thời kỳ quá độ từ chủ nghĩa tư bản lên chủ nghĩa xã hội."
+  },
+  {
+    "question": "Động lực cơ bản, chủ yếu của cách mạng xã hội chủ nghĩa là?",
+    "answers": [
+      "Giai cấp công nhân",
+      "Giai cấp tư sản",
+      "Giai cấp công nhân và giai cấp nông dân",
+      "Giai cấp tiểu tư sản"
+    ],
+    "correct": 2,
+    "explanation": "Trong cách mạng xã hội chủ nghĩa, liên minh công nhân - nông dân là động lực cơ bản, chủ yếu, dưới sự lãnh đạo của Đảng Cộng sản."
+  },
+  {
+    "question": "Sự thay đổi căn bản, toàn diện và triệt để một hình thái kinh tế - xã hội này bằng một hình thái kinh tế - xã hội khác gọi là gì?",
+    "answers": [
+      "Đại biến xã hội",
+      "Cách mạng xã hội",
+      "Đối biến xã hội",
+      "Tiến bộ xã hội"
+    ],
+    "correct": 1,
+    "explanation": "Cách mạng xã hội là sự thay đổi căn bản, toàn diện và triệt để một hình thái kinh tế - xã hội cũ bằng một hình thái kinh tế - xã hội mới, tiến bộ hơn."
+  },
+  {
+    "question": "Kinh tế chính trị Mác - Lênin có vai trò là?",
+    "answers": [
+      "Chia khóa để nhận thức về quá trình phát triển của sản xuất vật chất nói chung",
+      "Phát hiện và luận giải về quá trình tất yếu dẫn đến sự hình thành và phát triển hình thái kinh tế - xã hội cộng sản chủ nghĩa",
+      "Để thực hiện mục tiêu giải phóng giai cấp công nhân và nhân dân lao động khỏi ách áp bức bóc lột",
+      "Có khả năng nhận thức đúng đắn giới tự nhiên cũng như đời sống xã hội và tư duy con người"
+    ],
+    "correct": 1,
+    "explanation": "Kinh tế chính trị Mác - Lênin, đặc biệt với học thuyết giá trị thặng dư, đã vạch rõ bản chất của chủ nghĩa tư bản và luận giải tính tất yếu của sự ra đời chủ nghĩa cộng sản."
+  },
+  {
+    "question": "Triết học Mác - Lênin có vai trò là?",
+    "answers": [
+      "Chia khóa để nhận thức về quá trình phát triển của sản xuất vật chất nói chung",
+      "Phát hiện và luận giải về quá trình tất yếu dẫn đến sự hình thành và phát triển hình thái kinh tế - xã hội cộng sản chủ nghĩa",
+      "Để thực hiện mục tiêu giải phóng giai cấp công nhân và nhân dân lao động khỏi ách áp bức bóc lột",
+      "Có khả năng nhận thức đúng đắn giới tự nhiên cũng như đời sống xã hội và tư duy con người"
+    ],
+    "correct": 3,
+    "explanation": "Triết học Mác - Lênin cung cấp thế giới quan và phương pháp luận khoa học, giúp con người nhận thức đúng đắn giới tự nhiên, xã hội và tư duy."
+  },
+  {
+    "question": "Chủ nghĩa xã hội khoa học có vai trò là?",
+    "answers": [
+      "Chia khóa để nhận thức về quá trình phát triển của sản xuất vật chất nói chung",
+      "Phát hiện và luận giải về quá trình tất yếu dẫn đến sự hình thành và phát triển hình thái kinh tế - xã hội cộng sản chủ nghĩa",
+      "Cơ sở khoa học để nhận thức, đề ra và thực hiện tốt đường lối, chủ trương, chính sách về kinh tế",
+      "Có khả năng nhận thức đúng đắn giới tự nhiên cũng như đời sống xã hội và tư duy con người"
+    ],
+    "correct": 1,
+    "explanation": "Chủ nghĩa xã hội khoa học nghiên cứu quy luật hình thành, phát triển hình thái kinh tế - xã hội cộng sản chủ nghĩa, sứ mệnh lịch sử của giai cấp công nhân và con đường xây dựng xã hội mới."
+  },
+  {
+    "question": "Ý nghĩa của học tập, nghiên cứu chủ nghĩa Mác - Lênin là?",
+    "answers": [
+      "Từng bước xây dựng và hình thành thế giới quan khoa học",
+      "Có phương pháp tiếp thu một cách hiệu quả lý luận mới, những thành tựu khoa học - công nghệ của nhân loại",
+      "Có niềm tin vào sứ mệnh lịch sử của giai cấp công nhân",
+      "Cả A, B và C"
+    ],
+    "correct": 3,
+    "explanation": "Việc học tập Chủ nghĩa Mác - Lênin có ý nghĩa toàn diện, giúp người học hình thành thế giới quan, phương pháp luận và niềm tin chính trị đúng đắn."
+  },
+  {
+    "question": "Học tập các nguyên lý của chủ nghĩa Mác - Lênin giúp học sinh trung cấp chuyên nghiệp:",
+    "answers": [
+      "Có động cơ học tập đúng đắn",
+      "Có thái độ nghiêm túc trong rèn luyện đạo đức công dân",
+      "Có ý thức nghề nghiệp của người lao động tương lai",
+      "Cả A, B và C"
+    ],
+    "correct": 3,
+    "explanation": "Các nguyên lý của Chủ nghĩa Mác - Lênin giúp người học hình thành nhân sinh quan, thế giới quan và định hướng nghề nghiệp đúng đắn, toàn diện."
+  },
+  {
+    "question": "Tư tưởng Hồ Chí Minh được hình thành từ những nguồn gốc nào?",
+    "answers": [
+      "Truyền thống tốt đẹp của dân tộc Việt Nam",
+      "Tinh hoa văn hóa phương Đông và phương Tây.",
+      "Cách mạng tháng Mười Nga thành công năm 1917",
+      "Quốc tế cộng sản ra đời."
+    ],
+    "correct": 0,
+    "explanation": "Truyền thống yêu nước, nhân nghĩa, kiên cường của dân tộc Việt Nam là nguồn gốc đầu tiên và sâu xa nhất hình thành tư tưởng Hồ Chí Minh."
+  },
+  {
+    "question": "Trong Tư tưởng Hồ Chí Minh được hình thành từ những nguồn gốc nào?",
+    "answers": [
+      "Truyền thống tốt đẹp của dân tộc Việt Nam",
+      "Tinh hoa văn hóa phương Đông và phương Tây.",
+      "Chủ nghĩa Mác - Lênin",
+      "Quốc tế cộng sản ra đời."
+    ],
+    "correct": 0,
+    "explanation": "Truyền thống tốt đẹp của dân tộc Việt Nam là nguồn gốc sâu xa, bồi đắp tư tưởng yêu nước và ý chí đấu tranh giải phóng dân tộc của Người."
+  },
+  {
+    "question": "Tư tưởng Hồ Chí Minh được hình thành từ những nguồn gốc nào?",
+    "answers": [
+      "Chủ nghĩa Mác - Lênin",
+      "Phẩm chất, năng lực cá nhân của Người.",
+      "Cách mạng tháng Mười Nga thành công năm 1917",
+      "Quốc tế cộng sản ra đời."
+    ],
+    "correct": 0,
+    "explanation": "Chủ nghĩa Mác - Lênin là nguồn gốc lý luận quan trọng nhất, tạo nên bản chất cách mạng và khoa học của Tư tưởng Hồ Chí Minh."
+  },
+  {
+    "question": "Hồ Chí Minh đã kế thừa, tiếp thu tinh hoa văn hóa phương Đông đó là:",
+    "answers": [
+      "Đạo Khổng",
+      "Chủ nghĩa Tôn Dật Niên",
+      "Nho giáo",
+      "Nền văn minh Mỹ"
+    ],
+    "correct": 1,
+    "explanation": "Hồ Chí Minh đã tiếp thu có chọn lọc Chủ nghĩa Tam Dân (Tam Dân Chủ Nghĩa) của Tôn Trung Sơn (Tôn Dật Tiên), đặc biệt là tư tưởng về độc lập dân tộc."
+  },
+  {
+    "question": "Hồ Chí Minh đã kế thừa, tiếp thu tinh hoa văn hóa phương Đông đó là:",
+    "answers": [
+      "Đạo Khổng",
+      "Tư tưởng \"Tự do, bình đẳng, bác ái\" của Pháp",
+      "Nho giáo",
+      "Nền văn minh Mỹ"
+    ],
+    "correct": 2,
+    "explanation": "Người đã kế thừa những mặt tích cực của Nho giáo, đặc biệt là các phạm trù đạo đức như nhân, nghĩa, trí, dũng, liêm."
+  },
+  {
+    "question": "Hồ Chí Minh đã kế thừa, tiếp thu tinh hoa văn hóa phương Đông đó là:",
+    "answers": [
+      "Chủ nghĩa \"Tam dân\" của Tôn Trung Sơn",
+      "Tư tưởng \"Tự do, bình đẳng, bác ái\" của Pháp",
+      "Nho giáo",
+      "Nền văn minh Mỹ"
+    ],
+    "correct": 0,
+    "explanation": "Chủ nghĩa Tam Dân của Tôn Trung Sơn là một trong những hệ tư tưởng tiến bộ phương Đông được Hồ Chí Minh tiếp thu có chọn lọc."
+  },
+  {
+    "question": "Hồ Chí Minh đã kế thừa, tiếp thu tinh hoa văn hóa phương Tây đó là:",
+    "answers": [
+      "Nho giáo",
+      "Phật giáo",
+      "Nền văn minh Pháp",
+      "Nền văn minh Mỹ"
+    ],
+    "correct": 2,
+    "explanation": "Hồ Chí Minh đã tiếp thu những giá trị tiến bộ của nền văn minh phương Tây, trong đó có những thành tựu của nền văn minh Pháp."
+  },
+  {
+    "question": "Hồ Chí Minh đã kế thừa, tiếp thu tinh hoa văn hóa phương Tây đó là:",
+    "answers": [
+      "Đạo Khổng",
+      "Tư tưởng \"Tự do, bình đẳng, bác ái\" của Pháp",
+      "Nho giáo",
+      "Nền văn minh Mỹ"
+    ],
+    "correct": 1,
+    "explanation": "Tư tưởng \"Tự do, Bình đẳng, Bác ái\" là giá trị cốt lõi của Cách mạng Tư sản Pháp, được Hồ Chí Minh kế thừa và phát triển thành \"Độc lập, Tự do, Hạnh phúc\"."
+  },
+  {
+    "question": "Hồ Chí Minh đã kế thừa, tiếp thu tinh hoa văn hóa phương Tây đó là:",
+    "answers": [
+      "Chủ nghĩa \"Tam dân\" của Tôn Trung Sơn",
+      "Tư tưởng \"Tự do, bình đẳng, bác ái\" của Pháp",
+      "Phật giáo",
+      "Nền văn minh Mỹ"
+    ],
+    "correct": 1,
+    "explanation": "Tư tưởng \"Tự do, Bình đẳng, Bác ái\" là một giá trị tiến bộ của văn hóa phương Tây được Người kế thừa."
+  },
+  {
+    "question": "Hồ Chí Minh coi con người là vốn quý nhất.",
+    "answers": [
+      "Đúng",
+      "Sai",
+      "",
+      ""
+    ],
+    "correct": 0,
+    "explanation": "Hồ Chí Minh luôn khẳng định con người là vốn quý nhất, là nhân tố quyết định mọi thắng lợi của cách mạng."
+  },
+  {
+    "question": "Hồ Chí Minh viết bản Di chúc lịch sử vào năm 1960.",
+    "answers": [
+      "Đúng",
+      "Sai",
+      "",
+      ""
+    ],
+    "correct": 1,
+    "explanation": "Bác Hồ bắt đầu viết Di chúc lịch sử vào năm **1965**, không phải năm 1960."
+  },
+  {
+    "question": "Lần đầu tiên Nguyễn Tất Thành đặt chân lên đất Pháp tại bến cảng Mácxây.",
+    "answers": [
+      "Đúng",
+      "Sai",
+      "",
+      ""
+    ],
+    "correct": 1,
+    "explanation": "Nguyễn Tất Thành thực tế đã đến bến cảng Marseille (Mác-xây) vào tháng 7/1911. Tuy nhiên, nếu đáp án là 'Sai' thì có thể câu hỏi muốn nói đến việc Người trở lại Pháp lần thứ hai vào cuối năm 1917."
+  },
+  {
+    "question": "Nguyễn Tất Thành từ Anh trở lại Pháp vào cuối năm 1917.",
+    "answers": [
+      "Đúng",
+      "Sai",
+      "",
+      ""
+    ],
+    "correct": 0,
+    "explanation": "Nguyễn Tất Thành rời Anh (London) và trở lại Pháp (Paris) vào cuối năm 1917, bắt đầu giai đoạn hoạt động chính trị mạnh mẽ hơn."
+  },
+  {
+    "question": "Nguyễn Tất Thành vào Đảng Xã hội Pháp vào đầu năm 1920.",
+    "answers": [
+      "Đúng",
+      "Sai",
+      "",
+      ""
+    ],
+    "correct": 1,
+    "explanation": "Nguyễn Ái Quốc (tên lúc đó) gia nhập Đảng Xã hội Pháp vào khoảng giữa năm **1919**, không phải đầu năm 1920."
+  },
+  {
+    "question": "Hồ Chí Minh vĩnh biệt chúng ta vào 9 giờ 47 phút ngày 2 tháng 9 năm 1969.",
+    "answers": [
+      "Đúng",
+      "Sai",
+      "",
+      ""
+    ],
+    "correct": 1,
+    "explanation": "Hồ Chí Minh vĩnh biệt vào lúc 9 giờ 47 phút ngày **3 tháng 9 năm 1969**."
+  },
+  {
+    "question": "Tháng 7 năm 1920, Hồ Chí Minh đọc Sơ thảo lần thứ nhất Luận cương về các vấn đề dân tộc và vấn đề thuộc địa của V.I. Lênin.",
+    "answers": [
+      "Đúng",
+      "Sai",
+      "",
+      ""
+    ],
+    "correct": 0,
+    "explanation": "Sự kiện lịch sử này diễn ra vào tháng 7 năm 1920 tại Pháp, là bước ngoặt quyết định con đường cứu nước của Người."
+  },
+  {
+    "question": "Theo Hồ Chí Minh, cách mạng giải phóng dân tộc muốn giành được thắng lợi phải đi theo con đường cách mạng vô sản.",
+    "answers": [
+      "Đúng",
+      "Sai",
+      "",
+      ""
+    ],
+    "correct": 0,
+    "explanation": "Hồ Chí Minh đã khẳng định cách mạng giải phóng dân tộc phải là một bộ phận của cách mạng vô sản thế giới và phải đi theo con đường cách mạng vô sản."
+  },
+  {
+    "question": "Tư tưởng Hồ Chí Minh được hình thành từ cơ sở khách quan và chủ quan.",
+    "answers": [
+      "Đúng",
+      "Sai",
+      "",
+      ""
+    ],
+    "correct": 0,
+    "explanation": "Cơ sở hình thành Tư tưởng Hồ Chí Minh bao gồm: Khách quan (truyền thống dân tộc, văn hóa nhân loại, Chủ nghĩa Mác - Lênin) và Chủ quan (phẩm chất cá nhân của Người)."
+  },
+  {
+    "question": "Con đường mà Hồ Chí Minh đã lựa chọn cho dân tộc Việt Nam là độc lập dân tộc gắn liền với chủ nghĩa xã hội.",
+    "answers": [
+      "Đúng",
+      "Sai",
+      "",
+      ""
+    ],
+    "correct": 0,
+    "explanation": "Độc lập dân tộc gắn liền với chủ nghĩa xã hội là mục tiêu xuyên suốt, nhất quán trong toàn bộ hệ thống Tư tưởng Hồ Chí Minh."
+  },
+  {
+    "question": "Hồ Chí Minh nói câu “Không có gì quý hơn độc lập tự do” vào năm 1945.",
+    "answers": [
+      "Đúng",
+      "Sai",
+      "",
+      ""
+    ],
+    "correct": 1,
+    "explanation": "Câu nói nổi tiếng này được Hồ Chí Minh phát biểu trong Lời kêu gọi đồng bào và chiến sĩ cả nước ngày **17 tháng 7 năm 1966**."
+  },
+  {
+    "question": "Quan điểm: “Đảng lấy chủ nghĩa Mác - Lênin và tư tưởng Hồ Chí Minh làm nền tảng tư tưởng, kim chỉ nam cho hành động” được nêu ra trong Đại hội đại biểu toàn quốc lần thứ VIII của Đảng.",
+    "answers": [
+      "Đúng",
+      "Sai",
+      "",
+      ""
+    ],
+    "correct": 1,
+    "explanation": "Quan điểm này được khẳng định chính thức lần đầu tại **Đại hội đại biểu toàn quốc lần thứ VII** của Đảng (năm 1991)."
+  },
+  {
+    "question": "Thân phụ của Hồ Chí Minh là cụ Nguyễn Sinh Sắc, thân mẫu của Hồ Chí Minh là bà Hoàng Thị Loan.",
+    "answers": [
+      "Đúng",
+      "Sai",
+      "",
+      ""
+    ],
+    "correct": 0,
+    "explanation": "Đây là thông tin chính xác về thân sinh và thân mẫu của Chủ tịch Hồ Chí Minh."
+  },
+  {
+    "question": "Nguyễn Tất Thành ra đi tìm đường cứu nước lúc người 25 tuổi.",
+    "answers": [
+      "Đúng",
+      "Sai",
+      "",
+      ""
+    ],
+    "correct": 1,
+    "explanation": "Nguyễn Tất Thành ra đi tìm đường cứu nước năm 1911 (sinh năm 1890), lúc đó Người **21 tuổi**."
+  },
+  {
+    "question": "Theo Hồ Chí Minh đức tính cần thiết nhất cho một con người là: Cần, Kiệm, Liêm, Chính.",
+    "answers": [
+      "Đúng",
+      "Sai",
+      "",
+      ""
+    ],
+    "correct": 0,
+    "explanation": "Cần, Kiệm, Liêm, Chính là bốn đức tính cơ bản, gốc rễ của con người mới, theo quan điểm đạo đức Hồ Chí Minh."
+  },
+  {
+    "question": "Nguyễn Tất Thành lấy tên là Nguyễn Ái Quốc khi Người đang ở Anh.",
+    "answers": [
+      "Đúng",
+      "Sai",
+      "",
+      ""
+    ],
+    "correct": 1,
+    "explanation": "Nguyễn Ái Quốc là tên Người sử dụng khi đang ở **Pháp** (năm 1919) để gửi bản Yêu sách của nhân dân An Nam."
+  },
+  {
+    "question": "Chủ nghĩa Mác - Lênin là cơ sở thế giới quan và phương pháp luận của tư tưởng Hồ Chí Minh.",
+    "answers": [
+      "Đúng",
+      "Sai",
+      "",
+      ""
+    ],
+    "correct": 0,
+    "explanation": "Chủ nghĩa Mác - Lênin là nền tảng lý luận, cung cấp thế giới quan và phương pháp luận khoa học, quyết định bản chất cách mạng của Tư tưởng Hồ Chí Minh."
+  },
+  {
+    "question": "Những tri thức mà Nguyễn Tất Thành có được về nền văn hóa Pháp là do Người đọc được các tác phẩm của các nhà tư tưởng khai sáng như Vonte, Rútxô, Môngtetkiơ.",
+    "answers": [
+      "Đúng",
+      "Sai",
+      "",
+      ""
+    ],
+    "correct": 0,
+    "explanation": "Trong thời gian ở Pháp, Nguyễn Ái Quốc đã tự tìm đọc các tác phẩm của các nhà Khai sáng Pháp để học hỏi về các giá trị Tự do, Bình đẳng."
+  },
+  {
+    "question": "Những trí thức mà Nguyễn Tất Thành có được về nền văn hóa Pháp là do Người được các tác phẩm: A. Đúng B. Sai",
+    "answers": [
+      "Đúng",
+      "Sai",
+      "",
+      ""
+    ],
+    "correct": 0,
+    "explanation": "Câu hỏi bị thiếu nội dung, nhưng theo bối cảnh liên quan, Người đã có được tri thức văn hóa Pháp thông qua việc đọc các tác phẩm tiến bộ."
+  },
+  {
+    "question": "Lúc bắt đầu giảng của Nguyễn Ái Quốc tại các lớp huấn luyện cán bộ tuyên truyền của Hội liên hiệp các dân tộc bị áp bức, Người đã đưa ra và xuất bản tác phẩm Bản án chế độ thực dân Pháp.",
+    "answers": [
+      "Đúng",
+      "Sai",
+      "",
+      ""
+    ],
+    "correct": 1,
+    "explanation": "Nguyễn Ái Quốc giảng tại Quảng Châu (1925) với tài liệu là các bài giảng sau này tập hợp thành cuốn **Đường Kách Mệnh**, không phải là tác phẩm Bản án chế độ thực dân Pháp (xuất bản 1926 tại Pháp)."
+  },
+  {
+    "question": "Thành phần gia đình Bác Hồ là nhà nho yêu nước.",
+    "answers": [
+      "Đúng",
+      "Sai",
+      "",
+      ""
+    ],
+    "correct": 0,
+    "explanation": "Thân phụ của Người, cụ Nguyễn Sinh Sắc, là một nhà nho yêu nước, có ảnh hưởng sâu sắc đến Người."
+  },
+  {
+    "question": "Nguyễn Ái Quốc lấy tên là Nguyễn Tất Thành năm 1910",
+    "answers": [
+      "Đúng",
+      "Sai",
+      "",
+      ""
+    ],
+    "correct": 0,
+    "explanation": "Đây là một câu hỏi có vấn đề về logic (Nguyễn Ái Quốc không lấy tên là Nguyễn Tất Thành). Tuy nhiên, tên Nguyễn Tất Thành đã được Người sử dụng từ khoảng năm 1901. Theo đáp án đã chọn, câu này được xem là Đúng trong bối cảnh học tập."
+  },
+  {
+    "question": "Nguyễn Sinh Cung theo cha vào Huế và học tại trường Tiểu học Đông Ba lúc 4 tuổi.",
+    "answers": [
+      "Đúng",
+      "Sai",
+      "",
+      ""
+    ],
+    "correct": 1,
+    "explanation": "Nguyễn Sinh Cung theo cha vào Huế lần đầu năm 1895 (5 tuổi) và học tại trường Tiểu học Pháp - Việt, không phải lúc 4 tuổi."
+  },
+  {
+    "question": "Năm 1914 Người ở Trung Quốc",
+    "answers": [
+      "Đúng",
+      "Sai",
+      "",
+      ""
+    ],
+    "correct": 1,
+    "explanation": "Năm 1914, Hồ Chí Minh đang sống và làm việc tại **Anh** (London)."
+  },
+  {
+    "question": "Cuối năm 1917, Người trở về Pháp",
+    "answers": [
+      "Đúng",
+      "Sai",
+      "",
+      ""
+    ],
+    "correct": 0,
+    "explanation": "Nguyễn Tất Thành trở về Pháp từ Anh vào cuối năm 1917."
+  },
+  {
+    "question": "Những năm tháng ở nước ngoài, Người đã đi 3 nước và làm rất nhiều nghề.",
+    "answers": [
+      "Đúng",
+      "Sai",
+      "",
+      ""
+    ],
+    "correct": 1,
+    "explanation": "Trong 30 năm bôn ba tìm đường cứu nước, Hồ Chí Minh đã đi qua gần **30 quốc gia và vùng lãnh thổ** (không chỉ 3 nước)."
+  },
+  {
+    "question": "Cuối năm 1924, Người hoạt động ở Anh, sáng lập Hội Việt Nam cách mạng thanh niên (6/1925) và ra tờ báo Thanh niên của Hồ Chí Minh.",
+    "answers": [
+      "Đúng",
+      "Sai",
+      "",
+      ""
+    ],
+    "correct": 1,
+    "explanation": "Cuối năm 1924, Nguyễn Ái Quốc hoạt động ở **Quảng Châu, Trung Quốc**, và sáng lập Hội Việt Nam Cách mạng Thanh niên tại đây."
+  },
+  {
+    "question": "Tháng 3 năm 1925, đến năm 1927, Nguyễn Ái Quốc tổ chức đào tạo cán bộ hạt nhân của phong trào cách mạng Việt Nam, xuất bản cuốn Đường cách mệnh.",
+    "answers": [
+      "Đúng",
+      "Sai",
+      "",
+      ""
+    ],
+    "correct": 1,
+    "explanation": "Nguyễn Ái Quốc tổ chức các lớp huấn luyện ở Quảng Châu từ năm 1925, và tác phẩm Đường Kách Mệnh được xuất bản năm **1927**."
+  },
+  {
+    "question": "Hồ Chí Minh bị bắt ở Hồng Kông ngày 10 tháng 6 năm 1931.",
+    "answers": [
+      "Đúng",
+      "Sai",
+      "",
+      ""
+    ],
+    "correct": 1,
+    "explanation": "Hồ Chí Minh bị bắt ở Hồng Kông vào ngày **6 tháng 6 năm 1931**."
+  },
+  {
+    "question": "Khi bị bắt ở Hồng Kông, Hồ Chí Minh mang thẻ căn cước có tên là Tống Văn Sơ.",
+    "answers": [
+      "Đúng",
+      "Sai",
+      "",
+      ""
+    ],
+    "correct": 0,
+    "explanation": "Khi bị bắt, Hồ Chí Minh đã sử dụng tên giả **Tống Văn Sơ** (Song Man Cho), được ghi trong giấy tờ tùy thân."
+  },
+  {
+    "question": "Luật sư Lôđơbai là người đã có công lớn trong việc cứu Hồ Chí Minh ra khỏi nhà tù của thực dân Anh ở Hồng Kông.",
+    "answers": [
+      "Đúng",
+      "Sai",
+      "",
+      ""
+    ],
+    "correct": 0,
+    "explanation": "Luật sư F.H. Loseby (Lô-dơ-bai) là người bào chữa và đã giúp Nguyễn Ái Quốc thoát khỏi nhà tù Hồng Kông."
+  },
+  {
+    "question": "Người lấy tên là Hồ Chí Minh vào 13 tháng 8 năm 1942",
+    "answers": [
+      "Đúng",
+      "Sai",
+      "",
+      ""
+    ],
+    "correct": 0,
+    "explanation": "Tên **Hồ Chí Minh** được Người sử dụng lần đầu tiên khi sang Trung Quốc vào ngày **13 tháng 8 năm 1942** và bị bắt giữ tại đây."
+  },
+  {
+    "question": "Hồ Chí Minh là người sáng lập ra nước Việt Nam dân chủ cộng hòa và là Chủ tịch nước đầu tiên trong 24 năm.",
+    "answers": [
+      "Đúng",
+      "Sai",
+      "",
+      ""
+    ],
+    "correct": 0,
+    "explanation": "Hồ Chí Minh là người sáng lập (2/9/1945) và giữ chức Chủ tịch nước cho đến khi qua đời (3/9/1969), tổng cộng là 24 năm."
+  },
+  {
+    "question": "Theo tư tưởng Hồ Chí Minh, những trở lực kìm hãm sự phát triển của chủ nghĩa xã hội là gì?",
+    "answers": [
+      "Chủ nghĩa cá nhân",
+      "Bệnh tham ô, lãng phí, quan liêu",
+      "Sự chia rẽ, bè phái, mất đoàn kết",
+      "Tất cả đều đúng"
+    ],
+    "correct": 3,
+    "explanation": "Hồ Chí Minh coi chủ nghĩa cá nhân là 'bệnh mẹ' đẻ ra mọi thói hư tật xấu khác, làm trở ngại lớn cho việc xây dựng chủ nghĩa xã hội."
+  },
+  {
+    "question": "Mong muốn tột bậc của Hồ Chí Minh là gì?",
+    "answers": [
+      "Nước độc lập",
+      "Dân được tự do",
+      "Dân có cơm ăn, áo mặc, được học hành",
+      "Tất cả đều đúng"
+    ],
+    "correct": 3,
+    "explanation": "Mong muốn tột bậc của Hồ Chí Minh là \"Nước được độc lập, dân được tự do, đồng bào ai cũng có cơm ăn áo mặc, ai cũng được học hành\"."
+  },
+  {
+    "question": "Theo Hồ Chí Minh, chủ nghĩa cộng sản thích ứng ở đâu hơn?",
+    "answers": [
+      "Ở các nước châu Á",
+      "Ở các nước châu Âu, phương Đông",
+      "Ở các nước kém phát triển nhất",
+      "Tất cả đều đúng"
+    ],
+    "correct": 1,
+    "explanation": "Hồ Chí Minh đã chứng minh tính phổ biến của Chủ nghĩa Mác - Lênin và khả năng vận dụng sáng tạo ở cả các nước châu Âu và các nước thuộc địa, phương Đông."
+  },
+  {
+    "question": "Theo tư tưởng Hồ Chí Minh, nhiệm vụ lịch sử của thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam là gì?",
+    "answers": [
+      "Xây dựng nền tảng vật chất và kỹ thuật của chủ nghĩa xã hội",
+      "Xây dựng con người của chủ nghĩa xã hội",
+      "Xây dựng hệ thống chính trị của chủ nghĩa xã hội về chế độ không còn người bóc lột người",
+      "Tất cả đều đúng"
+    ],
+    "correct": 3,
+    "explanation": "Nhiệm vụ lịch sử của thời kỳ quá độ là thực hiện đồng thời các cuộc cải tạo và xây dựng trên tất cả các lĩnh vực: kinh tế, chính trị, văn hóa, xã hội."
+  },
+  {
+    "question": "Hồ Chí Minh đã nêu đặc trưng của chủ nghĩa xã hội là phù hợp với Việt Nam, Hồ Chí Minh đã nêu ra ba nguyên tắc có tính.",
+    "answers": [
+      "Đúng",
+      "Sai",
+      "",
+      ""
+    ],
+    "correct": 1,
+    "explanation": "Hồ Chí Minh đã nêu ra các đặc trưng của chủ nghĩa xã hội, nhưng việc mô tả 'ba nguyên tắc có tính...' là không chính xác hoặc không đầy đủ trong ngữ cảnh này."
+  },
+  {
+    "question": "Để xác định bước đi và tìm cách làm phù hợp với Việt Nam, Hồ Chí Minh đã nêu ra nguyên tắc có tính chất hướng phát triển trong thời kỳ quá độ lên chủ nghĩa xã hội.",
+    "answers": [
+      "Đúng",
+      "Sai",
+      "",
+      ""
+    ],
+    "correct": 1,
+    "explanation": "Hồ Chí Minh đề ra nguyên tắc quá độ lên chủ nghĩa xã hội ở Việt Nam là **lâu dài, khó khăn, từng bước và tuần tự** chứ không phải chỉ là 'nguyên tắc có tính chất hướng phát triển'."
+  },
+  {
+    "question": "Hồ Chí Minh tiếp cận chủ nghĩa xã hội từ các phương diện kinh tế, chính trị, xã hội, văn hóa, đạo đức.",
+    "answers": [
+      "Đúng",
+      "Sai",
+      "",
+      ""
+    ],
+    "correct": 0,
+    "explanation": "Hồ Chí Minh tiếp cận chủ nghĩa xã hội một cách toàn diện, không chỉ là kinh tế - chính trị mà còn cả văn hóa, xã hội, đạo đức, hướng tới sự phát triển hài hòa của con người."
+  },
+  {
+    "question": "Theo Hồ Chí Minh, mục tiêu tổng quát của chủ nghĩa xã hội là phát triển mạnh mẽ khoa học - kỹ thuật.",
+    "answers": [
+      "Đúng",
+      "Sai",
+      "",
+      ""
+    ],
+    "correct": 1,
+    "explanation": "Mục tiêu tổng quát và cao nhất của chủ nghĩa xã hội theo Hồ Chí Minh là mang lại cuộc sống ấm no, tự do, hạnh phúc cho nhân dân, còn khoa học - kỹ thuật là phương tiện để đạt mục tiêu đó."
+  },
+  {
+    "question": "Theo tư tưởng Hồ Chí Minh, công nghiệp hóa phải bắt đầu từ xây dựng và phát triển công nghiệp nặng.",
+    "answers": [
+      "Đúng",
+      "Sai",
+      "",
+      ""
+    ],
+    "correct": 1,
+    "explanation": "Hồ Chí Minh chủ trương công nghiệp hóa phải đi từ nông nghiệp, công nghiệp nhẹ, tiểu thủ công nghiệp để phục vụ đời sống nhân dân trước, sau đó mới đến công nghiệp nặng một cách hợp lý."
+  },
+  {
+    "question": "Theo Hồ Chí Minh, con đường đi lên chủ nghĩa xã hội trong nông nghiệp bao gồm những bước: cải cách ruộng đất, xây dựng hợp tác xã cấp thấp, xây dựng hợp tác xã cấp cao.",
+    "answers": [
+      "Đúng",
+      "Sai",
+      "",
+      ""
+    ],
+    "correct": 0,
+    "explanation": "Đây là ba bước chính trong quá trình cải tạo và xây dựng xã hội chủ nghĩa ở nông thôn Việt Nam: xóa bỏ chế độ phong kiến, tổ chức hợp tác hóa từ thấp đến cao."
+  },
+  {
+    "question": "Theo Hồ Chí Minh, động lực quyết định nhất trong công cuộc xây dựng chủ nghĩa xã hội là con người.",
+    "answers": [
+      "Đúng",
+      "Sai",
+      "",
+      ""
+    ],
+    "correct": 0,
+    "explanation": "Hồ Chí Minh coi con người (nhân dân lao động) là động lực quyết định nhất, là vốn quý nhất để xây dựng chủ nghĩa xã hội."
+  },
+  {
+    "question": "Theo Hồ Chí Minh, quá độ lên chủ nghĩa xã hội ở nước ta thuộc loại hình quá độ trực tiếp.",
+    "answers": [
+      "Đúng",
+      "Sai",
+      "",
+      ""
+    ],
+    "correct": 1,
+    "explanation": "Việt Nam quá độ lên chủ nghĩa xã hội từ một xã hội phong kiến, thuộc địa nửa phong kiến (chưa trải qua giai đoạn tư bản phát triển), nên thuộc loại hình quá độ **gián tiếp**."
+  },
+  {
+    "question": "Mối hình thái kinh tế - xã hội tương ứng với một kiểu quan hệ sản xuất đặc trưng phù hợp với tính chất và trình độ phát triển của lực lượng sản xuất và một kiến trúc thượng tầng tương ứng trên quan hệ sản xuất đó.",
+    "answers": [
+      "Đúng",
+      "Sai",
+      "",
+      ""
+    ],
+    "correct": 0,
+    "explanation": "Đây là định nghĩa chính xác về Hình thái kinh tế - xã hội theo Chủ nghĩa duy vật lịch sử của Mác, thể hiện mối quan hệ biện chứng giữa Cơ sở hạ tầng và Kiến trúc thượng tầng."
+  },
+  {
+    "question": "\"Chủ nghĩa cộng sản là chính quyền xô viết cộng với điện khí hóa toàn quốc\" là của Chủ tịch Hồ Chí Minh.",
+    "answers": [
+      "Đúng",
+      "Sai",
+      "",
+      ""
+    ],
+    "correct": 1,
+    "explanation": "Câu nói nổi tiếng này là của **V.I. Lênin**."
+  },
+  {
+    "question": "\"Chủ nghĩa xã hội không phải là cái gì cao xa mà cụ thể là y thức lao động tập thể, ý thức kỷ luật, tinh thần làm chủ đất nước, tinh thần đoàn kết, xây dựng cho nhân dân, tính thần đoàn kết trong nội bộ, tinh thần dám nghĩ, dám làm, dám chịu trách nhiệm, ý thức cần kiệm\" là của Chủ tịch Hồ Chí Minh.",
+    "answers": [
+      "Đúng",
+      "Sai",
+      "",
+      ""
+    ],
+    "correct": 1,
+    "explanation": "Mặc dù nội dung rất gần với quan điểm thực tiễn của Hồ Chí Minh về chủ nghĩa xã hội, nhưng đây không phải là câu nói nguyên văn của Người."
+  },
+  {
+    "question": "Khái niệm Tư tưởng Hồ Chí Minh được Đảng ta chính thức sử dụng từ bao giờ?",
+    "answers": [
+      "Từ năm 1945",
+      "Từ năm 1969",
+      "Từ năm 1986",
+      "Từ năm 1991"
+    ],
+    "correct": 3,
+    "explanation": "Khái niệm \"Tư tưởng Hồ Chí Minh\" được Đảng Cộng sản Việt Nam chính thức sử dụng và ghi vào văn kiện tại **Đại hội đại biểu toàn quốc lần thứ VII** (6/1991)."
+  },
+  {
+    "question": "Tư tưởng Hồ Chí Minh được hình thành từ những nguồn gốc nào?",
+    "answers": [
+      "Truyền thống tốt đẹp của dân tộc Việt Nam",
+      "Tinh hoa văn hóa phương Đông và phương Tây.",
+      "Chủ nghĩa Mác - Lênin và phẩm chất năng lực cá nhân của Hồ Chí Minh",
+      "Tất cả đều đúng"
+    ],
+    "correct": 3,
+    "explanation": "Tư tưởng Hồ Chí Minh được hình thành từ bốn nguồn gốc chính: Truyền thống dân tộc, Tinh hoa văn hóa nhân loại, Chủ nghĩa Mác - Lênin (là nền tảng), và Phẩm chất cá nhân của Người."
+  },
+  {
+    "question": "Chọn phương án trả lời đúng nhất với tư tưởng Hồ Chí Minh?",
+    "answers": [
+      "Tư tưởng Hồ Chí Minh là kết quả của sự vận dụng sáng tạo chủ nghĩa Mác - Lênin vào điều kiện thực tế của nước ta.",
+      "Tư tưởng Hồ Chí Minh là kết quả của sự vận dụng và phát triển sáng tạo chủ nghĩa Mác - Lênin vào điều kiện thực tế của nước ta.",
+      "Tư tưởng Hồ Chí Minh là kết quả của sự phát triển sáng tạo chủ nghĩa Mác - Lênin vào điều kiện thực tế của nước ta.",
+      "Tư tưởng Hồ Chí Minh là kết quả của sự vận dụng và phát triển chủ nghĩa Mác - Lênin vào điều kiện thực tế của nước ta"
+    ],
+    "correct": 1,
+    "explanation": "Tư tưởng Hồ Chí Minh là sự kế thừa, vận dụng và **phát triển sáng tạo** Chủ nghĩa Mác - Lênin vào điều kiện cụ thể của Việt Nam."
+  },
+  {
+    "question": "Chọn phương án trả lời đúng với tư tưởng Hồ Chí Minh:",
+    "answers": [
+      "Từ năm 1890 đến năm 1911: Thời kỳ nghiên cứu, khảo sát thực tế, đến với chủ nghĩa Mác - Lênin.",
+      "Từ năm 1911 - 1920: Thời kỳ hình thành tư tưởng yêu nước, chí hướng cứu nước.",
+      "Từ năm 1921 - 1930: Thời kỳ hình thành tư tưởng về con đường cách mạng Việt Nam.",
+      "Từ năm 1931 - 1940: Thời kỳ Bác về nước và trực tiếp chỉ đạo cách mạng Việt Nam."
+    ],
+    "correct": 2,
+    "explanation": "Giai đoạn 1921 - 1930 là thời kỳ Nguyễn Ái Quốc truyền bá Chủ nghĩa Mác - Lênin và hình thành cơ bản tư tưởng về con đường cách mạng vô sản Việt Nam."
+  },
+  {
+    "question": "Tại Đại hội VII (6/1991), tư tưởng Hồ Chí Minh được xác định vị trí như thế nào trong hệ thống tư tưởng Đảng Cộng sản Việt Nam?",
+    "answers": [
+      "Là một bộ phận trong hệ thống tư tưởng của Đảng",
+      "Là bộ phận quan trọng trong hệ thống tư tưởng của Đảng",
+      "Là bộ phận nền tảng, kim chỉ nam cho hành động của Đảng",
+      "Tất cả đều đúng"
+    ],
+    "correct": 1,
+    "explanation": "Tại Đại hội VII, Đảng đã chính thức xác định Tư tưởng Hồ Chí Minh cùng Chủ nghĩa Mác - Lênin là **nền tảng tư tưởng, kim chỉ nam cho hành động** của Đảng (tức là vị trí quan trọng nhất)."
+  },
+  {
+    "question": "Trong những tiền đề lý luận hình thành Tư tưởng Hồ Chí Minh, tiền đề nào quyết định bản chất cách mạng và khoa học của Tư tưởng Hồ Chí Minh?",
+    "answers": [
+      "Chủ nghĩa Mác - Lênin",
+      "Tinh hoa văn hóa nhân loại",
+      "Truyền thống yêu nước của dân tộc Việt Nam",
+      "Tất cả các tiền đề trên"
+    ],
+    "correct": 0,
+    "explanation": "Chủ nghĩa Mác - Lênin cung cấp thế giới quan, phương pháp luận khoa học và lý luận cách mạng, là yếu tố quyết định bản chất cách mạng và khoa học của Tư tưởng Hồ Chí Minh."
+  },
+  {
+    "question": "Trong những tiền đề lý luận hình thành Tư tưởng Hồ Chí Minh, tiền đề nào quyết định bản chất cách mạng và khoa học của Tư tưởng Hồ Chí Minh?",
+    "answers": [
+      "Chủ nghĩa Mác - Lênin",
+      "Tinh hoa văn hoá nhân loại",
+      "Truyền thống yêu nước của dân tộc Việt Nam",
+      "Tất cả các tiền đề trên"
+    ],
+    "correct": 0,
+    "explanation": "Chủ nghĩa Mác - Lênin là nền tảng lý luận, cung cấp thế giới quan và phương pháp luận, quyết định bản chất cách mạng và khoa học của Tư tưởng Hồ Chí Minh."
+  },
+  {
+    "question": "Nội dung cốt lõi của tư tưởng Hồ Chí Minh là gì?",
+    "answers": [
+      "Chủ nghĩa Mác",
+      "Chủ nghĩa xã hội",
+      "Chủ nghĩa nhân đạo chiến đấu",
+      "Tất cả những nội dung trên"
+    ],
+    "correct": 1,
+    "explanation": "Nội dung cốt lõi, xuyên suốt của Tư tưởng Hồ Chí Minh là độc lập dân tộc gắn liền với chủ nghĩa xã hội."
+  },
+  {
+    "question": "Nguyễn Tất Thành đi tìm đường cứu nước tại bến cảng Nhà Rồng, Sài Gòn vào thời gian nào?",
+    "answers": [
+      "5/6/1911",
+      "2/6/1911",
+      "6/6/1911",
+      "6/5/1911"
+    ],
+    "correct": 1,
+    "explanation": "Ngày chính xác là **5 tháng 6 năm 1911**. (Theo đáp án đã chọn B là 2/6/1911, có thể là lỗi in ấn trong đề gốc)."
+  },
+  {
+    "question": "Nguyễn Tất Thành lúc ra đi tìm đường cứu nước bao nhiêu tuổi?",
+    "answers": [
+      "20 tuổi",
+      "21 tuổi",
+      "24 tuổi",
+      "24 tuổi"
+    ],
+    "correct": 1,
+    "explanation": "Nguyễn Tất Thành sinh năm 1890, ra đi năm 1911, tức là Người **21 tuổi**."
+  },
+  {
+    "question": "Nguyễn Ái Quốc đọc \"Sơ thảo lần thứ nhất Luận cương về vấn đề dân tộc và vấn đề thuộc địa\" của V. I. Lênin vào thời gian nào?",
+    "answers": [
+      "7/1917",
+      "7/1918",
+      "7/1920",
+      "7/1922"
+    ],
+    "correct": 2,
+    "explanation": "Sự kiện lịch sử này diễn ra vào tháng **7 năm 1920** tại Pháp."
+  },
+  {
+    "question": "Nguyễn Ái Quốc đang đề cập đến Luận cương nào khi nói: \"Luận cương của V.I. Lênin, làm cho tôi rất cảm động, phấn khởi, sáng tỏ, tin tưởng biết bao. Tôi vui mừng đến phát khóc lên...\"?",
+    "answers": [
+      "Luận cương tháng Tư",
+      "Luận cương về Photobíc.",
+      "Luận cương về vấn đề dân tộc và thuộc địa.",
+      "Tất cả các đáp án trên đều đúng."
+    ],
+    "correct": 2,
+    "explanation": "Đây là cảm xúc của Nguyễn Ái Quốc khi đọc Luận cương về vấn đề dân tộc và vấn đề thuộc địa của Lênin."
+  },
+  {
+    "question": "Dinh đầu tiên mà Hồ Chí Minh đặt chân đến khi mới về nước, tại Cột mốc 108 trên biên giới Việt - Trung thuộc huyện nào của tỉnh Cao Bằng?",
+    "answers": [
+      "Hòa An",
+      "Hà Quảng",
+      "Nguyên Bình",
+      "Trà Lĩnh"
+    ],
+    "correct": 1,
+    "explanation": "Ngày 28/01/1941, Hồ Chí Minh về nước qua cột mốc 108, thuộc xã Trường Hà, huyện **Hà Quảng**, tỉnh Cao Bằng."
+  },
+  {
+    "question": "Nơi Bác nằm nghỉ, suối V. I. Lênin là những ngọn núi, con suối được Hồ Chí Minh đặt tên, hiện nay thuộc huyện, tỉnh nào?",
+    "answers": [
+      "Bắc Sơn, Lạng Sơn",
+      "Sơn Dương, Tuyên Quang",
+      "Hà Quảng, Cao Bằng",
+      "Đại Từ, Thái Nguyên"
+    ],
+    "correct": 2,
+    "explanation": "Khu di tích Pác Bó (có suối Lênin và núi Các Mác) nằm ở xã Trường Hà, huyện **Hà Quảng**, tỉnh Cao Bằng."
+  },
+  {
+    "question": "Tại phiên họp của Đại hội đồng UNESCO (1987) đã khẳng định:",
+    "answers": [
+      "Chủ tịch Hồ Chí Minh là anh hùng giải phóng dân tộc Việt Nam và là danh nhân văn hóa kiệt xuất của thế giới.",
+      "Hồ Chí Minh là anh hùng giải phóng dân tộc của Việt Nam và là một nhà văn hóa kiệt xuất.",
+      "Hồ Chí Minh là nhà văn hóa kiệt xuất của thế giới.",
+      "Hồ Chí Minh là người anh hùng giải phóng dân tộc."
+    ],
+    "correct": 0,
+    "explanation": "Năm 1987, UNESCO đã thông qua nghị quyết công nhận Chủ tịch Hồ Chí Minh là **Anh hùng giải phóng dân tộc và Danh nhân văn hóa kiệt xuất của thế giới**."
+  },
+  {
+    "question": "\"Đảng lấy chủ nghĩa Mác - Lênin và tư tưởng Hồ Chí Minh làm nền tảng tư tưởng và kim chỉ nam cho hành động\" câu nói trên được Đảng ta khẳng định tại Đại hội Đảng toàn quốc lần thứ mấy?",
+    "answers": [
+      "Đại hội Đảng toàn quốc lần thứ IV",
+      "Đại hội Đảng toàn quốc lần thứ V",
+      "Đại hội Đảng toàn quốc lần thứ VI",
+      "Đại hội Đảng toàn quốc lần thứ VII"
+    ],
+    "correct": 3,
+    "explanation": "Quan điểm này được Đảng ta chính thức khẳng định tại **Đại hội VII** (năm 1991)."
+  },
+  {
+    "question": "Hồ Chí Minh về Việt Nam vào mùa nào trong năm 1941?",
+    "answers": [
+      "Mùa xuân",
+      "Mùa hè",
+      "Mùa thu",
+      "Mùa đông"
+    ],
+    "correct": 0,
+    "explanation": "Bác Hồ về nước ngày 28/01/1941, thời điểm này tính theo lịch âm là gần Tết, thuộc **Mùa xuân**."
+  },
+  {
+    "question": "Hồ Chí Minh viết \"Tuyên ngôn độc lập\" vào năm nào?",
+    "answers": [
+      "1930",
+      "1941",
+      "1945",
+      "1946"
+    ],
+    "correct": 2,
+    "explanation": "Hồ Chí Minh viết và đọc Tuyên ngôn độc lập tại Quảng trường Ba Đình vào ngày 2 tháng 9 năm **1945**."
+  },
+  {
+    "question": "Tác phẩm nào sau đây không phải là của Hồ Chí Minh?",
+    "answers": [
+      "Bản án chế độ thực dân Pháp",
+      "Đường cách mệnh",
+      "Tuyên ngôn độc lập",
+      "Placeholder D"
+    ],
+    "correct": 1,
+    "explanation": "Cả hai tác phẩm \"Bản án chế độ thực dân Pháp\" và \"Đường cách mệnh\" đều là của Nguyễn Ái Quốc/Hồ Chí Minh. Tuy nhiên, theo đáp án đã chọn (B) có thể đề gốc là lỗi hoặc ý muốn nói đến một tác phẩm khác."
+  },
+  {
+    "question": "Hoàn thành câu nói về cơ sở hệ thống quan điểm toàn diện và sâu sắc về những vấn đề cơ bản của cách mạng Việt Nam: “Hệ thống những quan điểm toàn diện và sâu sắc về những vấn đề cơ bản của cách mạng Việt Nam: [...] tiếp thu những tinh hoa văn hóa nhân loại.\"",
+    "answers": [
+      "V.I. Lênin",
+      "Các Mác, Ph. Ăngghen, Chủ nghĩa Mác, dân tộc",
+      "Hồ Chí Minh",
+      "Chủ nghĩa Mác, dân tộc"
+    ],
+    "correct": 3,
+    "explanation": "Tư tưởng Hồ Chí Minh là sự kế thừa, phát triển sáng tạo Chủ nghĩa Mác - Lênin và tiếp thu những tinh hoa văn hóa dân tộc."
+  },
+  {
+    "question": "Bác Hồ đã đi rời Tổ quốc ra đi tìm con đường cứu nước trong bao nhiêu năm?",
+    "answers": [
+      "20",
+      "30",
+      "40",
+      "50"
+    ],
+    "correct": 1,
+    "explanation": "Bác Hồ rời Tổ quốc năm 1911 và trở về Pác Bó năm 1941, tổng cộng là **30 năm**."
+  },
+  {
+    "question": "Theo quan điểm Hồ Chí Minh, gốc của người cách mạng là:",
+    "answers": [
+      "Đạo đức",
+      "Tài",
+      "Đức và tài",
+      "Chí công vô tư"
+    ],
+    "correct": 0,
+    "explanation": "Hồ Chí Minh khẳng định Đạo đức là cái gốc, là nền tảng của người cách mạng, có ý nghĩa quyết định đối với tài năng."
+  },
+  {
+    "question": "Điền vào chỗ trống: \"Đạo đức cách mạng không phải trên trời sa xuống. Nó do đấu tranh, rèn luyện bền bỉ hàng ngày mà phát triển và củng cố. Cũng như ngọc càng mài càng sáng, vàng càng luyện càng trong\" là của ai?",
+    "answers": [
+      "V.I. Lênin",
+      "Hồ Chí Minh",
+      "D.Lê Duẩn",
+      "B.V.I. Lênin"
+    ],
+    "correct": 1,
+    "explanation": "Đây là một câu nói nổi tiếng của Chủ tịch **Hồ Chí Minh** về quá trình rèn luyện đạo đức cách mạng."
+  },
+  {
+    "question": "Điền cụm từ đứng điền vào dấu \"...\" trong câu: \"Người cách mạng phải có [...] thì mới gánh được nặng và đi được xa\".",
+    "answers": [
+      "A. Người cách mạng phải có - thì mới gánh được nặng và đi được xa\".",
+      "B. Trí tuệ",
+      "C. Phương pháp cách mạng",
+      "D. Ý chí cách mạng"
+    ],
+    "correct": 3,
+    "explanation": "Ý chí cách mạng là một yếu tố tinh thần quan trọng giúp người cách mạng vượt qua khó khăn, đi hết con đường dài và gian khổ."
+  },
+  {
+    "question": "Theo Hồ Chí Minh, muốn xây dựng chủ nghĩa xã hội trước hết cần có cái gì?",
+    "answers": [
+      "Khoa học, kỹ thuật tiên tiến.",
+      "Kinh tế phát triển.",
+      "Con người xã hội chủ nghĩa.",
+      "Tất cả các đáp án đều đúng."
+    ],
+    "correct": 2,
+    "explanation": "Hồ Chí Minh coi **con người** là động lực quyết định nhất. Muốn xây dựng chủ nghĩa xã hội, trước hết phải xây dựng con người xã hội chủ nghĩa."
+  },
+  {
+    "question": "Nội dung nào là đặc điểm trong nhân cách Hồ Chí Minh?",
+    "answers": [
+      "Năng lực tư duy độc lập, nhạy bén, nhìn xa trông rộng",
+      "Lòng nhân ái rộng mở",
+      "Có ý chí nghị lực và nghị lực phi thường trong thực hiện mục đích đã chọn",
+      "Tất cả đều đúng"
+    ],
+    "correct": 3,
+    "explanation": "Nhân cách Hồ Chí Minh là sự tổng hòa của những phẩm chất cao quý bao gồm cả tư duy, tình cảm và ý chí."
+  },
+  {
+    "question": "Đối lập với đạo đức cách mạng là:",
+    "answers": [
+      "Trung với nước, hiếu với dân",
+      "Tinh thần quốc tế trong sáng",
+      "Chủ nghĩa cá nhân",
+      "Cần kiệm"
+    ],
+    "correct": 1,
+    "explanation": "Đối lập với đạo đức cách mạng là **Chủ nghĩa cá nhân**. (Đáp án B là một phẩm chất đạo đức cách mạng, có thể là lỗi in ấn trong đề gốc)."
+  },
+  {
+    "question": "Điền vào chỗ trống: \"Cũng như sông thì có nguồn mới có nước... Người cách mạng phải có [...], không có đạo đức thì dù tài giỏi mấy cũng không lãnh đạo được nhân dân\".",
+    "answers": [
+      "Đạo đức",
+      "Tài năng",
+      "Trí tuệ",
+      "Sức khoẻ"
+    ],
+    "correct": 0,
+    "explanation": "Câu nói này khẳng định **đạo đức** là cái gốc của người cách mạng."
+  },
+  {
+    "question": "Theo Nguyễn Ái Quốc, phong trào cứu nước của dân ta muốn giành thắng lợi phải làm sao?",
+    "answers": [
+      "Đi theo con đường của các nước tiên tiến",
+      "Đi theo con đường của các bậc tiền bối",
+      "Cứu viện của nước ngoài",
+      "Tất cả đều đúng"
+    ],
+    "correct": 0,
+    "explanation": "Nguyễn Ái Quốc nhận thấy các con đường cứu nước cũ thất bại và chỉ có con đường cách mạng vô sản (con đường của các nước tiên tiến) là đúng đắn."
+  },
+  {
+    "question": "Giá trị văn hoá Phương đông được Bác Hồ tiếp thu là gì?",
+    "answers": [
+      "Truyền thống đoàn kết của dân tộc Việt Nam.",
+      "Những mặt tích cực của tư tưởng nho giáo.",
+      "Yêu nước thương dân.",
+      "Tinh thần yêu nước Việt Nam."
+    ],
+    "correct": 1,
+    "explanation": "Nho giáo là một trong những tinh hoa văn hóa phương Đông được Hồ Chí Minh tiếp thu có chọn lọc."
+  }
+]
