@@ -40,11 +40,14 @@
         <button class="subject-btn" onclick="selectMock('vatly')">Vật lý</button>
         <button class="subject-btn" onclick="selectMock('hoahoc')">Hoá học</button>
         <button class="subject-btn" onclick="selectMock('chinhtri')">Chính trị</button>
-        <button class="subject-btn" onclick="selectMock('sinhhoc')">Sinh học</button>
+        <button class="subject-btn" onclick="selectMerry()">Sinh học</button>
       </div>
       
     </div>
-    
+    <div>
+      <button class="tree-emoji unstyled-button" onclick="selectMerry()" >🎄
+      </button>
+    </div>
   <script>
     function goTo(url, subjectKey) {
       try { localStorage.setItem('quiz_subject', subjectKey); } catch(e) {}
@@ -52,6 +55,7 @@
     }
     function selectReview(sub) { goTo('review.html', sub); }
     function selectMock(sub)   { goTo('mock_test.html', sub); }
+    function selectMerry()  { goTo('merry_christmas.html'); }
   </script>
 </body>
 </html>
