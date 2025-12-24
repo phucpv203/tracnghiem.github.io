@@ -93,35 +93,18 @@ window.addEventListener('DOMContentLoaded', () => {
     });
     listInner.appendChild(ul);
 
-    // Auto-center the current item into the visible scroll container.
-    // Use the outer wrapper (#question-list) which has overflow-x:auto to guarantee scrolling works on both local and deployed servers.
-    const container = document.getElementById('question-list') || listInner;
+    // Auto-scroll the current item into view (centered)
     const currentLi = ul.children[current];
-    if (currentLi && container) {
-      // ensure layout measured after paint
-      requestAnimationFrame(() => {
-        try {
-          const liOffsetLeft = currentLi.offsetLeft; // relative to ul
-          const liWidth = currentLi.offsetWidth;
-          const containerWidth = container.clientWidth;
-          const desiredLeft = Math.max(0, liOffsetLeft - Math.round((containerWidth - liWidth) / 2));
-          const maxScroll = Math.max(0, container.scrollWidth - container.clientWidth);
-          const finalLeft = Math.max(0, Math.min(desiredLeft, maxScroll));
-
-          if (typeof container.scrollTo === 'function') {
-            container.scrollTo({ left: finalLeft, behavior: 'smooth' });
-          } else {
-            container.scrollLeft = finalLeft;
-          }
-        } catch (err) {
-          // fallback: try element.scrollIntoView
-          try {
-            currentLi.scrollIntoView({ behavior: 'smooth', inline: 'center', block: 'nearest' });
-          } catch (e2) {
-            // give up silently
-          }
-        }
-      });
+    if (currentLi) {
+      try {
+        currentLi.scrollIntoView({ behavior: 'smooth', inline: 'center', block: 'nearest' });
+      } catch (e) {
+        // Fallback for older browsers: adjust scrollLeft to center
+        const listRect = listInner.getBoundingClientRect();
+        const btnRect = currentLi.getBoundingClientRect();
+        const offset = (btnRect.left + btnRect.right) / 2 - (listRect.left + listRect.right) / 2;
+        listInner.scrollLeft += offset;
+      }
     }
   }
 
