@@ -93,7 +93,19 @@ window.addEventListener('DOMContentLoaded', () => {
     });
     listInner.appendChild(ul);
 
-    
+    // Auto-scroll the current item into view (centered)
+    const currentLi = ul.children[current];
+    if (currentLi) {
+      try {
+        currentLi.scrollIntoView({ behavior: 'smooth', inline: 'center', block: 'nearest' });
+      } catch (e) {
+        // Fallback for older browsers: adjust scrollLeft to center
+        const listRect = listInner.getBoundingClientRect();
+        const btnRect = currentLi.getBoundingClientRect();
+        const offset = (btnRect.left + btnRect.right) / 2 - (listRect.left + listRect.right) / 2;
+        listInner.scrollLeft += offset;
+      }
+    }
   }
 
   function ensureExplainEl() {
