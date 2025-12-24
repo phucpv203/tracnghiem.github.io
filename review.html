@@ -60,60 +60,6 @@
     })();
   </script>
 
-  <script>
-    // filepath: c:\Users\Admin\Downloads\code\ly thuyet\quiz-app\script.js
-    // ...existing code...
-    // thay thế đoạn load questions (fetch) bằng logic chọn file theo môn với fallback
-
-    // load questions: lấy file từ window.QUESTIONS_FILE (set bởi review/index) hoặc localStorage
-    (function loadQuestions() {
-      const sub = window.QUIZ_SUBJECT || localStorage.getItem('quiz_subject') || 'hoahoc';
-      const fileFromWindow = window.QUESTIONS_FILE;
-      const questionsFile = fileFromWindow || `question/questions_${sub}.json`;
-
-      // // thử load file theo môn trước
-      // fetch(questionsFile)
-      //   .then(res => {
-      //     if (!res.ok) throw new Error('Not found');
-      //     return res.json();
-      //   })
-      //   .then(data => {
-      //     questions = Array.isArray(data) ? data : [];
-      //     // normalize selected
-      //     if (!selected || !Array.isArray(selected) || selected.length !== questions.length) {
-      //       selected = Array(questions.length).fill(undefined);
-      //     }
-      //     if (isNaN(current) || current < 0 || current >= questions.length) current = 0;
-      //     renderQuestion();
-      //     showResult();
-      //   })
-      //   .catch(err => {
-      //     console.warn('Không load được', questionsFile, '-> thử fallback questions.json', err);
-      //     // fallback sang questions.json ở thư mục gốc
-      //     fetch('questions.json')
-      //       .then(r => {
-      //         if (!r.ok) throw new Error('fallback not found');
-      //         return r.json();
-      //       })
-      //       .then(data => {
-      //         questions = Array.isArray(data) ? data : [];
-      //         if (!selected || !Array.isArray(selected) || selected.length !== questions.length) {
-      //           selected = Array(questions.length).fill(undefined);
-      //         }
-      //         if (isNaN(current) || current < 0 || current >= questions.length) current = 0;
-      //         renderQuestion();
-      //         showResult();
-      //       })
-      //       .catch(err2 => {
-      //         console.error('Không thể load câu hỏi ở cả hai nơi', err2);
-      //         const questionEl = document.getElementById('question');
-      //         if (questionEl) questionEl.textContent = 'Lỗi khi tải câu hỏi.';
-      //       });
-      //   });
-    })();
-    // ...existing code...
-  </script>
-
   <!-- Import script chính -->
   <script src="script.js"></script>
 </body>
